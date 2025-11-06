@@ -105,9 +105,9 @@ Kaelith's unique skills and nature make him a person of interest to several grou
 - **Risk Level**: None currently, but association with them could draw InSec attention.
 
 ### **Echo Entities (Non-Faction Threat)**
-- **Why**: Kaelith's work with relics and cores brings him into contact with Echo fragments — remnants of dead gods embedded in Catalysts. Some Echos recognize his Void magic and attempt to communicate or bargain. A few have grown obsessed with him, whispering through relics he examines.
+- **Why**: Kaelith's work with relics and cores brings him into contact with Echo fragments — remnants of dead gods embedded in Catalysts. Some Echoes recognize his Void magic and attempt to communicate or bargain. A few have grown obsessed with him, whispering through relics he examines.
 - **Current Status**: Passive but persistent. One Echo in particular, bound to a reactor core he stabilized last year, occasionally "calls" to him through resonance when he sleeps.
-- **Risk Level**: Moderate to High. Echos are unpredictable and can corrupt or possess if Kaelith lets his guard down.
+- **Risk Level**: Moderate to High. Echoes are unpredictable and can corrupt or possess if Kaelith lets his guard down.
 
 ---
 
