@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "74ba7565f444a2f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e07eede02158e10d",
+        "type": "tabs",
+        "dimension": 66.54970760233918,
+        "children": [
+          {
+            "id": "957a561b539a647f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters/Kaelith Voryn-Shai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kaelith Voryn-Shai"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d98daf370d9cba07",
+        "type": "tabs",
+        "dimension": 33.45029239766082,
+        "children": [
+          {
+            "id": "f623e8d36611ce49",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e51c3d454a6e4c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad2d4d62008ef235",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ca7ab63956fddd1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4aa5d0c1103b82bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5a31ade5314d190b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b840a73da0362524",
+    "type": "split",
+    "children": [
+      {
+        "id": "a42b28ddf4988ecf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9e523f0399d1b96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Player Characters/Kaelith Voryn-Shai.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kaelith Voryn-Shai"
+            }
+          },
+          {
+            "id": "61f42e24c3a43cdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Player Characters/Kaelith Voryn-Shai.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kaelith Voryn-Shai"
+            }
+          },
+          {
+            "id": "edc5689147c4101e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "214604141c5e090a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Player Characters/Kaelith Voryn-Shai.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kaelith Voryn-Shai"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4ca7ab63956fddd1",
+  "lastOpenFiles": [
+    "README.md",
+    "Player Characters/Kaelith Voryn-Shai.md",
+    "Campaign/Background Discussion.md",
+    "Campaign/Ternus Gm Toolkit.md",
+    "Campaign/Campaign Listing.md",
+    "Campaign/Player Primer.md",
+    "Campaign/Introduction.md",
+    "Untitled.md",
+    "Campaign",
+    "Welcome.md",
+    "Player Characters"
+  ]
+}
