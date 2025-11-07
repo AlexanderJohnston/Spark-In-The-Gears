@@ -48,46 +48,52 @@ Tessa joined the crew because they promised her one thing the clinic never had: 
 
 ---
 
-### 2. **The Void Navigator/Flame-Reader**
-*"I read the shadows, and they tell me where the real doors are."*
+### 2. **The Captain**
+*"This ship and crew are mine. We survive together or not at all."*
 
 #### **Core Concept**
-A mystic navigator who charts safe routes through the Void and reads omen-fire like weather. You see patterns others miss—shadow eddies in tram tunnels, temporal distortions in cargo bay corners, and the spaces between moments where reality is negotiable.
+A starship commander and leader who owns the vessel that keeps this crew alive. You're responsible for tactical decisions, crew coordination, and maintaining tempo in both combat and crisis situations. While others handle specific systems, you see the whole picture—directing the chaos into victory, managing resources under fire, and making the hard calls that determine whether everyone goes home.
 
-#### **Aspect Recommendation:** Void or Dream
-- **Void:** Traditional shadow-charting, sensing entropy flows, navigating impossible spaces
-- **Dream:** Precognitive visions, reading probable futures in engine-fire, detecting lies and illusions
+#### **Aspect Recommendation:** Fire or Air
+- **Fire:** Passionate, inspiring leader who burns bright and pushes the crew to peak performance through sheer force of will
+- **Air:** Quick-thinking tactician who reads battlefield flow like weather patterns, adapting strategy in real-time
 
 #### **Synergy with Kaelith**
-- **Shared Language:** Both understand Void at a fundamental level; you navigate it, he unmakes with it
-- **Tactical Partnership:** Your navigation + his entropy manipulation = getting in and out of "impossible" places
-- **Philosophical Alignment:** Both see death/endings as natural transitions rather than failures
-- **Complementary Skills:** You find the way; he clears the obstacles; together you're unstoppable infiltrators
+- **Command Structure:** You make strategic decisions; he executes with precision—clear roles prevent conflict
+- **Resource Management:** His relic expertise helps you acquire and evaluate ship upgrades and magical components
+- **Complementary Mindsets:** Your forward momentum and crew focus balance his introspective, artifact-centered approach
+- **Tactical Advantage:** You control positioning and tempo; he provides devastating magical firepower when you need it
 
 #### **Pros**
-- High-value skill set—every crew needs a navigator who can read shadow-lanes
-- Mystical knowledge makes you indispensable (faction syndicates pay well for charts)
-- Natural scout/infiltrator role—you sense danger before it arrives
-- Poetic, atmospheric character moments (reading omens, prophetic dreams, "the fire says...")
-- Avoid fights by taking paths enemies can't follow
+- Own a starship from the start—immediate mobility, home base, and tactical advantage
+- Natural party leader role with mechanical support for coordinating allies
+- Versatile skillset: negotiation, warfare, navigation, and crew management
+- Control tempo in combat and social encounters—you set the pace
+- Strong faction negotiating position—you're a ship captain, not hired muscle
+- Meaningful command decisions create dramatic tension and agency
 
 #### **Cons**
-- Potentially isolating—spending too long in the Void changes you
-- Cryptic communication style can frustrate direct-action players
-- Requires GM to provide meaningful omen/prophecy content
-- Risk of "madness" mechanics or spark-sickness from Void exposure
-- Less mechanically useful in straightforward combat encounters
+- Heavy responsibility—crew deaths and ship damage are on your shoulders
+- Resource management required—fuel, repairs, crew pay all come from your budget
+- Target for larger threats—ship ownership makes you valuable prey for pirates and authorities
+- Less direct combat power compared to specialized damage-dealers
+- Requires good communication and leadership from player, not just character
+- Ship maintenance/upkeep can consume downtime that others use for personal projects
 
-#### **Example Backstory: Iyara "Echo" Moth**
-Iyara was born during a Void incursion—a spatial eddy that trapped her mother's transport between realities for six hours. When they emerged, the baby was breathing but her eyes reflected nothing. The doctors called her blind. Iyara called it "seeing differently."
+#### **Example Backstory: Rynn "Ironhull" Thrace**
+Rynn inherited the *Ashfall Runner* the same week she buried her father—a mid-weight freighter with more debts than working systems and a reputation in three sectors for late deliveries. She was twenty-two, freshly graduated from Ternus Shipwright Academy with honors she couldn't afford to frame, and she'd never captained anything larger than a shuttle.
 
-She grew up sensing shapes in shadows, hearing whispers in static, feeling the texture of time like worn cloth. The Void Nav Syndicates found her at fourteen, recognizing what her parents could not—she was a natural flame-reader, one who could chart shadow-lanes without instruments.
+The creditors gave her sixty days before repossession.
 
-For a decade she worked syndicate contracts, mapping "ghost routes" through the underhive where auditors' wands went haywire and InSec patrols never quite arrived. She earned the name "Echo" because she could predict events minutes before they happened, her warnings arriving like echoes traveling backward through time.
+She spent those first weeks learning that a ship isn't metal and engines—it's the people who keep it running. Old Garrett taught her that a good engineer can resurrect dead systems with spit and prayer. The gunner, Vex, showed her that loyalty is earned in moments when you choose your crew over the contract. And the night she talked down a Procurement Bureau inspector with nothing but nerve and her father's old captain's seal, she learned that authority is nine parts confidence and one part backing it up when it counts.
 
-Then she charted a route that shouldn't exist—a stable corridor into the old reactor district, sealed since the Godswar. Inside, she found machinery that sang in harmony with the Void, whispering promises of power to anyone willing to listen. She fled, but the whispers followed.
+Five years later, the *Ashfall Runner* still isn't pretty—hull plating patched three times over, engines that whine in ways the manual doesn't mention, and a reactor that requires daily sacrifices to whatever god of machinery pretends to listen. But she's paid off, she's theirs, and she's fast when she needs to be.
 
-Now she charts for the crew, seeking answers about the machinery she found and the voices that still call her name in the spaces between shifts. The Syndicates want her maps; the Catalyst Authority wants her silenced; and the whispers want her to come back.
+Rynn's learned the hard way that captaining isn't about being the best fighter, the smartest navigator, or the most powerful mage. It's about keeping everyone alive when the plan falls apart, which happens approximately every third job. It's about making the call to run when pride says fight, and making the call to fight when fear says run. It's about knowing when to override your crew's objections and when to trust their expertise over your instincts.
+
+The block needs spark. The crew needs work. And Rynn needs this heist to go better than the last three times someone said "trust me, nothing will go wrong." She'll coordinate the operation, manage the crew, and somehow get everyone home in one piece. Again.
+
+She's good at it. Most days, she even makes it look easy.
 
 ---
 
@@ -97,8 +103,8 @@ Now she charts for the crew, seeking answers about the machinery she found and t
 #### **Core Concept**
 A tough, pragmatic dockworker who protects the union, breaks scab strikes, and turns starship hulls into weapons when negotiations fail. You're the muscle with a conscience—fighting for fair wages, safe shifts, and the folks who keep Ternus running while the Confederacy ships profits off-world.
 
-#### **Aspect Recommendation:** Earth/Nature or Fire
-- **Earth:** Immovable defender, union rock, the one who stands firm when everyone else runs
+#### **Aspect Recommendation:** Earth or Fire
+- **Earth:** Immovable defender, union rock, the one who stands firm when everyone else runs, commanding stone and earth
 - **Fire:** Passionate revolutionary, forge-worker turned fighter, burning bright against injustice
 
 #### **Synergy with Kaelith**
@@ -140,15 +146,15 @@ Now she's the shield the crew didn't know they needed. She takes the hits, holds
 #### **Core Concept**
 A former Catalyst Authority enforcer who measured spark rations, flagged "irregular" individuals, and denied charges with a signature. You had power, authority, and the trust of a system that used you to maintain scarcity. Then you learned what they do with the spark they claim is "rationed for safety."
 
-#### **Aspect Recommendation:** Light or Spirit
-- **Light:** Illuminating truth, exposing corruption, literally seeing through lies and bureaucratic shadows
+#### **Aspect Recommendation:** Life or Spirit
+- **Life:** Illuminating truth with life-light, exposing corruption, healing those harmed by the system
 - **Spirit:** Reading souls/intentions with your wand, detecting spark-sickness, understanding the consciousness within catalysts
 
 #### **Synergy with Kaelith**
 - **Investigative Partnership:** He understands ancient magic; you understand modern exploitation of it
 - **Access Combination:** His relic knowledge + your bureaucratic clearances = infiltrating anywhere
 - **Moral Contrast:** He's accepted exile and loss; you're actively betraying everything you were trained to uphold
-- **Complementary Magic:** His Void/Fire destruction + your Light/Spirit revelation = exposing and eliminating corruption
+- **Complementary Magic:** His Void/Fire destruction + your Life/Spirit revelation = exposing and eliminating corruption
 
 #### **Pros**
 - Unique insider knowledge of Catalyst Authority protocols and vulnerabilities
@@ -291,7 +297,7 @@ Because sometimes, they talked back.
 
 ### Best Synergy Options
 1. **Soulsmith Medic** — Complements Kaelith's destroyer role with rebuilder/healer, opposite philosophy creates great character moments
-2. **Void Navigator** — Shares magical language with Kaelith, creates expert infiltration team, philosophically aligned
+2. **Captain** — Provides leadership and strategic coordination that Kaelith lacks, owns the crew's starship, sets tactical tempo while he executes precision strikes
 3. **Union Enforcer** — Provides everything Kaelith lacks: direct action, social connection, physical defense, moral clarity
 
 ---
@@ -302,7 +308,7 @@ Because sometimes, they talked back.
 
 **Power Dynamics:** Every character in this campaign navigates the question "What do you do when you have power in a system of scarcity?" Choose an archetype that gives you interesting answers:
 - Soulsmith: Break rules to save lives
-- Navigator: Know secrets, choose who learns them
+- Captain: Command power directing crew survival
 - Enforcer: Physical power protecting the powerless
 - Auditor: Authority power turned against corrupt system
 - Krox Liaison: Economic power exposing exploitation
@@ -367,11 +373,11 @@ Choose a character who can navigate all three. Pure grimdark or pure optimism wi
 - Technical challenges (healing + engineering)
 - "Break the rules to save lives" gameplay
 
-**Choose Void Navigator if you want:**
-- Mystical/precognitive character moments
-- Exploration and infiltration focus
-- Shared magical expertise with Kaelith
-- "I see what others don't" gameplay
+**Choose Captain if you want:**
+- Leadership and tactical command role
+- Own a starship from the start
+- Tempo control and strategic decision-making
+- "Coordinate the crew and survive together" gameplay
 
 **Choose Union Enforcer if you want:**
 - Straightforward combat tank role
