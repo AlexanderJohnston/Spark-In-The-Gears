@@ -1,0 +1,2645 @@
+broadcast. Our planet has passed the Roche point.
+Every child can tell you what that means now. The first
+signs are clear. You can look out your window, and see
+chunks of rock torn loose from the pavement, ripped
+into the void by titanic gravitational forces. Our entire
+world is dissolving into asteroids and debris, which will
+be swallowed by the sun. Our only hope is fleeing our
+world.
+But where can we go? The sector is a cold place, and
+no world could possibly take in so many refugees.
+And how would we even get them off world? Transports
+have been working at capacity, but less than 4% of our
+population has been saved thus far. The gravitational
+fluctuations makes it difficult, and the asteroids will
+make any space flight perilous. Within a week those
+still trapped will be past saving.
+“... Seven months ago Kemet was a thriving world
+with four billion citizens. Then the comet came.
+Our scientists realized it would trigger an extinction
+level event, and each day it grew larger in the sky.
+A call went out to our allies in the sector. Mages
+and scientists and Wyrms came, each pooling their
+abilities. Their magics diverted the comet’s course,
+though it was a near thing. We rejoiced. For a time.
+The comet’s damage wasn’t visible at first, but it
+soon became evident that our world was doomed. The
+comet had altered our orbit, sending us in a spiral
+toward the sun. We’ve all seen the simulation they’ve
+WHAT THE GAME IS ABOUT
+Guest Customer (Order #50021028)
+02
+create healers. Void Catalysts create battle mages.
+Dream Catalysts create illusionists. All are potent in
+their own way, and galactic empires have risen and
+fallen to control them. The brave and the foolhardy
+journey to remote nebulas in search of power. Most
+find death. The survivors, though, may one day become
+gods themselves -- if they pillage enough magic.
+The Magitech Chronicles RPG allows you to
+play a character in this chaotic universe. You can be
+one of the mages to claim power from dead gods. Maybe
+you’re a tech mage who relies on a suit of sophisticated
+spellarmor to protect you from supernatural horrors.
+Perhaps you’re a war mage who channels spells
+through your blade, or a spellsniper picking off oppo-
+nents from the shadows. The possibilities are endless.
+I have accepted that I will not make it of myself,
+though I still go to the spaceport each morning in the
+hopes that a vessel will take me. I have nothing to
+offer. I cannot fight. I am no mage, or mercenary. So I
+will die, forgotten. Void willing, you escape my fate...”
+-- Unknown
+The Magitech Chronicles takes place in a
+vast galaxy where magic exists alongside technology.
+Some worlds, like ancient Terra, lacked magic but
+made do by harnessing their environment. Others
+were blessed with a Catalyst -- the body of a god who
+died during the Godswar. Catalysts are pure magic,
+and come in one or more aspects. These aspects
+determine which powers they grant mages, and those
+powers shape their surrounding cultures. Life Catalysts
+Guest Customer (Order #50021028)
+BASIC MECHANICS & CONCEPTS
+ART BY: TOM EDWARDS
+03
+A powerful character may visit a dozen sites of
+power, stealing a bit of magic from each. This magic
+also extends your life, and if you steal enough you
+may just become a god yourself.
+Many adventures will center around a specific
+catalyst, and visiting one can be a massive, and very
+lethal undertaking. Even the act of taking magic can
+kill you, if you are not careful.
+Each Catalyst corresponds to one or more aspects
+of magic, drawn from the legendary Circle of Eight.
+You can learn more about that in the magic section,
+but the takeaway is that during character creation
+you will get to choose the type of magic you begin
+play with, and that choice will dramatically influence
+your character’s abilities.
+Want your Spellsniper to be a healer? Might be aw-
+fully handy to heal from a rooftop thirty meters up.
+The Magitech Chronicles follows in the foot-
+steps of many great roleplaying games, and utilizes
+mechanics similar to games you may already be famil-
+iar with. Below you’ll find an overview of important
+concepts and systems. Our basic design philosophy
+is all about simplicity. We’ve endeavored to create a
+lightweight rules set that is easy for both players and
+GMs to understand, while still being robust enough to
+allow players to endlessly customize their characters.
+CATALYSTS - THE BIG HOOK
+The Magitech Chronicles is set in the wake
+of the Godswar, and dead gods litter the galaxy. Your
+characters can gain power by visiting those Catalysts,
+and stealing a piece of the magic contained in that
+god’s corpse. This can be anything from the moon-
+sized Skull of Xal, to the sacred pool of life under the
+Great Tree on Shaya.
+Guest Customer (Order #50021028)
+04
+DT 1 = A simple task. Simple computer research, or a
+basic knowledge check.
+DT 2 = A moderately difficult task requiring concen-
+tration. Basic coding, or repairing a device.
+DT 3 = A difficult task that most people will fail.
+Disarming a bomb on a timer. Convincing an enemy to
+help you.
+DT 4 = Something many people consider impossible.
+Piloting a shuttle with no engines through re-entry, and
+landing.
+DT 5 = Why are you even trying to do this?
+Characters may gain an edge through a variety of
+means. If they have an edge they gain +2 successes for
+that action. Gaining edge through multiple sources
+does not stack, and some abilities will nullify edge.
+Characters gain favor dice when they describe their
+actions in a way that adds to the narrative. The GM
+may choose to award between 1-3 favor dice to any
+roll if they approve of the character’s description.
+These bonuses stack with edge. Characters are
+encouraged not to try to game this system, and GMs
+are encouraged to hold their ground if players are
+fishing for dice.
+Maybe you’d prefer dream, so you can put targets
+into a deep slumber without killing them. Maybe
+you’re a straight assassin, and disintegrating your
+target’s face with a void bolt is more your style.
+You get to choose.
+Whenever a character needs to make an attack, use
+a skill, or take almost any other actions they will have
+to roll to determine if they succeed. This is handled as
+follows:
+• GM sets a difficulty threshold (or DT)
+• Player rolls a number of d6s equal to the
+Attribute + Skill
+• If Skill is a Mastery, all 4, 5, and 6s count as a
+success.
+• If Skill is not a Mastery, all 5, and 6s count as a
+success.
+• Compare total successes to DT. If the total
+successes are less than the DT, the action fails.
+• If the action succeeds, all successes past the DT
+are added to damage or effect.
+For example, let’s say Aran is trying to pilot a
+heavily damaged spellfighter before it crashes into a
+mountainside. The GM sets a difficulty threshold (DT) of
+3. Aran rolls Agility + Pilot (11) d6s. Piloting is NOT a
+mastery, so he only counts the 5s and 6s. He gets four
+successes. The action succeeds with one extra. In
+combat that extra success adds directly to damage, and
+some spells or abilities will trigger additional effects if
+you beat the DT by a certain number of successes.
+THE BASIC SYSTEM
+DIFFICULTY THRESHOLDS
+EDGE
+FAVOR
+Guest Customer (Order #50021028)
+05
+• Gain an edge and remove all negative modifiers
+to one roll.
+Characters do not need to purchase a flaw if they
+do not wish to, but if they do not then they may not
+earn luck. GMs are the ultimate arbiters of whether or
+not the player earns a luck, and can decide how stingy
+they want to be based on how much luck they want
+in their games. The flaws system exists to incentivize
+people into picking disadvantages that are actual
+flaws and not flaws in name only. Flaws are further
+cover in the Perks and Flaws section.
+Luck is a very special system in that the only way to
+gain it is through using your character’s Flaw. Each time
+your character voluntarily suffers from their flaw in a
+way that negatively impacts them they qualify for a luck
+point. Characters may spend luck in any of the following
+ways:
+• Reroll any roll.
+• Cause an opponent to reroll.
+• Automatically avoid a single attack.
+LUCK & FLAWS
+Guest Customer (Order #50021028)
+ART BY: TOM EDWARDS
+06
+• True Mage (Relic Hunter, Artificer, Illusionist,
+Flame Reader, Eradicator, Summoner, Shaman,
+Necromancer, Healer)
+• Dedicate (Paladin, Soulcatcher)
+• Scoundrel (Larcenist, Spellsniper)
+• Warrior (War Mage, Tech Mage)
+• Mercenary (Captain, Mage Killer)
+• All attributes start at 2
+• Character has 5 points to spend
+• No attribute higher than 5
+Each player (exc. the Game Master) creates a character
+to represent themselves in the Magitech Chronicles
+universe. Below you will find an overview of the rules.
+Comments are enabled on our website, so please feel
+free to leave feedback!
+• Drifter: (+1 Fort, +1 Agi, Cast Iron Stomach)
+• Human: (+1 Any, +1 Skepticism)
+• Shayan: (+1 Appearance, +1 Reason, +1 Spell
+Pool, Delayed Aging)
+• Hatchling: (+2 Armor, +1 Fort, Breath Attack)
+CHARACTER CREATION OVERVIEW
+STEP 1 - CHOOSE A RACE
+STEP 2 - CHOOSE AN ARCHETYPE & PATH
+STEP 3 - ASSIGN ATTRIBUTES
+Guest Customer (Order #50021028)
+07
+• Distribute 3 points between Brace, Skepticism, &
+Dodge.
+• Brace cannot be higher than fortitude. Skepti-
+cism cannot be higher than will. Dodge cannot
+be higher than agility.
+• Hit points = (fort x 5) + archetype bonus
+• Spell pool = (will x 3) + archetype bonus
+• Determine amount of starting currency from
+your Archetype.
+• Purchase armor, a weapon, or any extra equip-
+ment your character would possess.
+That’s it! Complete the steps above and you’re ready
+to rock. Let’s jump into races.
+• All characters except mercenaries are awarded
+one Catalyzation
+• Pick spells from the lists unlocked by your Path,
+Archetype, or Catalyzation.
+• Record the base skills awarded by your Class.
+• Distribute 5 points between your skills, with no
+skill going higher than 3. New skills may be
+purchased by spending a single point.
+• All characters gain one mastery. This may be
+assigned to any skill, but we highly recommend
+you select an active skill (Ranged, Melee,
+Unarmed, Spellcasting).
+• Select any number of perks.
+• Select a corresponding number of flaws to bal-
+ance your perks. All perks must be balanced by
+a flaw.
+STEP 4 - SELECT CATALYZATION
+STEP 5 - SELECT SPELLS
+STEP 6 - ASSIGN SKILL POINTS & MASTERY
+STEP 7 - SELECT PERKS & FLAWS
+STEP 8 - PURCHASE DEFENSIVES
+STEP 9 - CALCULATE HIT POINTS & SPELL POOL
+STEP 10 - PURCHASE EQUIPMENT
+Guest Customer (Order #50021028)
+ART BY: TOM EDWARDS
+08
+• Attributes: +1 Fortitude, +1 Agility
+• Racial Abilities: Cast Iron Stomach (immune to
+poisons, and suffer no penalties from alcohol)
+Drifters are tough little fookers that speak in rapid,
+unintelligible gibberish, that has its roots in Irish
+Cockney all the way back on ancient Terra. Their
+biggest passion in life is crafting beer, but not just any
+beer. Drifter beer is famous as a medium for potions,
+and can contain anything from healing potions to
+counterspells. And yes, it still gets you drunk. Drifters
+are much shorter than either humans or Shayans, and
+are often underestimated as a result.
+Character creation begins by selecting a race. Only
+four are presented here, but dozens of races populate
+the sector. Some, like the mysterious Eleph, keep to the
+fringes and avoid interaction. Others, like the draconic
+Krox, are only seen when their invasion fleets darken
+the skies of your homeworld.
+Below you’ll find the races available to players. Each
+provides a bonus to an attribute and / or skill, and note
+that this can raise attributes higher than 5.
+CHOOSE A RACE
+STEP 1:
+DRIFTER
+Guest Customer (Order #50021028)
+09
+disdain for other civilizations, which is well earned.
+Until recently they possessed the most powerful navy
+in the sector.
+• Attributes: +2 Armor, +1 Fortitude
+• Racial Abilities: Breath Weapon
+Hatchlings are the offspring of Wyrms who have yet
+to undergo their first molting, which occurs around
+their centennial. They are bipedal, highly intelligent,
+and much longer lived than most races in the sector.
+Most hatchlings hail from Virkon and are air aspected.
+A few Krox have left their people to wander the
+galaxy, but those often hide their ancestry to avoid
+persecution.
+It’s important to note that at one time the entire
+galaxy was ruled by the dragonflights, and that many
+remnants of their rule are still out there. All eight
+aspects of hatchlings are available for play, and a
+character can choose the one they’re most interested in
+without needing to worry about fitting in. For example,
+the planet Kemet has all eight types of hatchling in
+abundance, and there are many other worlds where
+this is true.
+A hatchling’s breath weapon matches the hatchling’s
+aspect, and makes a ranged + agility attack that does
+5 damage in a 10 meter cone, resisted by an opponent’s
+skepticism. This ability can only be used once per scene
+/ hour depending on how closely the gamemaster is
+tracking time.
+• Attributes: +1 to an attribute of choice, +1 Skep-
+ticism.
+• Racial Abilities: NA
+Humans are the most populous race in the sector,
+and have founded many colonies. The largest all
+belong to the Ternus Territory, which claims to be a
+colony of ancient Terra, though some scholars dispute
+the veracity of this claim. Humans are adaptable, and
+often straddle the technological and magical worlds.
+Human’s skepticism bonus does not count toward
+their maximum.
+• Attributes: +1 Reason, +1 Appearance, +1 Spell
+Pool
+• Racial Abilities: Does not age normally
+Shayans are increasingly rare in the sector, but still
+control a disproportionate amount of the power.
+They are super-humanly beautiful, and do not age
+past maturity in the same way as humans. They will
+maintain their appearance indefinitely, so long as they
+are able to regularly ingest magic. Doing so causes
+their eyes to glow, and many Shayans do not eat in
+public as a result.
+Shayans have a larger spell pool than equivalent
+races, and are known for their superior intellects. They
+are also known for their immense egos, and utter
+HUMAN
+SHAYAN
+HATCHLING
+Guest Customer (Order #50021028)
+ART BY: DENNIS FROHLICH
+10
+Select one of following basic archetypes.
+True Mages gather and apply knowledge, but they
+are best known for their mastery of the greater paths
+of magic. Only true mages can access their potent
+spells.
+Dedicates all worship a god, catalyst or demigod, for
+which their deity grants them miracles.
+Scoundrels facilitate trade and communication,
+where trade means theft, and communication means a
+void bolt to the back of the head from a hundred
+meters away. Their methods are often suspect, but no
+Once you’ve selected your race you will need to
+choose an Archetype that determines your base skills,
+abilities, and hit points. Each archetype has strengths
+and weaknesses, and they’re designed to work well
+with the other archetypes.
+Each archetype contains Paths, which build upon
+the selected archetype. Choose one that reflects the
+type of character you want to play. For example, all
+Warriors (an archetype) get melee at 3, but only the
+Path of the War Mage (one of the paths) grants the
+spell parry ability. Conversely, only the Path of the
+Tech Mage will allow a character to begin play owning
+spellarmor.
+ARCHETYPES & PATHS
+STEP 2:
+ARCHETYPES
+Guest Customer (Order #50021028)
+11
+Mercenaries compensate for their lack of magic
+through superior firepower and technology. They are
+all tough, adaptable, and well equipped. Mercs begin
+play with a cyberharness that allows the use of
+modular implants.
+DEDICATE:
+• Paladin
+• Soulcatcher
+SCOUNDREL:
+• Spellsniper
+• Larcenist
+WARRIOR:
+• War Mage
+• Tech Mage
+MERCENARY:
+• Captain
+• Mage Killer
+Warriors are the front-line soldiers and pilots who
+represent every power in the sector. They all share a
+common toughness and lethality, though their
+methods differ.
+Select one of the paths under your chosen archetype.
+Most of your character’s abilities will be tied directly
+to this choice, so choose carefully.
+TRUE MAGE:
+• Relic Hunter (Archeologist)
+• Specialist (Choose from Artificer, Illusionist,
+Flame Reader, Eradicator, Summoner, Necro-
+mancer, Shaman, Healer)
+the mage selects adjacent aspects they may unlock the
+corresponding greater path. All True Mages begin play
+with 3 spells selected from the aspects or greater paths
+that they know. See Magic & the Circle of Eight for details.
+All Paths in the true mage archetype share a love of
+knowledge. Most students have spent many years in a
+classroom, whether that was on a Ternus starship, or at
+an Inuran manaforge.
+True Mages strive to obtain mastery of a greater path
+of magic, which requires them to possess two adjacent
+aspects (see the Magic & the Circle of Eight chapter for
+details). This allows access to powerful spells that no
+other archetype may use. All true mages begin play with
+a 2nd catalyzation, which offers a huge advantage. If
+• Catalyzations: 2
+• Spell Pool: 3
+• Hit Points: 10
+• Initiative: 0
+SKILLS:
+• Spellcasting: 3
+• History and Lore: 2
+• Arcana: 2
+PATHS
+Guest Customer (Order #50021028)
+12
+Upon graduation all Relic Hunters are imbued with
+ritual sorcery designed to aid their endeavors. The
+magic allows them to translate any language, either
+written or verbal, instantly as if it were their native
+tongue.
+Relic Hunters are much more proficient at utilizing
+magical equipment than their fellow mages. They gain
+an edge whenever casting a spell or making an attack
+through a device such as a spellstaff, spellpistol, or
+spellrifle.
+Every nation in the sector relies on either magic or
+technology to maintain their strength. That strength
+is built and maintained by Artificers, the magical
+engineers that construct everything from spellrifles
+to mecha. Artificers are trained to understand all
+magical devices and all technology. Many excel at
+melding the two together, and can create a variety of
+bombs, weaponry, and armor.
+Mages of all types absolutely love Artificers, and
+have been known to go as far as polishing their tools
+in an attempt to curry favor. It pays to be friends with
+someone who can build you a suit of spellarmor, or
+enchant your spellblade with a flaming aura.
+The Artificer receives the artificing skill as a
+Mastery.
+Archeologists were once considered stuffy academics
+right up until humanity discovered magic. It quickly
+became apparent that dozens of galactic civilizations
+spanning millions of years have criss-crossed our
+sector of the galaxy. Understanding those civilizations
+allows Relic Hunters, the modern archeologist, to
+harness powerful artifacts, and to discover new Cata-
+lysts. Their primary objective is finding and recovering
+ancient magics and technologies, whether for their
+own profit or to benefit their patron university.
+Universities function much like sports teams, and
+competition between them is fierce. The term arche-
+ologist has fallen out of favor, and been replaced by
+the much more glamorous Relic Hunter. Freelance
+Relic Hunters are universally looked down upon… until
+they make a big score. Then universities clamor to
+recruit them, but of course ask a generous ‘donation’
+from their recent haul.
+Unlike many paths, Relic Hunters do not require any
+specific aspect or path of magic, and can specialize as
+they see fit. They are generalists, and do not begin play
+with a greater path. They may be purchased with xp.
+Relic Hunters receive History & Lore, Perception, and
+Arcana as masteries making them the finest scholars
+in the sector.
+Relic Hunters gain Perception at 3.
+PATH OF THE RELIC HUNTER
+MASTERIES:
+EXTRA SKILLS:
+DECIPHER:
+TOMB ROBBER:
+MASTERIES:
+PATH OF THE ARTIFICER
+Guest Customer (Order #50021028)
+13
+Illusionists combine air and dream into fantastic
+illusions that fool the senses of their enemies. Because
+their powers allow them to alter their appearance,
+charm the weak-willed, and commit larceny most
+governments and institutions not only distrust illusion-
+ists, but have strict laws about how and when they can
+use their magic.
+Illusionists receive Stealth as a mastery.
+Illusionists gain Stealth at 3.
+Illusionists are so gifted they may sustain one illu-
+sion without pledging the necessary spell pool, and
+without concentration.
+Flame Readers combine fire and dream to peer into
+the past, the future, and to distant locales. Nothing
+is hidden from a skilled Flame Reader, and they are
+often dispatched by various governments to hunt down
+criminals, or to retrieve lost objects. Flame Readers
+are amazing investigators, and are often feared by
+the lawless.
+Artificers gain Artificing at 3.
+An artificer may spend eight hours to erect an impro-
+vised workshop, which can be used to construct weap-
+ons, armor, or other objects. This workshop requires a
+mystically imbued focus, which all artificers are
+presented with upon graduation. This focus links to an
+extra-dimensional void pocket where everything from
+machining tools to a 3D printer are stored.
+The workshop provides no bonus to craft checks, but
+reduces the time needed to construct an object by 20%.
+Most artificers spend a few hours each day in their
+workshop tinkering, and are always turning out useful
+inventions.
+Artificers are encouraged to familiarize themselves
+with the magic item creation rules.
+An artificer may invest a point from their spell pool
+into an object to improve the quality. This ability
+requires eight hours of sustained magical ritual, and
+the use of a workshop. The resulting object gains
+bonuses based on the chart below. These bonuses are
+permanent, until the mage decides to reclaim the
+magic, which requires another eight-hour ritual.
+If the mage is killed before this happens, then the
+enchantment is permanent. An artificer may invest a
+number of spell pool into an object equal to their
+magic. The bonuses stack.
+EXTRA SKILLS:
+IMPROVISED WORKSHOP:
+INVEST MAGIC:
+PATH OF THE ILLUSIONIST
+MASTERIES:
+EXTRA SKILLS:
+SUSTAIN ILLUSION:
+PATH OF THE FLAME READER
+• Armor: +1 armor
+• Weapon: +1 accuracy or +1 damage
+Guest Customer (Order #50021028)
+14
+The Eradicator reduces the cost of all destruction,
+fire, and void spells by 1.
+Summoners are a rare breed, and are often con-
+fused with necromancers or binders. Summoners are
+much, much different, however. Where a necromancer
+will bind a spirit into a corpse a summoner will open a
+fissure to the umbral depths and draw forth any
+creature with which they have a pact.
+Summoners receive Spellcasting and Negotiation as
+masteries.
+Summoners gain Negotiation at 3.
+The Summoner has a pact with a powerful creature
+that will serve and defend them when called upon.
+The Summoner may call their defender as a standard
+action, and their defender will follow any order given.
+This defender is typically part of a tribe, which has
+been either enslaved or has an alliance with a coven
+of summoners. When the defender is inevitably killed
+a new one will be assigned to fulfill the pact, and the
+summoner can always call a defender to protect
+them. Common defenders include tech demons, ifrit,
+and many types of undead. The defender’s magnitude
+may not exceed the Summoner’s magic.
+Flame Readers receive Perception and Flame Read-
+ing as masteries.
+Flame Readers gain Perception and Flame Reading
+at 3.
+Flame readers gain edge whenever attempting to
+pierce an illusion, and automatically attempt to see
+through illusions even if unaware it exists. Further, the
+flame reader is always aware when they are being
+lied to.
+Eradicators, sometimes called Battle Mages, excel
+at killing opponents en masse. They wield fire and
+void, two of the most feared aspects, and combine them
+into the greater path of destruction.
+Eradicators are the only mages capable of casting
+disintegrate, one of the deadliest and most feared
+spells in the sector since it cannot be countered.
+Eradicators receive Spellcasting and Ranged as
+masteries.
+Eradicators gain Ranged at 3.
+MASTERIES:
+EXTRA SKILLS:
+PIERCE ALL VEILS:
+PATH OF THE ERADICATOR
+MASTERIES:
+EXTRA SKILLS:
+EFFICIENT KILLER:
+PATH OF THE SUMMONER
+MASTERIES:
+EXTRA SKILLS:
+PACT OF THE DEFENDER:
+Guest Customer (Order #50021028)
+15
+The Necromancers gain Negotiation at 3.
+All Necromancers possess an animus, a shard of
+their own soul, that they may place into a receptacle.
+That receptacle can be a body they have constructed,
+or a corpse they are animating. The body requires no
+preparation, and the necromancer can will their
+animus to animate a new body, or to return, as a
+standard action.
+The animated body has a magnitude equal to the
+necromancer’s magic.
+When not animating a body the animus lives in the
+necromancer’s shadow, and is visible with a perception
+check. The animus is a reflection of the necromancer’s
+soul, and players are encouraged to be creative.
+Shamans use the greater path of protection to ward
+themselves and their allies. They share many beliefs
+and powers with their necromancer cousins, but where
+binders enslave, shamans enhance and protect. Their
+bonds with beasts and men are made willingly, though
+shamans sometimes find themselves called upon to
+force their wills on others.
+A shaman’s appearance may vary wildly from cul-
+ture to culture, but all share a reverence for nature, as
+symbolized by their connection to water. They also
+share a connection to their ancestors, symbolized by
+their use of Spirit. Together those two aspects form the
+The Summoner may make a pact with any willing
+creature. That creature may now be summoned as a
+standard action. The details of this pact are between
+the summoner and the creature making the pact, but
+most creatures will only agree if they owe a life debt,
+or greatly fear the summoner.
+One would think that Necromancers would be
+mistrusted and feared, and yet they are far more
+favorably viewed than any other binder. Most binders
+steal the will of others. They bind them, and force
+them to heinous acts. They force themselves on others,
+ruining lives, and taking what they want.
+Necromancers are known for two things. Firstly, they
+serve as conduits to the dead. Need to ask grandma
+where she buried that ring? You’re going to need a
+necro.
+The second thing is the obvious thing. Necromancers
+bind souls into the corpses of the dead, and then
+animate them. Note that the soul they are binding
+does not need to be the original, and almost never is.
+Many cultures find this practice distasteful, and it is
+often outlawed in public. Clever Necromancers keep
+their minions out of sight, and claim to be a simple
+Deathspeaker, who can communicate with their loved
+ones beyond the veil.
+Necromancers receive Spellcasting and Negotiation
+as masteries.
+MAKE PACT:
+PATH OF THE NECROMANCER
+MASTERIES:
+EXTRA SKILLS:
+ANIMUS:
+PATH OF THE SHAMAN
+Guest Customer (Order #50021028)
+16
+to dispel curses, bindings and other hostile magics.
+Healers are rarely pacifists, however, and most healers
+are perfectly capable of defending themselves.
+Healers are a rarity in the sector, and are obviously in
+high demand. Most healers choose to become doctors
+on busy stations, though some of the more curious
+occasionally become adventurers, if only to acquire
+more magic.
+greater path of protection, a powerful and often un-
+derestimated branch of study.
+Shamans receive Spellcasting and Arcana as mas-
+teries.
+Shamans gain Arcana at 3.
+A Shaman may sustain a ward without pledging pool,
+and without concentration. All the ward requires is the
+initial casting.
+A Shaman gains edge on all spellcasting checks
+made to create a ward, or to cast another defensive
+magic.
+The galaxy is full of death and destruction, but a
+Healer does what they can to mitigate such things. They
+use their command of life and water to heal allies, and
+MASTERIES:
+EXTRA SKILLS:
+SUSTAIN WARD:
+EMPOWER WARDS:
+PATH OF THE HEALER
+Healers receive Spellcasting and Medicine as
+masteries.
+Healers gain Medicine at 3.
+Healers always have edge when casting a healing or
+restorative spell.
+Healers reduce the cost of all healing spells by 1 to
+a minimum of zero.
+MASTERIES:
+EXTRA SKILLS:
+EMPOWERED HEALING:
+COMPASSIONATE HEALER:
+Guest Customer (Order #50021028)
+17
+The War Mage may choose either ranged or melee
+to become a Mastery. They also gain athletics as a
+mastery.
+When casting a spell through any spellweapon the
+spell is resolved against the target’s brace or skepti-
+cism, whichever is lower. Add the mage’s magic rating
+when resolving damage.
+Once per round a War Mage may attempt to parry
+a spell that directly targets them. They make a free
+melee + agility test with either a spellshield or spell-
+blade to parry a spell. Each success is subtracted from
+their opponent’s roll. If their enemy’s successes are
+reduced to zero, then the spell is parried. However, if
+the war mage rolls enough extra success to beat the
+target’s skepticism, then the spell is reflected back at
+the caster.
+Those who follow the Warrior archetype generally
+value martial and tactical prowess over all else. Their
+job is to make enemies dead, while avoiding the same
+fate. How that is accomplished varies from Path to
+Path, but you can be certain that if you are facing a
+warrior they are playing for keeps.
+War Mages channel magic directly through their
+bodies, and may create limited magical effects to
+supplement their impressive combat abilities. They are
+the front-line heroes that stiffen the ranks of tech
+mages, and are what many tech mages aspire to
+become.
+War Mages begin play with a spellblade or spell-
+rifle, but no additional equipment, and very limited
+resources. This represents their years studying in a
+kamiza, where they are taught to forgo physical
+possessions.
+• Catalyzations: 1
+• Spell Pool: 2
+• Hit Points: 20
+• Initiative: 3
+SKILLS:
+• Athletics: 2
+• Melee or Ranged: 3
+• Perception: 2
+PATH OF THE WAR MAGE
+MASTERIES:
+DEVASTATING STRIKE:
+SPELL RIPOSTE:
+INNATE SPELLS:
+A War Mage may channel their magic directly
+through their bodies instead of hard casting. Note that
+unless a character has spellcasting, or innate spells,
+then they cannot cast without the aid of a spellwea-
+pon or similar aid.
+Guest Customer (Order #50021028)
+18
+Almost every god, living or dead, has a religion of
+significant size. These religions require soldiers and
+priests to defend their god, and to acquire more magic
+if their god is dead and they wish to resurrect them.
+All dedicates make a covenant with their god, which
+funnels worship to the deity, but also allows the deity
+to reward them with miracles. Nearly every religion
+trains their followers in both magic and more martial
+pursuits.
+PATH OF THE TECH MAGE
+Tech Mages combine technology and magic with
+devastating effectiveness. They are generally tougher
+than War Mages, and if they are well equipped can pack
+every bit as much offense to boot. Their only downside
+is their reliance on technology, which is required for
+them to manifest their spells.
+Tech Mages begin play with their choice of a Mark V
+spellrifle, and a set of standard Mark V spellarmor. See
+the equipment chapter for details.
+MASTERIES:
+The Tech Mage may choose either Ranged or Melee
+as a mastery.
+COME GET SOME:
+Tech Mages are tough, to a fault. Some of this repu-
+tation comes from their spellarmor, which makes them
+nearly unkillable by most foes. The rest of it comes
+from this ability. All Tech Mages gain +1 Brace, Dodge,
+& Skepticism. This bonus can raise their defense over
+the normal caps.
+EFFICIENT CASTER:
+Tech Mages may reduce the cost of a spell by 1, down
+to a minimum of zero. This makes a tech mage with
+even a single remaining spell point a royal pain in the
+ass as they can take cover and deliver bolt after bolt.
+• Catalyzations: 1
+• Spell Pool: 2
+• Hit Points: 15
+• Initiative: 2
+SKILLS:
+• Ranged or Melee: 3
+• Religion: 2
+• Athletics: 2
+Guest Customer (Order #50021028)
+19
+A paladin may select a miracle from the list in the
+Gods & Divinity chapter. A player may purchase addi-
+tional miracles by spending experience.
+Paladins are highly resistant to magic, and gain 5
+points of magic resistance. In addition, an enemy mage
+may never possess an edge when casting against them.
+Paladins gain Piloting at 2 and Navigation at 2.
+Soulcatchers are revered by their own cultures, but
+despised by others.
+They are often high priests of their (usually dead)
+god’s religion. Their mission is simple. Go out into the
+sector and secure magic, then bring it back and offer it
+to their god in an effort to resurrect them. This theft
+hardly endears them to other magical powers, though
+Ternus’s general hatred of the supernatural means that
+they tolerate this practice more than most. They see
+it as cleaning up the galaxy.
+When a Soulcatcher dies, their body is returned
+home, and all the magic they’ve accumulated is gifted
+to their deity. Soulcatchers excel at finding magic,
+and are given miracles by their god that support this
+ability.
+Paladins are the holy warriors of their respective
+deities. It is their job to spread the faith, to defend their
+god’s interests, and to ensure that their worshipers
+are both protected and encouraged to continue
+worshiping.
+Paladins are fearless, implacable foes, resistant to
+magic and heavily armored against physical attacks.
+Most paladins are trained in a variety of weapons and
+magics, and are often assigned to protect a soulcatcher
+as they pursue their missions.
+Paladins begin play with a suit of Inuran Mark III
+Spellarmor, and either a spellrifle or spellblade of
+GM’s choice.
+Paladins gain Religion, and either Ranged or Melee
+as a mastery.
+A Paladin gains a Covenant with the deity or religion
+of their choice. They may select from any available,
+or work with the game master to create a custom
+Covenant.
+Prior to selecting a Covenant all Paladins are
+encouraged to read the available miracles, as the
+choice they make will determine which miracles are
+available to them.
+PATH OF THE PALADIN
+MASTERIES:
+COVENANT:
+MIRACLES:
+HEARTY:
+EXTRA SKILLS:
+PATH OF THE SOULCATCHER
+Guest Customer (Order #50021028)
+20
+Claiming a soul allows the potential for reincarna-
+tion, or even resurrection if a powerful life mage is
+involved. Claiming magic allows the character to
+consume the power of a dying soul, which grants them
+a permanent point of spell pool.
+However, breaking the phylactery frees the soul and
+removes the spell pool. A Soulcatcher may gain no more
+than twice their willpower in spellpool, and the closer
+they get to their limit the greater the longing to return
+home.
+A soulcatcher may spend an action to unleash a
+vengeful soul from a phylactery. This is accomplished
+by crushing the vial, and lasts a number of rounds equal
+to the number of successes on a magic + religion roll.
+When a soul is harvested its power level is deter-
+mined by the creature killed. This is treated as a spirit
+version of whatever the soul was in life, and gains
+the vulnerable to life flaw.
+Once per day a Soulcatcher may use any Miracle,
+even if they’ve already exhausted the uses for that day.
+Soulcatchers gain Perception at 2.
+Soulcatchers gain Religion and Perception as mas-
+teries.
+A Soulcatcher gains a covenant with the deity or
+religion of their choice. They may select from any avail-
+able, or work with the game master to create a custom
+Covenant.
+Prior to selecting a Covenant all Soulcatchers are
+encouraged to read the available miracles, as the
+choice they make will determine which miracles are
+available to them.
+A Soulcatcher may select two miracles from the list
+in the Miracles & Covenants chapter. A player may pur-
+chase additional miracles by spending experience.
+If the Soulcatcher is within 30 meters of a magically
+active creature at the time of its death, then they may
+spend their next action to capture that being’s magical
+energy or soul (not both). A soulcatcher must possess a
+phylactery to store the soul, but are usually provided an
+ample supply by their religion as this is their primary
+function.
+MASTERIES:
+COVENANT:
+MIRACLES:
+CLAIM SOUL:
+UNLEASH SOUL:
+DEEP FAITH:
+EXTRA SKILLS:
+Guest Customer (Order #50021028)
+21
+Mage Killers are cybernetically enhanced to
+increase their speed, strength, and stealth, with the
+goal of eliminating mages before they are even aware
+of the Mage Killer’s presence. Mage Killers are tough,
+but despite their name are somewhat vulnerable to
+magic, which is why it is so important to get the drop
+on their foes.
+The Mage Killer gains both melee and ranged as
+masteries.
+The Mage Killer gains Stealth 3.
+If the target is unaware of the Mage Killer, then the
+Mage Killer gains edge on all attacks for that round.
+The Mage Killer begins play with an array of cyber-
+ware. They may choose two of the following:
+• Stealth Generator: Creates a field around the
+character that bends light and muffles sound. The
+character gains edge on all stealth tests while the
+field is active.
+Not everyone is blessed with magic. In fact, most
+people possess no magic of any kind. Those people
+need to get by on their wits, which isn’t enough. Fortu-
+nately, Mercenaries cheat with a combination of state
+of the art cyberware, and the deadliest weapons they
+can get their hands on. Mercenaries are prepared for
+anything, and almost always have the right tool for
+any job.
+All Mercenaries possess a cybernetic harness, which
+is wired directly into their nervous system. This allows
+them to add various modules and cybernetic enhance-
+ments, some of which can be customized mission to
+mission.
+Mages have murdered billions, and humanity isn’t
+taking it lying down. Ternus commissioned a special
+unit designed specifically around hunting and elimi-
+nating enemy casters on the battlefield, and over the
+past two decades the program has expanded to the
+populace at large.
+• Catalyzations: 0
+• Spell Pool: 0
+• Hit Points: 20
+• Initiative: 3
+SKILLS:
+• Melee: 3
+• Ranged: 3
+• Athletics: 3
+• Perception: 2
+PATH OF THE MAGE KILLER
+MASTERIES:
+EXTRA SKILLS:
+ASSASSINATE:
+ARSENAL:
+Guest Customer (Order #50021028)
+22
+also wear brown coats for some reason. Their vessels
+require constant upkeep, fuel (unless they are lucky
+enough to possess a spelldrive and a mage), and repair
+if they are getting into combat.
+Fortunately, captains are adept pilots, skilled
+negotiators, and shrewd merchants.
+• Magic Inhibitor: The character’s skeleton is
+reinforced with an alloy that inhibits magic. This
+grants the character an unusually high resistance to
+magic, but also applies to magical healing. Increase
+the threshold of all spells targeting them by 2.
+• Cyber-senses: The character’s eyes and eardrums
+have been replaced with cybernetic systems. They
+gain edge on all perception checks, and cannot be
+caught unaware by attackers.
+• Augmented Reflexes I: The character gains +1
+agility, and +1 dodge. These bonuses may exceed
+racial maximum.
+• Augmented Strength I: The character gains +1
+strength, and +1 athletics. These bonuses may exceed
+racial maximum.
+• Reinforced Skeleton I: The character gains +1
+fortitude, and + 1 brace. These bonuses may exceed
+racial maximum.
+Mage killers begin play with a Mark VII Ternus
+Assault Rifle, 6 magazines of explosive rounds, 4 frag
+grenades, a set of environmental body armor, and a set
+of cybernetic spurs that do 4 base damage and have
+1 armor penetration.
+EQUIPMENT:
+PATH OF THE CAPTAIN
+Captains are so named because each possesses a
+vessel that they are the captain of. Most Captains are
+dead broke, and always looking for their next job. Most
+The Captain gains Piloting and Negotiation as
+masteries.
+MASTERIES:
+The Captain gains Piloting and Negotiation at 3.
+EXTRA SKILLS:
+All Captains gain a Mark III fighter, corvette, or
+freighter of their choice. This belongs to them free and
+clear, with no credits owed to any bank. Such vessels
+are extraordinarily rare, and are worth several million
+credits. They are genetically bonded to their owners,
+and nearly impossible to steal.
+PROOF OF TITLE:
+Any time a captain reaches a new port or world they
+may make an intuition check. One or more successes
+indicates that they know someone on that world with
+who they’ve had a good working relationship in the
+past.
+CONTACTS:
+Captains begin play with a Harry’s Pump Action
+Shotgun Mk V, 4 magazines of explosive rounds, and a
+set of NTM Cavalier Light body armor.
+EQUIPMENT:
+Guest Customer (Order #50021028)
+23
+Scoundrels are a catch-all for the assassins, thieves,
+and con men that call the sector home. Such characters
+may have looser morals, but are often good hearted,
+and just as necessary as their more law abiding breth-
+ren. Or so they’ll tell you anyway.
+• Catalyzations: 1
+• Spell Pool: 3
+• Hit Points: 12
+• Initiative: 3
+SKILLS:
+• Stealth: 3
+• Ranged: 2
+• Perception: 2
+Larcenists are the grease in the wheels that keeps
+the sector turning. If the party needs to meet with a
+buyer, the Larcenist is the gal that does the talking. If
+they’re buying equipment, he’s the one cutting the
+deal. Larcenists are master negotiators, with a variety
+of useful skills. They are often the leader of their
+respective groups, though more than one prefers
+avoiding such responsibility.
+Larcenists begin play with a suit of environmental
+armor, and a Mark V spellpistol. They gain an addi-
+tional 1,200 credits, which they can choose to spend
+on armor and weapons, or keep liquid.
+PATH OF THE LARCENIST
+The Larcenist gains Negotiation, Stealth, and
+Larceny as masteries.
+MASTERIES:
+EXTRA SKILLS:
+Larcenists gain Negotiation at 3 and Larceny at 3.
+DISARM DEVICE:
+A Larcenist channels their latent magical energies to
+open locks, and to disarm traps or other devices. The
+larcenist gains an edge (2 success) whenever they
+attempt one of these activities and they can magically
+improvise tools to do it.
+AURA OF DISRUPTION:
+Larcenists have a latent aura that makes it difficult
+to record their likenesses. Cameras mysteriously short
+out. Scry spells target the wrong area, a few meters
+behind the character. Something will always happen
+to ensure their image is not recorded.
+SILVER TONGUE:
+Larcenists see bullshitting as a survival skill. They
+always have edge when making Negotiation checks,
+and gain an extra die when using Negotiation to try
+to con or bluff.
+Guest Customer (Order #50021028)
+24
+PATH OF THE SPELLSNIPER
+Spellsnipers are both rare and unique. They lack the
+raw combat prowess of a War Mage, and aren’t nearly as
+well armed as Tech Mages. They make up for it in their
+niche. Spellsnipers can deliver spells at range to kill,
+charm, or incapacitate. Snipers with life magic make
+excellent long-range healers.
+The Spellsniper gains Ranged and Stealth as mas-
+teries.
+MASTERIES:
+EXTRA SKILLS:
+Spellsnipers gain Ranged at 3 and Athletics at 3.
+SNIPE:
+If the target is unaware of the Spellsniper’s location,
+then the sniper gains an edge (2 extra successes to each
+attack). This attack is made with +2 accuracy. The
+attack, whether physical or magical, hits something
+vital and does 2 additional damage. If it does multiple
+types, then all are increased.
+Note that this applies to melee attacks, so long as
+the target is unaware.
+ONE WITH SHADOW:
+Thanks to their extensive training Spellsnipers are
+both silent and nearly invisible. They gain edge when-
+ever making a stealth check, and may make a stealth
+check during combat if they break line of sight with
+their attackers.
+Guest Customer (Order #50021028)
+DETERMINE ATTRIBUTES
+STEP 3:
+ART BY: TOM EDWARDS
+25
+Once you’ve selected a race, and archetype, and a
+path, you need to assign attributes. Attributes repre-
+sent a character’s raw abilities, and are used in just
+about every other part of the game. War Mages rely
+on strength, fortitude, and agility. True Mages rely on
+will and their choice of charisma, appearance, reason,
+or intuition. Tech Mages tend to favor agility and
+fortitude.
+Attributes scale from 1 to 5 with 5 being normal
+racial maximum. Note that if your race gives you a
+bonus, this raises the maximum for that attribute as
+well.
+All attributes begin at 2, and a character has five
+points to spend. If you harass your GM this may be
+increased to seven, depending on the power level
+they’re seeking. Sorry, GMs
+• Reason
+• Intuition
+• Strength
+• Will
+• Agility
+• Appearance
+• Charisma
+• Fortitude
+ATTRIBUTE RANKS
+ATTRIBUTE LIST
+1 - TERRIBLE
+2 - AVERAGE
+3 - GIFTED
+4 - PRODIGY
+5 - PEAK HUMAN
+Guest Customer (Order #50021028)
+26
+Characters with a high reason can quickly and easi-
+ly solve problems and perform calculations.
+AGILITY:
+Agility represents both reflexes and manual dex-
+terity, and is used for the dodge defense, for ranged
+attacks, and to avoid some area-of-effect attacks.
+Agility is important to a number of skills, including
+stealth and athletics.
+APPEARANCE:
+Appearance represents a character’s overall attrac-
+tiveness. Certain Paths argue that beauty is divinity,
+and revere it when found. For this reason some mages
+use appearance to express their magic. Shockingly,
+they tend to be quite vain.
+CHARISMA:
+Charisma represents a mixture of your character’s
+force of personality and overall charm. Most social
+skills are directly tied to charisma, plus you get to be
+popular.
+FORTITUDE:
+Fortitude represents a character’s physical endur-
+ance, and forms the basis of the Brace defense. Your
+fortitude also helps to determine your character’s hit
+points. All characters get Fortitude * 5 hit points in
+addition to what their archetype grants.
+REASON:
+A character’s reason represents their raw intelli-
+gence and learning skills. The higher the reason, the
+faster and easier the character can solve problems.
+Intuition represents a character’s emotional intelli-
+gence, instincts, and their ability to read social situa-
+tions. Characters with a high intuition quickly grasp
+new concepts and adapt to new situations.
+INTUITION:
+A character’s strength represents raw muscular
+ability. How much can you lift, bro? Strength factors
+directly into melee damage, and determines what
+class of armor a character may safely use.
+STRENGTH:
+A character’s will represents their mental discipline.
+Stoic monks have a high will. Shifty gamblers who
+love to drink have a low will. Will forms your base
+Skepticism defense, which is critical against all direct
+magical attacks. Will also determines part of your
+base spell pool. All characters gain willpower *3 in
+addition to other sources.
+WILL:
+Magic gets an asterisk because it is a derived att-
+ribute. Your magic is equal to the number of catalysts
+your character has been to. For most characters that’s
+going to be 1, though True Mages begin play with 2.
+When this number rises higher than 5 your character
+will be considered a demigod. For more details see
+the Miracles & Covenants chapter.
+*MAGIC:
+Guest Customer (Order #50021028)
+SELECT CATALYZATION
+STEP 4:
+ART BY: TOM EDWARDS
+27
+most potent Catalyzation you can get.
+NOTE: You select ONE Catalyzation from the list
+below. If you pick Life Magic, for example, you may not
+also purchase Touch of Shaya.
+Only True Mages select 2, and they will choose 2
+types of magic.
+Every mage possesses powerful eldritch magic, and
+this magic ultimately originates from a god. The act of
+gaining power from a god create a Catalyzation in the
+mage, assuming they survive the process.
+Characters in The Magitech Chronicles gain
+a number of Catalyzations from their archetype. These
+represent either Catalysts that the character has been
+to, or are the result of a powerful bloodline, meaning
+that their parents or grandparents had been to a potent
+Catalyst. Your GM may either allow you to pick from
+the following list, or you may choose to simply have
+inherited the Catalyzations from a parent, and could
+be ignorant as to the true source.
+These abilities will determine which spells you have
+access to, so choose carefully! Feel free to peruse the
+spells chapter before making your final selections. In
+most cases, simply taking your aspect’s magic is the
+LIFE
+LIFE MAGIC:
+Grants access to life spells, 3 spell pool, and 3 life
+resistance. Also adds the Light Bolt spell to the mage’s
+lexicon.
+TOUCH OF SHAYA:
+The mage touches a target and heals their wounds.
+They may spend as many points from their spell pool
+as they wish, and the target heals for the amount
+spent. Also grants 3 spell pool and 3 life resistance.
+Guest Customer (Order #50021028)
+28
+some way to pierce illusions. Invisible targets gain edge
+on stealth checks involving sight. The invisibility lasts
+until cancelled, or until the mage next sleeps.
+VANITY OF SHAYA:
+The mage gains +1 appearance. They also gain 3
+spell pool, and 3 life resistance.
+AIR
+AIR MAGIC:
+Grants access to air spells, 3 spell pool, and 3 air
+resistance. Also adds the Lightning Bolt spell to the
+mage’s lexicon.
+ASCEND TO THE DRAGONFLIGHT:
+The mage gains the ability to fly at will. They gain
+a fly speed of 45 kph, and many maneuver using
+athletics + agility.
+GRACE OF VIRKONNA:
+The mage gains a permanent +1 agility. They also
+gain 3 spell pool, and 3 air resistance.
+DREAM
+DREAM MAGIC:
+Grants access to dream spells, 3 spell pool, and 3
+dream resistance. Also adds the Dream Bolt spell to
+the mage’s lexicon.
+VANISH:
+Once per day a mage may spend an action to disap-
+pear from sight. They are considered invisible, and
+cannot be directly targeted unless the perceiver has
+THE VOICE OF SHI:
+The mage gains a permanent +1 to charisma. They
+also gain 3 spell pool and 3 dream resistance.
+FIRE
+FIRE MAGIC:
+Grants access to fire spells, 3 spell pool, and 3 fire
+resistance. Also adds the Fire Bolt spell to the mage’s
+lexicon.
+PIERCE ALL VEILS:
+Once per day the mage may sear their vision with the
+flames of the unspoken mother. They gain the ability to
+pierce all illusions, and can see invisible targets. This
+lasts until cancelled, or until the sleep. For the duration
+the mage’s eyes glow with endless flame.
+STRENGTH OF VAN:
+The mage gains a +1 to strength. They also gain
+3 spell pool and 3 fire resistance.
+VOID
+VOID MAGIC:
+Grants access to void spells, 3 spell pool, and 3 void
+resistance. Also adds the Void Bolt spell to the mage’s
+lexicon.
+Guest Customer (Order #50021028)
+29
+UMBRAL JAUNT:
+Thrice per day a mage may spend an action slip
+through the umbral depths to arrive at a new location
+within 30 meters.
+XAL’S PIERCING INTELLECT:
+The mage gains a +1 reason. They also gain 3 spell
+pool and 3 void resistance.
+EARTH
+EARTH MAGIC:
+Grants access to earth spells, 3 spell pool, and 3 earth
+resistance. Also adds the Acid Bolt spell to the mage’s
+lexicon.
+THE RESOLVE OF TRAKALON:
+The mage gains a +1 fort. They also gain 3 spell pool
+and 3 earth resistance.
+GIFT OF OSMIUM:
+The mage’s skin becomes as hard as metal, granting
+3 armor and 3 earth resistance.
+SPIRIT
+SPIRIT MAGIC:
+Grants access to spirit spells, 3 spell pool, and
+3 spirit resistance. Also adds the Spirit Bolt spell
+to the mage’s lexicon.
+SIMULACRUM:
+Once per day the mage may spend an action to
+create an incorporeal double in their exact location,
+while they are transported to the spirit world. They
+may move, drink potions, or take any other action that
+does not interact with the mortal world.
+The mage returns to our realm at the end of the 3rd
+round after being cast. The mage may choose to return
+at any time before this. A single attack will destroy the
+simulacrum, but it will not reveal the mage’s presence
+in the spirit world.
+RESOLVE OF KROX:
+The mage gains a +1 will. They also gain 3 spell pool
+and 3 spirit resistance.
+WATER
+WATER MAGIC:
+Grants access to water spells, 3 spell pool, and
+3 water resistance. Also adds the Frost Bolt spell to
+the mage’s lexicon.
+MARID’S PROTECTION:
+The mage gains 5 magic resistance.
+MARID’S INTUITION:
+The mage gains +1 intuition. They also gain 3 spell
+pool and 3 water resistance.
+Guest Customer (Order #50021028)
+RECORD SPELLS
+STEP 5:
+ART BY: TAKASHI TAN
+30
+Different mages access magic differently. Some
+mages are coldly analytical, and rely on their reason to
+harness magic. Others are more intuitive, or use their
+empathy for magic itself to control it, which manifests
+through charisma. Still others rely on the the link
+between divinity and beauty to drive their magic.
+Select one of the following as your character’s magi-
+cal expression:
+From a practical standpoint, do you want to be
+charismatic, beautiful, intuitive, or logical? Your spell-
+casting will rely on this attribute, and once chosen this
+cannot be changed. Record your expression on your
+character sheet, and then move on to picking spells.
+• Intuition
+• Reason
+• Charisma
+• Appearance
+DETERMINING SPELLS:
+If your character selected any form of magic during
+character creation, then you have access to spells. The
+full list of spells is contained in the Magic & The Circle of
+Eight chapter, but the basic options are outlined here.
+BOLT SPELLS
+All aspects give the character the ability to fire a bolt
+spell. Each bolt varies slightly based on the aspect
+used, but all exist to deliver damage.
+Bolt spells can be modified to do different things,
+but this usually requires more spell pool. See the chart
+below. Note that a mage can only pay a cost equal to
+or lower than their magic attribute.
+If they have the available pool, they convert the
+spell. For example, changing a fire bolt to a fireball
+Guest Customer (Order #50021028)
+31
+fire bolt and void bolt to your character sheet. The
+specifics of these spells are found in the spells chapter.
+Next, add Manifest X where X is the aspect you have.
+All mages have the ability to manifest their aspect. Void
+mages can deepen shadow. Fire mages can manifest a
+flame. Check the spells & spellcasting chapter to find
+yours.
+If your archetype or path awards additional spells
+(like True Mage), then go to the spells chapter and
+select the relevant spells from the appropriate spell
+lists. If you have fire and void, then you may select
+spells from those lists.
+requires 2 additional spell pool, for a total of 3. Casting
+this spell requires a mage to have been to 3 Catalysts,
+and no starting character meets that requirement.
+True Mages could cast a 15-foot cone, because they
+have 2 Catalyzations.
+MODIFIER AND COST:
+• 3 square / hex cone (1)
+• 4 square / hex radius (2)
+Add the bolt spell for each aspect your character has.
+For example, if you have fire and void, then you will add
+RECORD SPELLS
+Guest Customer (Order #50021028)
+ASSIGN SKILL POINTS & MASTERY
+STEP 6:
+ART BY: TOM EDWARDS
+32
+A character’s skills represent their accumulated
+knowledge and training, and are used whenever a
+character must perform a task covered under one of
+the skills. Each archetype and path provide certain
+skills, but characters may select any skill, provided they
+have the skill points to purchase it.
+A character begins play with 5 skill points, and no
+skill begins higher than 3.
+When performing a skill check a character will roll a
+number of d6s equal to their skill rating plus the
+associated attribute. Each die with a result of 5 or
+greater counts as a success, and if the total number of
+successes equals the difficulty of the task, then it is
+a success.
+MASTERIES:
+Certain paths or archetypes grant masteries. When
+rolling a mastery, each die with a result of 4 or greater
+counts as a success.
+All characters begin play with one mastery, which
+may be spent on any skill.
+SKILL RANKS:
+1 - UNTRAINED
+2 - BASIC
+TRAINING
+3 - SKILLED
+PROFESSIONAL
+4 - VETERAN
+5 - MASTER
+Guest Customer (Order #50021028)
+33
+ACTIVE SKILLS:
+• Ranged
+• Melee
+• Unarmed
+• Spellcasting
+TECHNICAL SKILLS:
+• Warfare
+• Artificing
+• Negotiation
+• Larceny
+• Religion
+• Investigation
+• Hacking
+• Linguistics
+• Performance
+• Crafting
+• Stealth
+• Engineering
+• Piloting
+• Gunnery
+• Athletics
+• Perception
+• Arcana
+• History & Lore
+• Flame Reading
+• First Aid
+• Navigation
+SKILL DESCRIPTIONS
+ACTIVE SKILLS:
+• Ranged
+Attribute: Agility
+Covers the use of all conventional pistols, spellpistols,
+rifles, and spellrifles.
+• Melee
+Attribute: Strength
+Covers the use of all conventional melee weapons,
+including swords, axes, maces, staves, daggers, and
+anything else you can think of.
+• Spellcasting
+Attribute: VARIES (See character’s expression)
+Allows the casting of spells. Does not apply to spells
+cast through a spellrifle, spellship, etc.
+• Unarmed
+Attribute: Strength
+Allows the character to fight barehanded / unarmed.
+TECHNICAL SKILLS:
+• Engineering
+Attribute: Reason
+Allows a character to operate, troubleshoot, and design
+various types of technology.
+• Piloting
+Attribute: Agility
+Allows the user to pilot spellships and spellfighters.
+Conventional vessels also require Gunnery and Engi-
+neering to operate at peak efficiency.
+• Gunnery
+Attribute: Agility
+Allows the user to control weaponry on vehicles and
+ships. If they are a mage this includes spellcannons.
+• Athletics
+Attribute: Fortitude, Strength, or Agility
+Athletics governs running, climbing, extended physical
+activity, acrobatics, sports, or anything else a character
+needs to do that is physical in nature and not covered
+by another skill.
+Guest Customer (Order #50021028)
+34
+• Perception
+Attribute: Intuition
+Represents a character’s awareness of their surround-
+ings. Perception checks can be requested by the GM, or
+can sometimes be initiated by a player if they’re search-
+ing a specific room for a hidden safe, for example.
+• Arcana
+Attribute: Reason
+Arcana represents a character's knowledge of magic,
+magical spells, enchantments, eldimagi, and the gods
+themselves from a magical sense. Arcana rolls are of-
+ten called for whenever a character is researching or
+encountering a magical phenomena or being for the
+first time.
+• History & Lore
+Attribute: Reason
+History & Lore covers history and esoteric scientific or
+historical trivia.
+• Flame Reading
+Attribute: Charisma
+Flame reading is a form of Divination, and requires fire
+magic to use in a basic form, and both fire and dream for
+its advanced form. Using this ability allows the mage a
+glimpse of the past, present, or a possible future. The
+more successes, the more accurate and clear the vision.
+• First Aid
+Attribute: Reason
+First aid allows the treatment of basic field wounds,
+infections, and simple diseases.
+• Navigation
+Attribute: Will
+Navigation is used in both conventional and magical
+vessels, and can be called for whenever a vessel is sail-
+ing the Umbral Depths or normal space.
+• Religion
+Attribute: Intuition
+Religion teaches the prayers, history, and rituals neces-
+sary to commune with one's deity, as well as about other
+religions. Religion rolls are often required for miracles.
+• Investigation
+Attribute: Reason or Intuition
+Investigation allows characters to piece together clues
+into patterns, and is generally rolled when trying to
+solve a mystery, or interrogate a victim.
+• Negotiation
+Attribute: Charisma
+Allows the character to make deals, come to agree-
+ments, and settle disputes. Rolling well will not per-
+suade another PC, but does represent the strength of
+their oration / arguments. When trying to decide on a
+price each success beyond the DT (the opponent's nego-
+tiate check) reduces the price by 5%.
+Negotiation is a broad social skill, and will also the user
+to con, charm, bluff, or otherwise deceive someone. In
+these instances use the target's will as a DT.
+• Larceny
+Attribute: Agility
+Larceny is a pretty word for theft. This ability can be
+used to pick pockets, hack safes, or to forge documents.
+• Hacking
+Attribute: Reason
+The character is far more proficient with computers
+than the average person. Hacking can be used to infil-
+trate, modify, and control computer systems. Find a
+file might require a hacking DT 2 check, while taking
+control of a turret might require DT 3, and infiltrating
+a highly secure server might require a 4 or even a 5.
+Guest Customer (Order #50021028)
+35
+• Linguistics
+Attribute: Reason
+The character is proficient in two or more languages.
+Purchasing the skill prior to character creation grants
+one language per point. Afterwards the character may
+make a linguistics check DT 2 to learn a new language
+over a period of 2 weeks.
+Deciphering a language the character does not know
+requires reference material, and can be accomplished
+with a DT 4 linguistics check. Each week in study reduces
+the DT by 1.
+• Performance
+Attribute: Charisma, Reason, Intuition, Strength or
+Agility
+Performance is perhaps the broadest skill as it gov-
+erns any type of performance. Oration, dance, solving
+a mathematical proof before a crowd, stand up comedy,
+shooting an apple off a tree from a thousand meters,
+and picking up a hovertank could all call for you to
+roll perform.
+The attribute used depends on the performance, and
+the GM has final say. The roll is open ended, and the
+more successes rolled the better the reaction, with 5
+being the kind of performance someone only sees
+once in a lifetime.
+• Stealth
+Attribute: Agility
+Stealth is the art of remaining undetected. Any time a
+player attempts to avoid detection they are required
+to make a stealth check. Their successes become the
+DT of any perception checks made to detect them.
+• Warfare
+Attribute: Reason or Intuition
+Warfare represents tactical and strategic skill in com-
+bat. It is used to plan battles, ambushes, or entire wars.
+If two characters with warfare are in opposition, then
+each rolls and compare total successes.
+• Crafting
+Attribute: Agility or Strength
+Crafting is the physical compliment to the engineering
+skill, and allows the user to... well craft things. This is
+a multipurpose skill, and can be used from carpentry
+to gardening to anything else the GM feels a craft
+should represent.
+Note that if a character with engineering has a forge,
+then they don't need the craft skill, though many take
+it anyway.
+• Artificing
+Attribute: Reason or Intuition
+The artificing skill allows the user to build magic items,
+and to work with magical materials. A character need
+not be magically active to take the artificing skill,
+however they won't get full use of the skill without
+already having the greater path of enchanting.
+Artificing can be used with enchanting to infuse life
+into a magical item by combining 2 or more magical
+materials into a single new lifeform. See the artificing
+& magic item creation rules chapter for details.
+Guest Customer (Order #50021028)
+SELECT PERKS & FLAWS
+STEP 7:
+ART BY: TOM EDWARDS
+36
+a number of successes equal to the target number,
+plus 1.
+A character may begin play with no more than 3
+flaws, and cannot take the same perk or flaw more
+than once.”
+Characters may choose to select one or more flaws. If
+they do so, then they may select a corresponding perk
+for each flaw. Flaws are important for more than simply
+balancing perks, though.
+Each time a flaw comes into play, and the player
+successfully roleplays the flaw in a way that impacts
+their character, then they are awarded a point of luck.
+This is the only way to acquire luck, and luck is highly
+sought after.
+A point of luck may be spent to reroll any failed roll,
+or to automatically succeed at any skill roll. This
+automatic success is considered to have generated
+FLAWS
+COMMON PHYSICAL FLAWS:
+• Clumsy
+Effect: -1 Agility
+You’ve tripped over your own feet more than once, and
+it’s only a matter of time before it happens again. Any
+time your characters exhibits clumsiness in a way that
+impacts them socially or physically the GM may choose
+to award them a point of luck.
+Guest Customer (Order #50021028)
+37
+• Clueless
+Effect: -1 to perception checks
+You’re always the last to see it, if you see it at all. Any
+time your character exhibits lack of awareness in a way
+that impacts them socially or physically (walking into
+the wrong bathroom, falling into a pit they could have
+easily avoided) the GM may choose to award them a
+point of luck.
+• Skipped Leg Day
+Effect: -1 Strength
+If you’ve seen the inside of a gym it was accidental. You
+are a weakling, and struggle with basic physical tasks
+like opening jars. Any time your character is limited by
+their lack of strength the GM may choose to award them
+a point of luck.
+• Food Allergy
+Effect: -1 Fortitude
+Your character is allergic to a common type of food.
+Gluten. Lactose. Sugar. Something makes you puff up
+like a grapefruit, and any time this happens during a
+situation where your character is negatively impacted
+your GM may choose to award you a point of luck.
+• Missing Limb
+Effect:
+Your character is missing an appendage common to
+their race. Arms, legs, wings, tail, etc. If you choose an
+arm, then you cannot use items that require two hands.
+If you choose a leg your movement is reduced by 50%.
+Loss of wings removes any gliding or flight.
+COMMON SOCIAL FLAWS:
+Effect: -1 Charisma
+Your face annoys people. They don't like being around
+you, and any time this directly impacts you the GM may
+choose to award you a point of luck. You get singled out
+of crowds by law enforcement. You're denied when you
+slip the hostess a 20 for a better table.
+• Punchable Face
+Effect: -1 to all negotiation checks
+You have a general aura of douche-ness. Even if you
+don't speak, people just sort of... don't like you. Close
+friends and family overlook it, but everyone else goes
+out of their way to avoid you. Any time this directly
+impacts you the GM may decide to award you a point
+of luck.
+• Kind of a Dick
+Effect: -1 Appearance
+You're ugly in a way that offends potential mates. Drinks
+get thrown in your face, and a polite no is usually the
+best you can hope for when asking for dates.
+• Not in Anyone's League
+Effect: Your character dresses badly
+Your character always wears inappropriate clothing.
+Maybe it's the same trench coat and fedora from the
+academy. Maybe it's a uniform that is way too tight.
+Whatever your character's flair society at large doesn't
+appreciate it.
+You don't belong in most restaurants, or even most so-
+cial situations, and are often ejected or barred entry.
+• Fashion Victim
+Guest Customer (Order #50021028)
+38
+COMMON MENTAL FLAWS:
+• Untouchable
+Effect: Socially conscious people avoid you
+Whether you are a vagrant, or the child of a mass mur-
+derer, or are an ex-con, something tied to your identity
+makes you problematic for most people to deal with,
+and when they become aware of this fact they will take
+steps to distance themselves from you.
+• Math is Hard
+Effect: -1 Reason
+You ate the paint chips as a kid. Any time you are
+completely oblivious to something most people would
+easily grasp, the GM may choose to award you a point
+of luck.
+• Bit of a Crackhead
+Effect: -1 Will
+You have an addiction. It might be a drug. It might
+be manabeer. It could be video games. But you have
+something you love to engage in compulsively, and are
+more vulnerable to temptation. Any time you give in to
+that temptation, and are directly screwed as a result,
+the GM may award you a point of luck.
+• Way Too Literal
+Effect: -1 Intuition
+You have a tendency to take everything literally. Way
+too literally.
+Effect: Pick a Phobia
+Your character is deathly afraid of something. Maybe
+that's spiders. Maybe it's social situations. Whenever
+your character is confronted with this fear they react
+badly. You get to pick the phobia, and can choose
+this flaw more than once. Common examples include
+agoraphobia (open spaces), claustrophobia (enclosed
+spaces), arachniphobia (spiders).
+• P is for Phobia
+Effect: Your character steals. Often.
+Your character is always stealing things. You get to set
+the terms of your "habit", of course. Maybe you don't
+steal from friends. Maybe you do. Maybe you only steal
+from corporations, or churches, or Wyrms.
+But you definitely steal, and sometimes that means
+getting caught...
+• Kleptomaniac
+COMMON MAGIC FLAWS:
+• Void Bolt Homing Beacon
+Effect: -1 Resistance
+Your magical defenses are especially weak, and enemy
+mages know it. Good luck. Any time you put yourself in a
+situation where you might get hit by a spell your GM may
+award you a point of luck.
+Guest Customer (Order #50021028)
+39
+If your character selected any number of flaws they
+may now select an equal number of perks to balance
+them. Perks provide no special benefits for roleplaying
+them, but you should do it anyway. Or else.
+PERKS
+PHYSICAL PERKS:
+• Really Bad at This Magic Thing
+Effect: -1 Spell Pool
+Your command over magic is weaker than most mages,
+and you have one fewer maximum spell pool than you
+otherwise would. Any time you run out of spell points in
+a dangerous situation your GM may choose to award
+you a point of luck.
+• Oops. My bad.
+Effect: Technology just breaks around you
+Computers mysteriously stop functioning. The naviga-
+tion array goes out on your shuttle. Holodisplays short
+out near you. Something about you is simply incom-
+patible with most technology, and hilarity ensues.
+• Do You Even Lift?
+Effect: +1 Strength
+• Shrug It Off
+Effect: +1 Fortitude
+MENTAL PERKS:
+• Slippery Mofo
+Effect: +1 Dodge
+• Kick me in the junk. Again!
+Effect: +1 Brace
+• Built Like Crewes
+Effect: +5 Hit points
+• Walk It Off
+Effect: You heal all hit points after a night’s rest.
+• Gifted
+Effect: +1 Reason
+• Not Buying Your Bullshit
+Effect: +1 Will
+• Great Instincts
+Effect: +1 Intuition
+• Eidetic Memory
+Effect: You can remember things with photographic
+clarity.
+• Bravely Run Away
+Effect: +1 Agility
+Guest Customer (Order #50021028)
+40
+MAGICAL PERKS:
+• One More Spell
+Effect: +3 Spell Pool
+• Savant
+Effect: You know an extra spell from a list you
+already have access to.
+• Magical Security Blanket
+Effect: Choose a single eldimagus. As long as you
+have this object on your person you gain
++1 spellcasting.
+• Is that really how you’re going to cast that?
+Effect: +1 Skepticism
+SOCIAL PERKS:
+• Traffic-Stopping Ass
+Effect: +1 Appearance
+• Headmaster’s Boy
+Effect: You attended a prestigious academy on
+Shaya, and everyone knows it. This can
+open doors in many quarters.
+• King of Bullshitters
+Effect: +1 Charisma
+• Well Connected
+Effect: Your character has a single well-defined
+contact placed highly in an organization
+such as a temple / government. This can be
+purchased more than once.
+• My Dad’s Rich
+Effect: You grew up wealthy. This doesn’t confer
+any special wealth to you, but your parents
+or parent are rich, and everyone presumes
+they’ll leave their fortune to you.
+Guest Customer (Order #50021028)
+PURCHASE DEFENSIVES
+STEP 8:
+ART BY: TOM EDWARDS
+41
+Combat encounters are frequent in The Magitech
+Chronicles , and all characters begin play with set
+of defenses to represent their various strengths and
+weaknesses. A character uses their highest applicable
+defense in a given situation, unless otherwise stated
+by a perk. An attack with fewer successes than your
+applicable defense misses.
+An attack that meets or exceeds your defense results
+in a hit, and allows the attacker to calculate damage.
+In the weapon and spells section it will list a damage
+type, which corresponds to these defenses.
+Each defense begins play at 1, and a character gets
+3 points to distribute among them. No defense can be
+higher than its limiting attribute.
+INNATE DEFENSES:
+There are three different types of innate defense.
+Innate defenses are applied before an attack hits.
+Active defenses are applied after an attack hits, and
+are discussed below.
+• Brace
+Limiting Attribute: Fortitude
+Brace represents your ability to shrug off attacks. If
+you can’t dodge a punch, laughing it off is the next
+best thing. Brace is most often used against melee
+weapons, and characters with a low brace are advised
+to stay far from the front line of combat.
+• Dodge
+Limiting Attribute: Agility
+The best defense is simply not getting hit in the first
+place. Dodge represents your ability to get out of the
+way, and is used primarily against ranged attacks or
+some spells.
+Guest Customer (Order #50021028)
+42
+ACTIVE DEFENSES:
+If someone’s attack roll exceeds your relevant
+defense, then you are given a chance to apply either
+armor or resistance. Both are explained below. Any
+remaining damage is subtracted from your hit points.
+Bad things happen when those go below zero.
+• Skepticism
+Limiting Attribute: Will
+Skepticism represents your ability to resist magical
+influences. No one likes having their mind taken over,
+and the cynics among us have the best defenses. Any
+mage wishing to affect you with a spell must meet or
+exceed your skepticism in successes.
+• Armor
+Certain races (like Wyrms) possess armor. Charac-
+ters may also gain armor from various pieces of equip-
+ment, magic, or Catalyzations. Armor reduces kinetic
+and energy attacks, so five points of armor will cancel
+five points of damage from any of those sources.
+Some magic can be stopped by physical armor if it
+manifests as either a kinetic or energy attack. Other-
+wise, the spell goes against the relevant resistance
+score.
+Resistance functions as armor, but against specific
+aspects of magic. If a character is hit by a fire spell, for
+example, then either fire resistance or magic resistance
+will provide armor against that spell. If that same
+character is hit by a void spell their magic resistance
+will apply, but not the fire resistance.
+Blanket magic resistance is both more powerful
+and more rare than resistance to specific aspects.
+• Resistance
+A character’s base hit points are used to soak up any
+damage that gets past their defenses. When their hit
+points reach zero they are disabled, and if they suffer
+additional damage greater than their fortitude, then
+they die.
+Hit points are calculated as follows:
+(Fortitude x 5) + Archetype bonus
+• Hit Points
+Guest Customer (Order #50021028)
+PURCHASE EQUIPMENT
+STEP 9:
+ART BY: TOM EDWARDS
+43
+Weapons and equipment can be purchased through-
+out the sector. They range in quality and origin, but
+almost anything can be found for the right price.
+Standard characters begin play with 3,000 credits to
+their name, in addition to any awarded by their Path
+or Archetype.
+Your game master may choose to raise or lower that
+amount based on the type of game they're running.
+Light weapons are generally inexpensive, and can be
+carried easily in one hand. Both spellpistols and light
+spellblades are available at every weapon retailer, and
+quite a few fueling stations. The galaxy is a dangerous
+place, after all.
+LIGHT WEAPONS
+MARK III LASPISTOL:
+• Damage: 4 Physical
+• Accuracy: 0
+• Limit: 0
+• Range: 8
+• Ammunition: Fuel cells, 8 shots each. Charged
+fuel cells cost 50 credits.
+• Defense: Dodge
+• Cost: 300 Credits
+INURAN MARK III SPELLPISTOL:
+• Damage: Spell
+• Accuracy: 0
+• Limit: 3
+• Range: 10
+• Ammunition: Spell
+• Defense: Skepticism
+• Cost: 2,000 Credits
+Guest Customer (Order #50021028)
+44
+MARK V LASPISTOL:
+• Damage: 4 Physical
+• Accuracy: 1
+• Limit: 0
+• Range: 10
+• Ammunition: Fuel cells, 10 shots each. Charged
+fuel cells cost 50 credits.
+• Defense: Dodge
+• Cost: 500 Credits
+INURAN MARK V SPELLPISTOL:
+• Damage: Spell
+• Accuracy: 1
+• Limit: 4
+• Range: 12
+• Ammunition: Spell
+• Defense: Skepticism
+• Cost: 3,000 Credits
+MARK V LASPISTOL:
+• Damage: 4 Physical
+• Accuracy: 2
+• Limit: 0
+• Range: 10
+• Ammunition: Fuel cells, 12 shots each. Charged
+fuel cells cost 50 credits.
+• Defense: Dodge
+• Cost: 1,000 Credits
+INURAN MARK VII SPELLPISTOL:
+• Damage: Spell or 4 Physical
+• Accuracy: 2
+• Limit: 5
+• Range: 15
+• Ammunition: Spell, Standard or Armor Piercing
+• Defense: Skepticism if Spell, or dodge if
+Physical.
+• Cost: 4,000 Credits
+MARK IX LASPISTOL:
+• Damage: 5 Physical
+• Accuracy: 2
+• Limit: 0
+• Range: 12
+• Ammunition: Fuel cells, 12 shots each. Charged
+fuel cells cost 50 credits.
+• Defense: Dodge
+• Cost: 4,000 Credits
+LIGHT 1H SPELLBLADE:
+• Damage: 4 Physical + Spell
+• Accuracy: 1
+• Limit: 3
+• Range: 1
+• Defense: Brace
+• Cost: 2,500 Credits
+Guest Customer (Order #50021028)
+45
+Medium weapons are larger and heavier, and require
+a minimum 2 strength to use. Most can be used in
+either one or two hands, so if a player really wants to
+dual-wield spellrifles there’s no reason why they can’t.
+MEDIUM WEAPONS
+INURAN MARK III SPELLRIFLE:
+• Damage: 1 + Spell
+• Accuracy: 1
+• Limit: 3
+• Range: 20
+• Defense: Skepticism
+• Cost: 2,500 Credits
+INURAN MARK V SPELLRIFLE:
+• Damage: 2 + Spell
+• Accuracy: 1
+• Limit: 4
+• Range: 25
+• Ammunition: Spell
+• Defense: Skepticism
+• Cost: 3,500 Credits
+INURAN MARK VII SPELLRIFLE:
+• Damage: 3 + Spell or 6 Physical
+• Accuracy: 2
+• Limit: 5
+• Range: 30
+• Ammunition: Spell, Standard or Armor Piercing
+• Defense: Skepticism if Spell, or dodge if
+Physical.
+• Cost: 4,500 Credits
+Heavy weapons require a 3 strength to use, and are
+generally much more rare than their smaller counter-
+parts. Getting your hands on a spellcannon requires a
+well stocked weapon retailer, and availability is up to
+the GM.
+HEAVY WEAPONS
+MEDIUM 1H SPELLBLADE:
+• Damage: 6 Physical + Spell
+• Accuracy: 1
+• Limit: 4
+• Range: 1
+• Defense: Brace
+• Cost: 4,500 Credits
+LIGHT 1H SPELLSTAVE:
+• Damage: 4 Physical + Spell
+• Accuracy: 1
+• Limit: 4
+• Range: 1
+• Description: Spellstaves sacrifice damage for
+defense, and grant the user +1
+brace.
+They are a favorite weapon of
+True Mages, who seek any means
+possible of shoring up their limited
+defenses.
+• Defense: Brace
+• Cost: 4,500 Credits
+Guest Customer (Order #50021028)
+46
+INURAN MARK III SPELLCANNON:
+• Damage: 4 + Spell in a 10 meter cone
+• Accuracy: 0
+• Limit: 3
+• Range: 10
+• Ammunition: Spell
+• Defense: Skepticism
+• Cost: 3,000 Credits
+INURAN MARK V SPELLCANNON:
+• Damage: 6 + Spell in a 10 meter cone
+• Accuracy: 0
+• Limit: 4
+• Range: 12
+• Ammunition: Spell
+• Defense: Skepticism
+• Cost: 4,000 Credits
+INURAN MARK VII SPELLCANNON:
+• Damage: 10 + Spell in a 10 meter cone, or 10
+Physical in a 10 meter cone
+• Accuracy: 0
+• Limit: 5
+• Range: 15
+• Ammunition: Spell, Explosive Shells
+• Defense: Skepticism if Spell, or dodge if
+Physical
+• Cost: 9,000 Credits
+The Cavalier Body Armor line is the New Texas
+Military's most recent addition to the galactic stage.
+The NTM line is Lightweight, durable, and most
+importantly both cheap to manufacture and repair.
+It is quickly growing in popularity among mercs, who
+can quickly outfit whole units at an affordable price
+point.
+ARMOR & SHIELDS
+TWO-HANDED SPELLBLADE:
+• Damage: 10 Physical + Spell
+• Accuracy: 0
+• Limit: 4
+• Range: 2
+• Defense: Brace
+• Cost: 6,000 Credits
+GREATER SPELLSTAVE:
+• Damage: 6 Physical + Spell
+• Accuracy: 1
+• Limit: 4
+• Range: 2
+• Description: Spellstaves sacrifice damage for
+defense, and grant the user +1
+brace.
+They are a favorite weapon of
+True Mages, who seek any means
+possible of shoring up their limited
+defenses.
+• Defense: Brace
+• Cost: 4,500 Credits
+Guest Customer (Order #50021028)
+47
+NTM CAVALIER LIGHT BODY ARMOR:
+• Armor: 1
+• Resistance: 0
+• Limit: 0
+• Effects: Atmospherically contained for up to
+two hours, immunity to gas attacks.
+• Cost: 300 Credits
+NTM CAVALIER BODY ARMOR:
+• Armor: 2
+• Resistance: 0
+• Limit: 0
+• Effects: Atmospherically contained for up to
+two hours, immunity to gas attacks.
+Requires a 2 strength to wear.
+• Cost: 500 Credits
+NTM CAVALIER HEAVY BODY ARMOR:
+• Armor: 3
+• Resistance: 0
+• Limit: 0
+• Effects: Atmospherically contained for up to
+two hours, immunity to gas attacks.
+Requires a 3 strength to wear.
+• Cost: 1,200 Credits
+LIGHT SPELLSHIELD:
+• Armor: 2
+• Resistance: 1
+• Limit: 2
+• Effects: Can be used to parry spells
+• Cost: 2,000 Credits
+• Description: The user may still wield a weapon in
+their hand if a light spellshield is
+affixed to their wrist.
+MEDIUM SPELLSHIELD:
+• Armor: 3
+• Resistance: 1
+• Limit: 3
+• Effects: Can be used to parry spells
+• Cost: 3,000 Credits
+• Description: A medium spellshield must be
+wielded in the hand, and requires
+a minimum of a 2 strength to wield
+effectively.
+HEAVY SPELLSHIELD:
+• Armor: 4
+• Resistance: 2
+• Limit: 4
+• Effects: Can be used to parry spells
+• Cost: 4,000 Credits
+• Description: A heavy spellshield must be wield-
+ed in the hand, and requires a
+minimum of a 3 strength to wield
+effectively.
+Guest Customer (Order #50021028)
+48
+INURAN MARK III STANDARD SPELLARMOR:
+• Armor: 4
+• Resistance: 1
+• Limit: 2
+• Effects: +1 Strength, Atmospherically
+contained for up to two hours,
+immunity to gas attacks, provides
+4 armor and 1 magic resistance.
+• Speed: 45 kph
+• Cost: 12,000 Credits
+INURAN MARK V STANDARD SPELLARMOR:
+• Armor: 5
+• Resistance: 3
+• Limit: 3
+• Effects: +2 Strength, Atmospherically
+contained for up to two hours,
+immunity to gas attacks, provides
+5 armor and 3 magic resistance.
+1 potion loader
+• Speed: 60 kph
+• Cost: 22,000 Credits
+INURAN MARK VII STANDARD SPELLARMOR:
+• Armor: 6
+• Resistance: 4
+• Limit: 4
+• Effects: +3 Strength, Atmospherically
+contained for up to eight hours,
+immunity to gas attacks, provides
+3 potion loaders
+• Speed: 90 kph
+• Cost: 171,000 Credits
+INURAN MARK IX STANDARD SPELLARMOR:
+• Armor: 7
+• Resistance: 5
+• Limit: 5
+• Effects: +4 Strength, Atmospherically
+contained for up to eight hours,
+immunity to gas attacks,
+5 potion loaders
+• Speed: 90 kph
+• Cost: 971,000 Credits
+*Both Scout and Heavy spell armor are less fre-
+quently used, and retailers rarely stock anything but
+the premium models.
+INURAN MARK IX SCOUT SPELLARMOR:
+• Armor: 5
+• Resistance: 3
+• Limit: 5
+• Effects: +2 Strength, Atmospherically
+contained for up to eight hours,
+immunity to gas attacks,
+5 potion loaders
+• Speed: 120 kph
+• Cost: 551,000 Credits
+INURAN MARK IX HEAVY SPELLARMOR:
+• Armor: 9
+• Resistance: 6
+• Limit: 5
+• Effects: +4 Strength, Atmospherically
+contained for up to eight hours,
+immunity to gas attacks,
+5 potion loaders
+• Speed: 60 kph
+• Cost: 1,121,000 Credits
+Guest Customer (Order #50021028)
+49
+The sector is home to over a dozen major shipyards,
+and contains countless foreign vessels from other sec-
+tors. There are vehicles created during the epoch of
+the dragonflights that are still in use today.
+As a general rule nothing is ever discarded if it has a
+chassis, and if it is that means it was scrapped for parts
+for something that does have a chassis. Vehicles and
+ships are incredibly expensive, but well worth it to
+any adventurer that can afford them.
+VEHICLES
+CRAPPY ROLLER:
+• Defenses: Brace 2, Dodge 1, Pilot's Skepticism
+• Hit Points: 50
+• Armor: 5
+• Resistance: Yeah right
+• Limit: 0
+• Effects: Repels people with taste. Gets from
+point A to point B.
+• Speed: 12
+• Velocity: 2
+• Cost: 11,000 Credits
+• Description: A battered six-wheeled roller that
+isn't much to look at, and doesn't
+pack it where she counts. The
+vehicle is slow, has poor armor, and
+no redeeming qualities except that
+it beats walking.
+NTM ROLLER:
+• Defenses: Brace 3, Dodge 1, Pilot's Skepticism
+• Hit Points: 80
+• Armor: 5
+• Resistance: 0
+• Limit: 0
+• Effects: Gets from point A to point B with a
+bit of style.
+• Speed: 20
+• Velocity: 3
+• Cost: 21,000 Credits
+• Description: The NTM roller is highly sought
+after in every market, because they
+just keep working long after most
+vehicles would be scrap. They're
+not too expensive for the quality,
+though well out of reach of most
+green adventurers.
+INURAN MK III HOVERTANK:
+• Defenses: Brace 5, Dodge 2, Pilot's Skepticism
+• Hit Points: 150
+• Armor: 10
+• Resistance: 5
+• Damage: 10 + Spell, or based on ammo
+• Accuracy: 0
+• Range: 15
+• Limit: 3
+• Ammunition: Spell, Explosive Shells
+• Effects: Fits up to 3 crew.
+• Speed: 10
+• Velocity: 2
+• Cost: 450,000 Credits
+• Description: The Inuran Mk III Hovertank may be
+dated, but it is still tremendously
+effective on the battlefield. It boasts
+impressive armor, good magical
+defenses, and a standard heavy
+spellcannon.
+Guest Customer (Order #50021028)
+50
+INURAN MK V HOVERTANK:
+• Defenses: Brace 6, Dodge 3, Pilot's Skepticism
+• Hit Points: 250
+• Armor: 12
+• Resistance: 6
+• Damage: 12 + Spell, or based on ammo
+• Accuracy: 1
+• Range: 20
+• Limit: 4
+• Ammunition: Spell, Explosive Shells
+• Effects: Fits up to 4 crew.
+• Speed: 12
+• Velocity: 2
+• Cost: 750,000 Credits
+• Description: The Inuran Mk V is the Mk III's larger,
+nastier brother, and is slightly
+better in almost every way. If
+you've got the credits this is the
+finest tank in production, unless
+you ask Ternus.
+NTM MK III HOVERTANK:
+• Defenses: Brace 5, Dodge 2, Pilot's Skepticism
+• Hit Points: 250
+• Armor: 10
+• Resistance: 0
+• Damage: 15 / ammo
+• Accuracy: 2
+• Range: 30
+• Ammunition: Gauss Cannon, Explosive Shells
+• Effects: Fits up to 4 crew.
+• Speed: 12
+• Velocity: 2
+• Cost: 250,000 Credits
+• Description: The NTM Hovertank is the tech
+equivalent answer to the Inurans.
+It's not as popular, yet, but it is
+more affordable. However, the lack
+of magical defenses is a clear prob-
+lem that the New Texas Military is
+looking to solve.
+A quick note about starship movement. A click is the
+standard unit of measurement, which means whatever
+your GM says it means, but is an order of magnitude
+greater than regular combat speeds. If a ship is in at-
+mosphere, and fighting with vehicles, standard move-
+ment rules apply, but the ship's speed is tripled.
+SHIPS
+CORSAIR MK 7 SPELLFIGHTER:
+• Defenses: Brace 1, Dodge 5, Pilot's Skepticism
+• Hit Points: 50
+• Armor: 6
+• Resistance: 3
+• Damage: 12 + Spell, or based on ammo
+• Accuracy: 3
+• Range: 30
+• Limit: 4
+• Ammunition: Spell, Missiles
+• Effects: Fits up to 2 crew.
+Contains 1 spellmatrix.
+• Speed: 22
+• Velocity: 3
+• Cost: 1.25 million Credits
+• Description: The Corsair packs a punch, and is
+incredibly maneuverable, but
+cannot stand even a single direct hit
+from a large starship. They rely on
+speed and stealth to keep them-
+selves alive. Captains may select
+this vessel as their starting ship.
+Guest Customer (Order #50021028)
+51
+RUSTY FREIGHTER:
+• Defenses: Brace 3, Dodge 4,
+2 + Pilot's Skepticism
+• Hit Points: 100
+• Armor: 9
+• Resistance: 0
+• Damage: 15
+• Accuracy: 1
+• Range: 12
+• Limit: 0
+• Ammunition: Gauss Cannon, Insults
+• Effects: Fits up to 12 crew. Standard FTL
+drive and fusion reactor installed.
+• Speed: 14
+• Velocity: 3
+• Cost: 2 million Credits, Inherited
+• Description: Freighters are the backbone of the
+sector's commerce, even ones that
+lack a matrix, or the void magic
+necessary to utilize the much faster
+Umbral Depths. They bring vital
+supplies to remote stations, and are
+an excellent source of food for
+demons, undead, or worse when
+their owners blunder to Catalysts.
+Captains may select this as their
+starting ship.
+INURAN CORVETTE:
+• Defenses: Brace 4, Dodge 4,
+2 + Pilot's Skepticism
+• Hit Points: 120
+• Armor: 8
+• Resistance: 4
+• Damage: 15 + Spell
+• Accuracy: 1
+• Range: 12
+• Limit: 5
+• Ammunition: Spell
+• Effects: Fits up to 20 crew. 1 Spell matrix
+installed.
+• Speed: 16
+• Velocity: 3
+• Cost: 9 million Credits
+• Description: The Inuran corvette is the vessel of
+choice for well-to-do adventurers,
+political officials, and anyone else
+who wants a small, fast ship that can
+hold its own against any other
+vessel in its weight class.
+INURAN CRUISER:
+• Defenses: Brace 5, Dodge 3,
+2 + Pilot's Skepticism
+• Hit Points: 220
+• Armor: 10
+• Resistance: 12
+• Damage: 20 + Spell, or based on ammo
+• Accuracy: 3
+• Range: 32
+• Limit: 6
+• Ammunition: Spell, Missiles
+• Effects: Fits up to 280 crew. Contains 3
+spellmatrices.
+• Speed: 20
+• Velocity: 3
+• Cost: 120 million Credits
+• Description: Inuran Cruisers are lovingly crafted
+by the Consortium to meet the needs
+of their individual owners. Their
+decor, and internal layout, can be
+modified to fit a variety of tastes.
+The cruiser can hold its own in
+combat, while still be designed for
+comfort. They even throw in a forge
+and foundry.
+Guest Customer (Order #50021028)
+52
+CONFEDERATE DESTROYER:
+• Defenses: Brace 7, Dodge 1,
+2 + Pilot's Skepticism
+• Hit Points: 300
+• Armor: 18
+• Resistance: 9
+• Damage: 25 + Spell, or based on ammo
+• Accuracy: 2
+• Range: 30
+• Limit: 5
+• Ammunition: Spell, Missiles, Gauss Cannons
+• Effects: Fits up to 300 crew. Contains
+2 spellmatrices.
+• Speed: 15
+• Velocity: 3
+• Cost: 150 million Credits
+• Description: The Confederate Destroyers are in
+wider production than the battle-
+ships, but are still an increasingly
+rare sight. They are still in produc-
+tion at the New Texas shipyards,
+though at reduced capacity from
+the war. The destroyers have been
+asked to fill the role of carriers,
+and are being offered to privateer
+captains mostly recruited from
+retired Confederate officers.
+CONFEDERATE BATTLESHIP:
+• Defenses: Brace 9, Dodge 1,
+2 + Pilot's Skepticism
+• Hit Points: 900
+• Armor: 24
+• Resistance: 12
+• Damage: 40 + Spell, or based on ammo
+• Accuracy: 2
+• Range: 40
+• Limit: 7
+• Ammunition: Spell, Missiles, Gauss Cannons
+• Effects: Fits up to 1,200 crew. Contains 3
+spellmatrices.
+• Speed: 12
+• Velocity: 3
+• Cost: 550 million Credits
+• Description: The Confederate Battleships are a
+dying breed. Most were lost in the
+Battle of Starn, or the subsequent
+war with the Krox. Those that sur-
+vive are widely feared, and for good
+reason. They can take immense
+punishment while continuing to
+fight, and if armed with nuclear
+weapons are able to oppose entire
+enemy fleets.
+Most existing battleships are damaged, and have
+nowhere near full hit points.
+BASIC EQUIPMENT
+POCKET COMM UNIT:
+• Effects: Allows a connection to a quantum
+network, or direct communication
+to other comms. Comms can form
+networks for squads that wish to use
+them.
+• Cost: 50 - 1,200 Credits
+• Description: Pocket comms comes in all shapes
+and sizes, and are usually person-
+alized to fit the user. The more
+expensive models can broadcast
+a holographic screen, and include
+an earpiece for those without a
+harness.
+Guest Customer (Order #50021028)
+53
+MAGITECH COMM UNIT:
+• Effects: Allows a connection to a quantum
+network, or direct communication
+to other comms. Comms can form
+networks for squads that wish to use
+them. Can also receive missives.
+• Cost: 250 - 2,200 Credits
+• Description: Magitech comms also come in all
+shapes and sizes, and are person-
+alized to fit the user. The more
+expensive models can broadcast
+a holographic screen, and include
+an earpiece for those without a
+harness. The primary difference is
+their ability to receive missives.
+The vast majority of potions are crafted by Drifters,
+the shorter, more rambunctious cousins to the Shayans.
+Every Drifter clan keeps their own recipes, and take
+the brewing seriously. Almost everything they create
+is alcoholic, because if you're going to go through all
+the trouble then it sure better get you drunk.
+POTIONS & CONSUMABLES
+MANA BEER:
+• Effects: Instantly restore 3 spellpool. If more
+than 3 are consumed in an hour the
+imbiber gains the drunk condition.
+• Cost: 75 Credits
+HEALING BEER:
+• Effects: Instantly restore 10 hit points. If
+more than 3 are consumed in an
+hour the imbiber gains the drunk
+condition.
+• Cost: 100 Credits
+COUNTERSPELL POTION:
+• Effects: Allows the imbiber to roll 10 dice to
+counter target spell.
+• Cost: 150 Credits
+GREATER COUNTERSPELL POTION:
+• Effects: Provides 5 successes to counter tar-
+get spell.
+• Cost: 500 Credits
+GREATER HEALING BEER:
+• Effects: Instantly restore 30 hit points. If
+more than 2 are consumed in an
+hour the imbiber gains the drunk
+condition.
+• Cost: 400 Credits
+GREATER MANA BEER:
+• Effects: Instantly restore 15 spellpool. If
+more than 2 are consumed in an
+hour the imbiber gains the drunk
+condition.
+• Cost: 1000 Credits
+Guest Customer (Order #50021028)
+ART BY: TOM EDWARDS
+LIGHT 1H SPELLBLADE
+LASPISTOL MKIII
+LASPISTOL MKVII
+SPELLPISTOL MKV
+SPELL RIFLE MKV
+SPELL RIFLE MKVII
+SPELLSTAVE
+MEDIUM 1H SPELLBLADE
+LIGHT WEAPONS
+MEDIUM WEAPONS
+54
+Guest Customer (Order #50021028)
+ART BY: TOM EDWARDS
+Spell cannon mkv
+Spell cannon mkvII
+TWO-HANDED SPELLBLADE
+GREATER SPELLSTAVE
+MASS PRODUCED RIFLE
+MASS PRODUCED PISTOL
+SPELL DAGGER
+HEAVY WEAPONS
+OTHER WEAPONS
+55
+Guest Customer (Order #50021028)
+ART BY: TOM EDWARDS
+VEHICLES
+CRAPPY ROLLER
+NTM ROLLER
+NTM MKIII HOVERTANK
+INURAN MKIII HOVERTANK
+INURAN MKV HOVERTANK
+56
+Guest Customer (Order #50021028)
+ART BY: TOM EDWARDS
+SHIPS
+RUSTY FREIGHTER
+CONFEDERATE DESTROYER
+CONFEDERATE BATTLESHIP
+INURAN CORVETTE
+INURAN CRUISER
+57
+Guest Customer (Order #50021028)
+ART BY: TOM EDWARDS
+wrym hunter
+CONFEDERATE BATTLESHIP
+COMMAND BRIDGE
+FIGHTER HANGAR
+WEAPONS AND MUNITIONS
+CARGO BAY
+ENGINE AND MAINTENANCE
+58
+Guest Customer (Order #50021028)
+I
+A flash went off behind me, and I realized it had
+come from a window, which had disappeared into the
+equally black wall the black wall. I darted over, and
+looked for the source of the flash.
+A massive fleet combat played out over a green
+world. Starn. The pieces began to fall into place. I
+couldn't remember anything from the last few days.
+That screamed mindwipe, though I was thankful it
+hadn't been total. They could have taken everything
+up to and including my childhood, but I still had
+everything older than 72 hours.
+The ship shook violently as a staccato of pings echo-
+ed through the hull. They ended with a massive thump,
+and at first I thought we'd been boarded. Then the lights
+died, and a moment later the bars flickered out.
+Before I could celebrate my freedom the ship's gra-
+vity gave, and I tumbled into the wall outside my cell as
+the rival gravity source became dominant. My landing
+wasn't graceful, but I managed to avoid hurting myself.
+And it led to my first piece of luck. A familiar Mk IX
+spellrifle lay in a heap of weapons that had tumbled
+free. Someone must have forgotten to secure the
+locker. Odd that they'd kept the rifle near me. Either
+that meant they intended to give it back, or more likely
