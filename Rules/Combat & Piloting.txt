@@ -1,0 +1,494 @@
+BASIC COMBAT RULES
+ART BY: TOM EDWARDS
+106
+Combat is a frequent occurrence in The Magitech
+Chronicles . Frequent enough that this chapter is the
+primary reason why I chose to write my own system
+rather than adapt one of the more popular ones.
+Combat is important in an RPG, but if you aren’t
+careful it can take over your game. You can find your
+sessions devolving into fifteen minute bridge scenes
+connecting three hour combats, and that’s no fun for
+most players or GMs. At least, it isn't fun for me, or the
+people I play with.
+With that in mind we’ve created a simple combat
+system. Many areas, such as specific modifiers, are left
+up to the GM so that it can be arbitrated on the fly
+rather than spending 20 minutes hunting down a rule.
+We give you the basics, and let you take it from there.
+RUNNING COMBAT
+The Magitech Chronicles combat is broken into
+rounds, with each character acting according to their
+initiative score. Each character has two actions, though
+different powers and abilities can provide more.
+Characters with a higher initiative act first, and the
+initiative order continues sequentially until all charac-
+ters have exhausted their actions, or passed. The round
+finishes, and the next one begins, until combat ends.
+COMBAT OVERVIEW:
+1 - Roll Combat Initiative. This lasts the entire fight.
+2 - Begin with the highest initiative. The acting cha-
+racter may move, attack, sprint or use both of
+their actions in a gamemaster-approved way.
+Guest Customer (Order #50021028)
+107
+When making a roll masteries succeed on a 4, 5, or 6
+rather than the usual 5 or 6.
+3 - Proceed to the next highest character on the list,
+and repeat step 2 until you reach the end of the
+round.
+4 - Begin the next round.
+DETERMINING INITIATIVE:
+Each character’s Base Initiative is equal to their agil-
+ity + archetype bonus.
+A character’s Combat Initiative is equal to Base Ini-
+tiative + d6, and resets aInitiativet the start of each
+combat. You'll kick off combat by having all characters
+roll a d6, and the game master doing the same for the
+NPCs (non- player characters).
+INNATE DEFENSES:
+During character creation all characters purchased
+Innate Defenses, spread between Brace, Dodge, and
+Skepticism. The GM decides which defense is relevant
+against a given attack, but in general Brace blocks
+melee attacks, dodge blocks ranged, and skepticism
+resists spells.
+ACTIVE DEFENSES:
+Characters also purchased either body armor, or
+spellarmor. Some may possess a racial armor rating,
+like hatchlings. If your character possesses armor or
+resistance from any source make sure those were re-
+corded. This is where you'll be using those defenses.
+MASTERIES:
+Each character begins play with a mastery, and there
+is a high likelihood it will be applied to a combat skill.
+ACCURACY:
+Certain weapons or skills add accuracy dice. Each
+point of accuracy provides one die to the roll.
+RANGE:
+A weapon may fire up to its range attribute with
+no penalty. It may fire up to double range at a +2 DT,
+and up to triple range at a +4 DT.
+ARMOR PENETRATION:
+Certain weapons negate some or all armor. AP sub-
+tracts directly from armor, with a minimum of zero.
+MOVEMENT & SPRINTING:
+Characters may spend an action to move their agil-
+ity * 2 in squares or hexes, whichever you're using. If
+you're doing this abstractly with no combat map, then
+I usually use meters or yards.
+Characters may instead choose to sprint, which
+consumes both actions but allows them to move their
+agility * 5 in squares. Sprinting lowers brace to 0 for
+that combat round, but raises dodge by 1.
+ROLLING TO HIT:
+A character may spend an action attacking some-
+one, casting a spell, or entering the abort code to the
+freighter’s self-destruct sequence. Your GM ultimately
+decides exactly what constitutes an action, but in
+general it’s any specific task that can be solved with
+a single relevant die roll.
+Guest Customer (Order #50021028)
+108
+Let’s say that Nara cast her void bolt at a Tech
+Demon. Tech Demons come from Void catalysts, and
+often have void resistance. This one has 3 points.
+Nara’s 6 points of damage is reduced by 3, and the
+demon takes 3 points of damage. She barely scratched
+it.
+To resolve an attack, cast a spell, or use most skills a
+character rolls a number of d6 dice equal to their
+relevant skill, plus their relevant attribute.
+For example, if Aran has a 5 agility and a 4 ranged,
+then he'll roll 9 dice when casting a spell through his
+spellrifle. Each die with a result of 5 or 6 counts as a
+success.
+If their total number of successes equals their oppo-
+nent’s defense, the attack hits and damage is deter-
+mined. Each extra success increases the damage by
+one point.
+DETERMINING DAMAGE:
+Each weapon or spell has a fixed damage rating.
+This damage is applied against any relevant armor or
+resistance, and the remainder is subtracted from the
+character's hit points.
+In the example above if Aran rolled 4 successes and
+his opponent had a 2 skepticism, then Aran would do 2
+additional points of damage because he has 2 extra
+successes.
+See the spellcasting chapter for details on spellcast-
+ing, but Aran could also have increased the magnitude
+by spending more spell pool, which would have further
+raised the damage.
+APPLYING DEFENSES:
+Check the spell or attack type to determine if the
+target possesses any relevant defenses. In the case of a
+void bolt the target would need either void resistance,
+or magic resistance to reduce the damage.
+RECORDING DAMAGE:
+Let’s say our demon friend has 19 hit points. He takes
+3 so after Nara’s spell he’s got 16 remaining. Odds are
+good she’ll switch to another type of spell, like fire, so
+that she can avoid his hefty resistance on the next
+attack. Hopefully her next spell is more lethal.
+Let’s say it happens to do 16 points of damage, reduc-
+ing the demon to zero hit points. What happens?
+If a character is reduced to zero or less hit points they
+gain the downed status until someone uses a heal spell
+or first aid to stabilize them. Downed characters are
+incapacitated, unconscious, and pretty well screwed.
+If a character takes more than their fortitude in
+damage while downed, they die. Note that this does
+not apply to the attack that gives them the downed
+state. If a spell knocks them to -10 HP and they have a 3
+fortitude, then they will only die if they take 3 points
+past that attack.
+The character will not awaken until they reach 1 hit
+point.
+Guest Customer (Order #50021028)
+109
+which makes Drifter brewers very popular.
+With first aid our demon would be feeling good after
+about three days, and fully healed after four. Brutal.
+Instant healing is amazing , and everyone wants it.
+LINGERING DAMAGE:
+Some attacks inflict lingering damage. Acid will
+continue to corrode. Fire will continue to burn. Boiling
+water will continue to scald. Lingering damage has a
+countdown of sorts. On round one it does full damage,
+then one less each round until it is gone.
+For example if Briff were set ablaze from a fire bolt
+spell that inflicted 3 lingering damage he would take 3
+points immediately, then 2 points next round, then 1
+point, and then 0. High levels of lingering damage
+inflict a LOT of damage. Lingering 3 will inflict 6
+damage. Lingering 10 will inflict 55 damage before it
+expires.
+HEALING & RECOVERY:
+Let’s say that our tech demon’s body is clinging to life.
+He doesn’t have a life mage to heal him, so he has to
+heal normally. All characters gain their fortitude in hit
+points back each day. All characters also regain all
+spell points each day, assuming they got a good night's
+rest.
+This means that a character who’s ass has been
+severely handed to them can require 3 weeks of bedrest
+to get back to full hit points. Our demon has a 3 fort, so
+he’d need seven days to get the 21 hit points back unless
+he’s got a demon buddy with first aid.
+A successful check using the first aid skill doubles the
+amount of hit points recovered, but even that means 4-6
+a day for most people. This is why magical healing is
+so valuable, and why no life mage will ever lack for a
+job. Healing beers are always highly sought after, too,
+FLANKING & EDGE:
+Certain skills and abilities will award the character
+with an Edge. Edge provides +2 successes to all attacks.
+Scoundrels, for example, gain an edge whenever their
+opponents are unaware of their presence.
+Two characters working together may gain an edge
+by flanking their opponent. If a character is facing two
+or more opponents, and cannot place their back to a
+wall, then all their opponents are considered to have
+an edge.
+Note that you cannot stack edges. +2 successes is the
+maximum bonus.
+HESITATING:
+As long as it is a character's turn and they have an
+action remaining they can choose to hesitate. This
+removes them from the initiative order, and they keep
+their remaining actions. They may re-enter the initia-
+tive order at any time, and if they do so they go before
+anyone else on that initiative. That remains their new
+initiative for the remainder of that combat.
+GETTING THE DROP:
+Getting the drop is basically an ambush. If your oppo-
+nent is unaware of your presence, and you have not yet
+initiated combat, then you get the drop on them. This
+Guest Customer (Order #50021028)
+110
+others. What do you do if your group is a bunch of
+relic hunters and scoundrels? What if no one took Life
+magic?
+You can add the lesser template to the encounters.
+This template makes the monsters in the bestiary
+dramatically weaker, so your party will have a much
+easier time overcoming them. A lesser Wyrm kill still
+lets the party say they killed a dragon.
+gives you one full round of combat before your oppo-
+nent(s) can enter the initiative order. You may take
+both full actions, as may everyone on your side if the
+enemy is unaware of them when combat begins.
+SPLITTING ACTIONS:
+A character may split an action into multiple parts,
+but doing so requires them to evenly split their dice
+pool. They gain a 1 die penalty for each extra action.
+For example, if Aran wanted to attack twice with his
+nine dice, then he'd lose a die for splitting his action,
+which leaves him with 8 dice. Aran would get 4 dice for
+each attack.
+COMMON PENALTIES:
+• Reduced visibility:
+(cover)
++2 ranged difficulty
+• Blinded: +4 difficulty all attacks
+• Prone: +2 difficulty and requires
+action to stand
+• Sickened: +1 difficulty per level of
+severity
+• Beyond normal:
+range
++2 difficulty per range
+increment
+Combat is the Magitech Chronicles is designed to be
+lethal. Don't get caught outside of cover, and armor up.
+Some groups, though, are less combat proficient than
+SCALING ENCOUNTERS TO FIT YOUR PARTY
+LESSER TEMPLATE:
+• Cut hit points by 50%
+• Lower all defenses by 1, minimum 1.
+• Lower armor and resistance by 2.
+• Lower all dice pools by 3.
+Sometimes, though, your party has the opposite
+problem. What if they wreck everything you throw at
+them? What if you have nine players, and they're all
+geared for combat? Use the greater template, and add
+more demons.
+GREATER TEMPLATE:
+• Increase hit points by 50%
+• Increase all defenses by 1.
+• Raise armor and resistance by 2.
+• Raise all dice pools by 3.
+Guest Customer (Order #50021028)
+ART BY: TOM EDWARDS
+PILOTING & SPACE COMBAT
+111
+Combat happens often in The Magitech Chroni-
+cles , and much of it takes place in the void. Dragons
+brawl with starships, and you as the GM need to keep
+track of it all.
+I am a science fiction author by trade, and I had to
+decide how much actual science I wanted to use. Sim-
+plicity is the watchword of The Magitech Chroni-
+cles , but we still want fairly realistic combat.
+Here’s how space combat differs from regular
+combat:
+VELOCITY
+All ships have a velocity rating. Each turn a pilot may
+spend an action to increase or decrease velocity by 1.
+Speeding up and slowing down takes concentration if
+you›re a mage, physical effort if you›re a Wyrm, and
+fuel if you’re in a conventional starship.
+Most vessels have a velocity of 3. Each time they raise
+their speed they multiply the velocity times the speed.
+If a vessel can move 10, and a pilot spends both of their
+actions to accelerate to velocity 3, then they are now
+moving 30 (squares or hexes, depending on what you
+have handy), and will move 30 that turn.
+Guest Customer (Order #50021028)
+112
+When the ship moves again each move will be 30.
+Not 20. Not 10. A full 30, like it or not. You are moving
+at speed, until you decide to decelerate.
+When targeting a vessel in combat their dodge is
+increased by their velocity, so if a cruiser had a dodge
+of 4, and was going velocity 2, then their effective
+dodge would be a 6.
+Piloting a starship with magic requires a spelldrive,
+which is wired into the core of the ship. Every spell-
+drive is different, and some are built to only work
+with specific aspects. Some can work with all aspects,
+though such vessels are exceedingly rare. Most spell-
+drives are very specialized.
+The Mark VII above takes void, life, and fire, but can
+be customized to work with other aspects.
+MAGICAL PILOTING
+AIR DRIVES:
+Air capable drives are generally limited to atmos-
+pheric flight. Air drives can accept dream as a substi-
+tute, since the aspects are sympathetic and dream will
+morph to fit its environment.
+LIFE DRIVES:
+Life drives create plasma in an engine chamber, and
+expel that plasma to create thrust. They can be used in
+atmosphere, or post-atmospheric flight.
+DREAM DRIVES:
+Dream drives literally warp reality to move the ves-
+sel. Dream is nearly as versatile as void, though usually
+slower, and with less precision.
+FIRE DRIVES:
+Fire drives are extremely similar to life drives, though
+far more popular. They create fire, which is expelled
+through an engine as thrust. Fire drives can be used in
+both atmospheric and post-atmospheric flight.
+VOID DRIVES:
+Void drives are the cream of the crop, as void is the
+undisputed master of propulsion. Void can literally
+teleport, and uses gravity magic for moment. Void
+drives can be used anywhere, including underwater.
+EARTH DRIVES:
+Earth drives are more common than you’d expect.
+They summon highly volatile minerals into an engine
+chamber, where they are converted into thrust. Earth
+drives can typically be used in atmospheric and post-
+atmospheric flight.
+SPIRIT DRIVES:
+Spirit drives convert souls into propulsion, and are
+only employed by the Krox. Even the Krox often look
+askance of such devices, though many necromancers
+take a very waste not want not approach to souls and
+have no problem using such drives.
+Guest Customer (Order #50021028)
+113
+now universal, but some are limited to offensive spells,
+or defensive spells like wards.
+A vessel with 3 matrices could have one mage ward-
+ing the vessel, while one mage is evading, and another
+is casting a disintegrate.
+Mages can all contribute magic to the same spell if
+their matrices are universal. This allows many mages to
+power spells, vastly increasing their magnitude. This is
+how magic can stand up to the mighty Ternus fleets.
+The die reflects their current elevation, and is the
+only time a d20 is useful in this system.
+If your vessel goes beyond that you can track it anoth-
+er way, but make sure each vessel has an elevation.
+This requires a little tracking, but what we’ve found in
+combat is that most ships fight as if they’re on a 2
+dimensional battlefield, and only slightly vary their
+elevation.
+WATER DRIVES:
+Water drives are the rarest of all, outside of Dream.
+They typically only function in underwater environ-
+ments.
+A mage needs a spell matrix to connect to a spell
+drive. The mage taps the sigils on the bronze, gold, and
+silver rings depending on how powerful a spell or
+effect they are attempting to use. Most matrices are
+SPELL MATRICES
+Outside of velocity there aren›t too many differences
+from standard combat. You›re just on a larger map, and
+(hopefully) in a ship that has a lot more armor and hit
+points than you do. There›s only one wrinkle. Ships can
+move in all three dimensions, so how do you represent
+that on a two dimensional map? All vessels and scenery
+will place a die next to them if they leave elevation 1.
+ELEVATION
+Guest Customer (Order #50021028)
+114
+Also remember that elevation can go negative if
+you are in space.
+ACTIONS
+PILOT ACTIONS:
+• Move
+Pilots must fly the ship the entire movement
+allocated each round. They may spend an action to
+accelerate or decelerate within the limits of the
+ship's velocity. See below.
+• Attacks
+Attack resolves against target ship’s Dodge, then
+Shield Strength is subtracted from damage, and
+damage is applied to shield HP first.
+Beam Weapons:
+Guided Weapons:
+Missiles and torpedos have guidance systems
+providing higher accuracy. They can, however, be shot
+down by active defenses and deflected/disrupted by
+passive defenses.
+Depletion:
+Firing a weapon puts it into the “depleted” state. An
+action must be spent to recharge the weapon before
+it can be fired again.
+Each vessel's attacks / actions are equal to the
+total of crewed consoles or spellmatrices. (note: an
+advanced AI can take the place of a crewmember, but
+still requires a console to act during the turn)
+Scanning with sensors reveals information about
+target.
+• Perception
+DT1 = Public ID information, positions
+DT2 = Velocity, possible trajectory
+DT3 = Trajectory, possible destinations
+DT4* = Technical details about a particular ship,
+DT based on value of knowledge
+Spend an action increasing/decreasing speed by 1
+velocity increment.
+• Accelerate/Decelerate
+The pilot may perform one recharge action for free
+each round, either recharging a weapon system or
+adding +25% HP to the shield.
+• Recharge
+Each power core beyond the first provides an
+additional recharge action that can be used. An action
+must still be expended on recharging.
+• Power Cores
+CREW ACTIONS:
+Any crew may perform the following actions with a
+console instead of executing an attack.
+Engineering roll DT2. +10% shield power recharge
+through efficient shield management
+• Balance Shields
+Repair +10% HP through efficient system rerouting.
+• Damage Control
+Engineering roll DT4, initiate a recharge action,
+even if no recharge actions remain. Useable once per
+combat.
+• Scrounge Power
+Guest Customer (Order #50021028)
+115
+If a ship’s systems are damaged, an Engineering
+roll DT = number of systems damaged. Successful roll
+indicates temporary repair, lasting remainder of com-
+bat. Further damage can undo repairs.
+• Repair System
+Hesitate action, preparing countermeasures. Upon
+attack, Engineering roll adds successes to dodge when
+countermeasures are activate.
+• Ready Countermeasures
+Obtain weapons lock, adding Engineering roll suc-
+cesses to all Gunnery rolls by all crew.
+• Lock On
+Target a ship’s systems, aiming for weak points.
+Perception DT = criticality of system to locate target,
+attack at penalty = perception DT, vs. opponent’s Skep-
+ticism instead of Dodge. Successful attack results in
+no HP damage, but loss of system until repaired.
+• Called Shot
+Scanning with sensors reveals information about
+target.
+• Perception
+DT1 = Public ID information, positions
+DT2 = Velocity, possible trajectory
+DT3 = Trajectory, possible destinations
+DT4* = Technical details about a particular ship,
+DT based on value of knowledge
+COMBAT MANEUVERS:
+Pilots may spend an action to initiate any of the
+following maneuvers.
+Hesitate and prep the Barrel Roll maneuver. Upon
+enemy attack, add 2x piloting roll successes to dodge.
+Must be at velocity 2 or higher.
+• Barrel Roll
+Match velocity and stay on enemy’s tail. Requires +1
+velocity higher than enemy. Add piloting roll successes
+to Gunnery.
+Flip and Burn – if being pursued, drop -1 velocity
+and perform a 180 degree turn, and take an attack.
+Dodge -2.
+• Pursuit
+Take a single attack during the move action, at
+any point during the move, adding piloting success to
+Gunnery. Must be at +1 velocity higher than enemy.
+• Strafe
+If in radio contact, taunt your opponent. Add Nego-
+tiation successes to Piloting until opponent no longer
+taunted (opposed Negotiation each round).
+• Taunt
+if opponent has successfully obtained weapons
+lock, the pilot can attempt to break it off through
+evasive maneuvers. Piloting roll vs. DT = lock on bonus.
+Ship Captains may spend an action on the following.
+Rally – inspire crew, +2 all crew actions.
+• Break Off
+Warfare roll DT = bonus to either Piloting or Gun-
+nery desired.
