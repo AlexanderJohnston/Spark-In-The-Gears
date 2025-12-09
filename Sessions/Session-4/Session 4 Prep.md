@@ -5,9 +5,10 @@ _Last updated: 2025-12-07T01:29:12.592Z_
 ## High-Level Goals
 
 - **Scope:** Design up to the point where both crews reach a safe(ish) anchorage on/near Aashitak, ~30 in-world minutes to get there.
-- **Pacing:** Aim for **two scenes max** this session (or two and a half if you split boarding):
-  - Scene 1: Umbral transit from New Texas to the target system (two-ship coordination, mostly reaction + RP with a light complication).
-  - Scene 2: Drop into the system, first sight of Aashitak, navigation through belt/debris to a concealed rib anchorage (action-focused, first low-tier primal contact/environmental hazard).
+- **Pacing:** Aim for **four scenes max** this session (or two and a half if you split boarding):
+  - Scene 1: Umbral transit from New Texas to the target system (two-ship coordination, mostly reaction + RP with a light complication of void creatures inside the spell cannon).
+  - Scene 2: Drop into the system, first sight of Aashitak, navigation through belt/debris to a concealed anchorage inside the skull's mouth (action-focused, first low-tier primal contact for light ship combat/environmental hazard).
+  - Scene 3: Moving through the jaw to the throat where the Catalyst is exposed in a broken section of spinal column. Players will need to cross the gap
 - **Hard rule:** **No recognizable contact from Aashitak herself** before they are physically at/inside the Catalyst (no direct visions clearly sourced from her, no essence-sight gifts yet).
 
 ---
