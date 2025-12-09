@@ -20,6 +20,7 @@
               "icon": "lucide-file",
               "title": "Session Zero"
             }
+<<<<<<< Updated upstream
           },
           {
             "id": "6dfc1fefdcdddb29",
@@ -75,6 +76,10 @@
           }
         ],
         "currentTab": 1
+=======
+          }
+        ]
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -131,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b840a73da0362524",
@@ -222,6 +228,7 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< Updated upstream
   "active": "6dfc1fefdcdddb29",
   "lastOpenFiles": [
     "Untitled.md",
@@ -260,5 +267,20 @@
     "New folder",
     "Sessions/Session-1",
     "Sessions"
+=======
+  "active": "957a561b539a647f",
+  "lastOpenFiles": [
+    "Missive.md",
+    "Player Characters/Kaelith Voryn-Shai.md",
+    "README.md",
+    "Campaign/Background Discussion.md",
+    "Campaign/Ternus Gm Toolkit.md",
+    "Campaign/Campaign Listing.md",
+    "Campaign/Player Primer.md",
+    "Campaign/Introduction.md",
+    "Campaign",
+    "Welcome.md",
+    "Player Characters"
+>>>>>>> Stashed changes
   ]
 }
