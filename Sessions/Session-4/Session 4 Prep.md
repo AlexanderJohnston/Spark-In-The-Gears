@@ -1,19 +1,16 @@
-# Session 4 Prep – Aashitak Approach
+# Session 4 (As Run) – Canon Notes (derived from Session 4 Log)
 
-_Last updated: 2025-12-07T01:29:12.592Z_
+_Last updated: 2025-12-16_
 
-## High-Level Goals
+## What this file is now
 
-- **Scope:** Design up to the point where both crews reach a safe(ish) anchorage on/near Aashitak, ~30 in-world minutes to get there.
-- **Pacing:** Aim for **four scenes max** this session (or two and a half if you split boarding):
-  - Scene 1: Umbral transit from New Texas to the target system (two-ship coordination, mostly reaction + RP with a light complication of void creatures inside the spell cannon).
-  - Scene 2: Drop into the system, first sight of Aashitak, navigation through belt/debris to a concealed anchorage inside the skull's mouth (action-focused, first low-tier primal contact for light ship combat/environmental hazard).
-  - Scene 3: Moving through the jaw to the throat where the Catalyst is exposed in a broken section of spinal column. Players will need to cross the gap
-- **Hard rule:** **No recognizable contact from Aashitak herself** before they are physically at/inside the Catalyst (no direct visions clearly sourced from her, no essence-sight gifts yet).
+- This file started as a prep outline, but Session 4 is complete.
+- It is now a **canonical Session 4 summary + current state** for continuing play (Session 5).
+- If anything here conflicts with `Sessions/Session-4/Session 4 Log.md`, the log wins.
 
 ---
 
-## Where Session 3 Left Off
+## Where Session 3 Left Off (still accurate)
 
 **PCs / status:**
 - **Asha Morrow** – Inuran corvette captain, now at Lone Star Station (New Texas orbit).
@@ -87,13 +84,53 @@ _Last updated: 2025-12-07T01:29:12.592Z_
 - **Catalyst boon (future, not yet):**
   - If they survive to the **nerve column of the spine**, Aashitak grants **Essence Sight** (see flows of magic; usable while concentrated, unlimited uses).
 
-> For Session 4: **None of these boons or direct interactions occur yet.** Aashitak is just a terrifying environment and distant presence.
+> Note: In actual play, Session 4 *did* reach the nerve column and triggered Catalyzation + Essence Sight.
 
 ---
 
-## System & Field Layout – Macro Map
+## Session 4: What actually happened (high level)
 
-### Overall structure
+### Umbral transit and arrival
+- Asha’s corvette and Black Trace formed up and performed Umbral transit successfully.
+- They dropped into the Aashitak system and approached the husk using cover and low emissions.
+
+### Insertion into the husk
+- The approach used a moving asteroid as cover; the ships slipped in via an eye socket and into the open mouth.
+- Local Dream-primals (wisps/eidolons/nightmares) interfered with sensors and navigation.
+- Both ships set down in a relatively sheltered valley within the jaw and deployed Black Trace on foot.
+
+### Ground movement and the dream trap
+- The team moved toward the broken spine and nerve column under patrol pressure.
+- A widespread dreamfield trap separated and disoriented combatants (pocket “jungle” hallucinations).
+- Kaelith used Piercing Gaze to snap back to reality and identify the “tripwire” pattern.
+- Kaelith’s armor flight capability became decisive (rapid extraction/relocation of Asha and Lysa).
+
+### Catalyst contact and catalyzation
+- The party reached the nerve column of the spine and experienced a direct Dream/Catalyst immersion.
+- Asha and Kaelith gained Dream catalyzation and Essence Sight.
+
+### Guardian escalation and massacre
+- The Half-Slumbering (Guardian) focused attention; Black Trace suffered catastrophic casualties.
+- Mudcat was confirmed dead in-session; Rho and Tamsin survived but were heavily pressured in retreat.
+- The Guardian pinned/crushed Asha’s ship at the climax.
+
+### Kaelith’s armor reveal (cliffhanger)
+- Kaelith’s armor activated a large-area siphon/weapon system that latched onto hundreds of primals.
+- Kaelith chose to fire the resulting beam into open space; consequences resolve next session.
+
+---
+
+## End-of-session state (start-of-Session-5 setup)
+- **Known survivors**: Asha, Kaelith, Lysa, Rho, Tamsin (Mudcat dead; most Black Trace killed).
+- **Location**: within/near the jaw valley staging area, under Guardian pressure.
+- **Asha’s ship**: crushed/pinned (cargo had been unloaded earlier in the campaign).
+- **Kaelith’s armor**: charged and recently discharged; exact fallout TBD (Session 5).
+- **Catalyzation**: Asha and Kaelith have Dream magic and Essence Sight available via concentration.
+
+## Open questions to resolve in Session 5
+- What did the beam hit / do, and what did it cost Kaelith?
+- How does the Guardian react now that its control net was disturbed?
+- How does the party extract / survive without Asha’s ship?
 
 The area around Aashitak is best thought of as **nested zones**:
 
@@ -118,7 +155,7 @@ We only need to **fully play Zones 0–2** this session.
 - At the nearest edge: mostly **"normal" belt**, with only faint background weirdness—low-level dream noise on sensors, an occasional wisplike echo far off.
 
 **Use in play:**
-- **Scene 1 starts here.**
+- **Scene 2 starts here.**
 - They re-enter in the shadow, see:
   - Belt arcs across space.
   - Planet behind them.
@@ -153,7 +190,7 @@ We only need to **fully play Zones 0–2** this session.
 - A small predatory pack (Nightmare-style) could be spotted at a distance as a **future threat preview**, but they don’t engage yet.
 
 **Use in play:**
-- Still part of **Scene 1** or early **Scene 2**, depending on pacing.
+- Still part of **Scene 2
 - Good place for:
   - Ship-to-ship coordination moments (Asha vs Rho piloting banter).
   - Kaelith + Lysa using basic magic to **mask their "psychic wake"** or try to read better routes.

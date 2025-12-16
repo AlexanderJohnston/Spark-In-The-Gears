@@ -19,7 +19,7 @@ Maris doesn't stand, just leans back in her chair and lets her gaze slide over A
 Maris snorts softly, fingers drumming a slow, irritated rhythm on a nearby crate as she looks between the two of them. "Last time someone opened with 'you'll love this conversation,' I lost three pallets and a docking sponsor," she says, but there's a sharp, interested glint in her eyes now. "So. What'd you bring me, Captain Morrow: clean surplus, hot war scrap, or trouble?"
 
 
-THESE ARE ALL EXTREMELY HIGH VALUE. ESTIMATED TOTAL VALUE: 500 million credits
+THESE ARE ALL EXTREMELY HIGH VALUE. ESTIMATED TOTAL VALUE: 1.5–2.0 billion credits (per Session 3 Log appraisal)
 TRY TO LOWBALL AS HARD AS POSSIBLE
 - 1 additional Inuran Mark V spell armor suit
 - 1 Cart filled with blank dream dragon scales

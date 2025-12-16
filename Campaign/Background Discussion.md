@@ -210,12 +210,12 @@ Here’s what the lore indicates about survival after the Godswar and the events
 
 ***
 
-### **Original Series Survivors**
+### **Original Series Survivors** (NOTE: this section is non-canon for this campaign unless explicitly imported)
 
-*   **Shaya** – Survives the Krox war but is heavily scarred. It remains a major hub for magic users and Shayans, though its defenses are weakened.
+*   **Shaya** – **Dead**. Shaya “lives on” through **Voria** (its Guardian/successor). This is not common knowledge; in rare circumstances Voria can speak with Shaya.
 *   **Ternus** – Endures but at great cost; its shipyards are damaged, and much of its industrial capacity is lost.
 *   **Virkonna** – Barely survives; the Last Dragonflight retreats deeper into its sanctuaries, and the planet becomes a shadow of its former glory.
-*   **New Texas** – Destroyed during the Krox incursions; its fall is a turning point in the war.
+*   **Colony 3** – Destroyed during the war; its fall is a turning point for many factions.
 *   **Marid’s Skull (Umbral Depths)** – Technically “survives,” but it’s never truly habitable—still a dangerous relic site.
 
 ***

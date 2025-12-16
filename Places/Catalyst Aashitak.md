@@ -22,7 +22,7 @@ Dream
 25
 
 3 - How did this god or goddess die?
-Aashitak was slain by Nefarious and drained of blood and partially collapsed into the void. What remains is a husk of off-white bone hanging in space forming its own orbit at about half the size of a planet. The lower half of the body is missing, sealed around the wound by strange and massive void crystals. Nefarious opened a void rift and shoved half of Aashitak through it before shutting it, severing her. 
+Aashitak was torn into the Umbral Depths by Zenzuata. In her last desperate act she dumped her power and froze herself into perpetual Dream, forcefully locking her body across multiple domains: her head in Dream, her chest in reality, and the rest being dragged into the Umbral. What remains is an off‑white husk hanging in space with the lower half missing and the severed spine sealed around the wound by strange and massive void crystals.
 
 4 - What magical materials were created?
 
