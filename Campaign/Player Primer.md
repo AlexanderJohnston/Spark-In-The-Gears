@@ -24,7 +24,7 @@ Tone & themes
 - Cinematic heists, hard choices, and miracle-tech in a world of scarcity. Power solves problems…and creates bigger ones.
 
 Starting situation
-- The power company cut ration lines to your megablock. A fixer offers a “redistribution” job: hijack a spark shipment meant for an off-world battleship and divert it to your block. Two other parties want it too. What could go wrong?
+- You are pulled into the same prize from different angles: a **derelict Inuran stealth freighter** hidden in the asteroid belt near Ternus. One of you is hired to **tow it intact** under a tight contract; another is on a **salvage claim** to grab portable valuables before anyone else does. When both crews arrive, the “easy money” job turns into a high‑stakes clash—then something far worse detonates at the docks.
 
 Table expectations
 - Fast action, meaningful downtime (tinker, treat, bribe, research), and faction consequences.

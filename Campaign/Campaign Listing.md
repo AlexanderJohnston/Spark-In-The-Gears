@@ -10,28 +10,29 @@ Magic exists, but most Ternans only touch it through interfaces and implants. Sp
 
 You are a crew with a ship, debts, and a neighborhood worth fighting for. This is science-fantasy heist play: cinematic action, scarcity-driven choices, starship moments that matter, and miracles woven into tech.
 
-Plot Hook (Session 1)
-- The power company just cut ration lines to your megablock.
-- A fixer offers a "redistribution" job: hijack a spark shipment bound for an off‑world battleship and divert it to your block.
-- Two other parties want it too. Internal Security is running stings with auditor wands, a Void cult plans to "bless" the cargo with a dreaming hymn, and a Soulsmith clinic begs for enough charge to keep newborns breathing. A Krox "trade mission" even hints at legal cover... for a price.
-- What could go wrong?
+Plot Hook (Session 1 — Canon)
+- A war‑era **Inuran stealth freighter** is found derelict in the asteroid belt near Ternus.
+- **Asha** is hired on suspiciously generous terms to **tow the ship intact** to dock (temporary legal custodianship granted by contract).
+- **Kaelith** arrives separately on a **salvage contract**, boarding with a small crew to grab portable high‑value gear.
+- Conflicting claims collide at the wreck, the tow begins under pressure, and the situation escalates into a catastrophe at the docks.
 
 What you'll see in the first few sessions [ EXAMPLES - NOT MANDATORY ]
-- Session 1: The Spark Ration Heist
-  - Underhive deadlift on a failing maglev trestle; refugees complicate the clock.
-  - Tram chase through reactor mist using flame‑reading and sensor savvy to skirt shadow eddies.
-  - Dockyard firefight amid cranes, cryo tanks, and smart munitions.
-  - Choice: save your block, save the clinic, cut a deal with the Authority, or play three sides at once.
+- Session 1: The Derelict Tow Job
+  - Rival salvage crew already aboard; tow vs. breach; portable loot race.
+  - Docking security response and a disastrous blast event.
+  - Deal (or standoff) between Asha and Kaelith in the aftermath.
 
-- Session 2: Leaks and Wands
-  - Auditor wands start "reading" people like ledgers; someone gets flagged who's never set foot in a refinery.
-  - A crate hums like a choir and nearby gear misbehaves; a kid stabilizes a street‑lamp by humming back.
-  - Faction clocks tick: Procurement hoards, Soulsmiths plead, InSec squeezes, Syndicates draw maps in shadow.
+- Session 2: Escape & Refit
+  - A hurried return to dock to refit and get out of system.
+  - Early decisions about what to keep, what to sell, and who to trust.
 
-- Session 3: Echoes in the Machine
-  - The shipment's core isn't inert. Something old wants a bargain.
-  - First unassisted miracle emerges at the worst possible time.
-  - Offers arrive: Catalyst Authority licenses (with leashes), Shipwrights' union muscle, a Church clinic's blessing, or a Krox envoy's "security package."
+- Session 3: New Texas Fence & Crew
+  - Quietly offloading stolen war‑cargo through a gray‑market quartermaster.
+  - Hiring a merc outfit for a Catalyst run without revealing the real intel source.
+
+- Session 4: Aashitak (Dream Catalyst) Run
+  - Umbral transit, approach through the husk, ground insertion, dreamfield traps.
+  - Catalyzation and a catastrophic Guardian escalation.
 
 Setting and mindset
 - Tone: Cinematic, street‑level to orbital stakes. Heists, extractions, and moral dilemmas where two "rights" collide.

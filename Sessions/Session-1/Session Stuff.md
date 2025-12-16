@@ -4,7 +4,15 @@ Kaelith is on a contract to salvage what is suspected to be a stealth freighter 
 
 Asha is at home when a new contract comes through. A trade moon is expected to appear in system for a period of five years whenever negotiations are complete. An Inuran merchant who will be arriving with it has put in a request for a competent captain to tow an old freighter into dock from the asteroid belt. The rate is exceptionally good, as much as ten usual jobs. Enough for a serious upgrade to her ship or a comfortable amount of savings. She is given temporary legal rights to the ship if the contract is accepted, creating a clash between her and any crew she brings, Kaelith, and the crew who hired him. Both will likely think the other to be pirates.
 
-The ship is an old Inuran vessel from the last major war with Necrotis. It is carrying crates stuffed full of a peculiar metal alloy which will cause mages to feel ill around it, as well as high grade ammunition for battleship class ships with large cannons. The vessel was delivering weapons to Ternus, weapons which would be turned on them by the dark god Nefarious before she was defeated. There is an armory at the back of the freighter where Asha and Kaelith can both find a set of Mark V Inuran spell armor made with magically enhanced materials. They also find two Inuran Mark III spellpistols, fifty MREs, and some stim packs.
+The ship is an old Inuran vessel. In play, the PCs confirmed it held a major war cache (high‑grade battleship ammunition, spell armor for a small platoon, spellrifles/pistols, medical supplies, stealth coating, and dream dragon scales).
+
+**GM-only (unrevealed backstory; correct but not yet established in-play):**
+- The vessel dates to the last major war with Necrotis.
+- It carried crates of a peculiar metal alloy which can make active mages feel ill around it.
+- It was delivering weapons to Ternus; those weapons were later turned against their senders via Nefarious’s corruption (historical context).
+
+**In-play armory discovery (Session 1):**
+There is an armory at the back of the freighter where Asha and Kaelith can both find a set of Mark V Inuran spell armor made with magically enhanced materials. They also find two Inuran Mark III spellpistols, fifty MREs, and some stim packs.
 
 ### Spell Armor Mk. V found in the armory
 
