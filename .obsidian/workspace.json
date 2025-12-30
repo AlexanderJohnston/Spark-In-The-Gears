@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 5/Session 5 Log.md",
+                "file": "Sessions/Session 6/Session 6 Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 5 Log"
+              "title": "Session 6 Log"
             }
           }
         ],
@@ -242,10 +242,27 @@
   },
   "active": "ca87944439f2e840",
   "lastOpenFiles": [
+    "Sessions/Session 5/Session 5 Log.md",
+    "Sessions/Session 6/Session 6 Log.md",
+    "Sessions/Session 6/Lone Star-Class Spell-Battleship.md",
+    "Player Characters/Asha Morrow Background.md",
+    "Sessions/Session 6/Major Morrow Character Guide.md",
     "Sessions/Session 5/Session 5 Prep.md",
+    "Sessions/Session 6/Session 6 Scratch.md",
+    "Sessions/Session 6/Scratchpad.md",
+    "Sessions/Session 6/Open Investigations.md",
+    "Sessions/Session-4/Session 4 Log.md",
+    "Sessions/Session 6/Ternus News Streams.md",
+    "Rules/piloting-cheat-sheet.md",
+    "The_Magitech_Chronicles_RPG_1.06.pdf",
+    "Rules/combat-cheat-sheet.md",
+    "Rules/06-purchase-equipment-and-gear.md",
+    "Rules/05-purchase-defensives.md",
+    "Rules/02-basic-mechanics-and-concepts.md",
+    "copilot-session-b85d4958-f88f-4942-82c6-d9ab8f779522.md",
+    "Sessions/Session 6",
     "Sessions/Session-4/Session 4 Prep.md",
     "Sessions/Session-4/Catalyst.md",
-    "Sessions/Session 5/Session 5 Log.md",
     "Prompting/Cleanup.md",
     "Prompting/Untitled.md",
     "Player Characters/Kaelith's Recent Weeks.md",
@@ -256,27 +273,10 @@
     "Sessions/Session 5/do-not-reference-scratchpad-live.md",
     "Sessions/Session-4/do-not-reference.md",
     "Sessions/Session 5",
-    "Missive.md",
-    "Sessions/Session-4/do-not-reference-scratchpad-live.md",
-    "Sessions/Session-4/Session 4 Log.md",
-    "Sessions/Session-4/Sesssion 4 Log.md",
-    "Places/Catalyst Aashitak.md",
-    "Rules/04-select-perks-and-flaws.md",
-    "Rules/05-purchase-defensives.md",
-    "Rules/06-purchase-equipment-and-gear.md",
-    "Rules/01-what-the-game-is-about.md",
-    "Rules/03-character-creation-overview.md",
-    "Rules/02-basic-mechanics-and-concepts.md",
-    "Sessions/Session-3/Session 3 Log.md",
-    "Sessions/Session-3/GM-Notepad.md",
-    "Sessions/Session-2/Session 2 Log.md",
-    "Sessions/Session-1/Session overview.md",
     "Sessions/Session-4",
     "Sessions/Session-3",
     "Sessions/Session-2",
     "Sessions/Session-1",
-    "Sessions",
-    "Scene Guidelines",
-    "Rules/raw-rule-text.txt"
+    "Sessions"
   ]
 }
