@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 6/Lone Star-Class Spell-Battleship.md",
+                "file": "GM/Experience Awarded.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lone Star-Class Spell-Battleship"
+              "title": "Experience Awarded"
             }
           }
         ],
@@ -242,19 +242,26 @@
   },
   "active": "ca87944439f2e840",
   "lastOpenFiles": [
+    "copilot-session-04969ad1-ccba-4a27-9a8f-71b4bfe14022.md",
+    "GM/Experience Awarded.md",
+    "Sessions/Session 7/Session 7 Log.md",
+    "GM",
+    "Campaign/GM",
+    "Sessions/Session 8",
+    "Sessions/Session 6/Session 6 Log.md",
+    "Sessions/Session 7",
+    "Sessions/Session 6/Scratchpad.md",
+    "Sessions/Session 6/Open Investigations.md",
+    "Sessions/Session 6/Major Morrow Character Guide.md",
+    "Sessions/Session 6/Lone Star-Class Spell-Battleship.md",
     "copilot-session-6ffa608c-119a-40c8-91a6-d310a42ec247.md",
     "copilot-session-2ea5eb7e-e55d-4aa1-aa29-9d51ae0df5f3.md",
     "copilot-session-b85d4958-f88f-4942-82c6-d9ab8f779522.md",
-    "Sessions/Session 6/Session 6 Log.md",
-    "Sessions/Session 6/Major Morrow Character Guide.md",
     "README.md",
     "Sessions/Session 5/Session 5 Log.md",
-    "Sessions/Session 6/Lone Star-Class Spell-Battleship.md",
     "Player Characters/Asha Morrow Background.md",
     "Sessions/Session 5/Session 5 Prep.md",
     "Sessions/Session 6/Session 6 Scratch.md",
-    "Sessions/Session 6/Scratchpad.md",
-    "Sessions/Session 6/Open Investigations.md",
     "Sessions/Session-4/Session 4 Log.md",
     "Sessions/Session 6/Ternus News Streams.md",
     "Rules/piloting-cheat-sheet.md",
@@ -267,16 +274,9 @@
     "Sessions/Session-4/Session 4 Prep.md",
     "Sessions/Session-4/Catalyst.md",
     "Prompting/Cleanup.md",
-    "Prompting/Untitled.md",
-    "Player Characters/Kaelith's Recent Weeks.md",
-    "Untitled.md",
     "Prompting",
     "New folder",
     "Sessions/Session 5",
-    "Sessions/Session-4",
-    "Sessions/Session-3",
-    "Sessions/Session-2",
-    "Sessions/Session-1",
-    "Sessions"
+    "Sessions/Session-4"
   ]
 }
