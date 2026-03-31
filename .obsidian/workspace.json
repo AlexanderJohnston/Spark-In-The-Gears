@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 11/Session 11 Log.md",
+                "file": "Sessions/Session 14/Session 14 Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 11 Log"
+              "title": "Session 14 Log"
             }
           }
         ],
@@ -166,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "voss",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -282,43 +282,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "1c8ab807257f7a74",
+  "active": "4ca7ab63956fddd1",
   "lastOpenFiles": [
-    "Sessions/Session 10/Session 10 Log.md",
+    "Sessions/Session 14/Session 14 Scratch Pad.md",
+    "Sessions/Session 14/Session 14 Log.md",
+    "Sessions/Session 15/Session 15 Log.md",
+    "Sessions/Session 15",
+    "Sessions/Session 13/Session 13 Log.md",
+    "Sessions/Session 13/Session 13 Scratch Pad.md",
+    "Sessions/Session 13/Asha Xal Vision.md",
+    "Sessions/Session 14",
+    "magitech.md",
+    "Sessions/Session 12/Session 12 Log.md",
+    "Sessions/Session 13",
+    "Places/Catalyst Vaelith.md",
     "Sessions/Session 11/Session 11 Log.md",
-    "Sessions/Session 11/Session 11 Scratchpad.md",
     "Sessions/Session 11/session-11-kumoshi-gm-prep.md",
+    "README.md",
+    "cleanup.md",
+    "copilot-session-f00c7b0c-4d1f-44fe-a213-5aa5c7f3efed.md",
+    "Sessions/Session 12/Session 12 Scratchpad.md",
+    "Places/Catalyst Orithen.md",
+    "Places/Catalyst Thalune.md",
+    "Places/Catalyst Gronthar.md",
+    "copilot-session-9699166c-bc87-4619-a3a4-6607472fb86b.md",
+    "Sessions/Session 12/copilot-session-9699166c-bc87-4619-a3a4-6607472fb86b.md",
+    "Sessions/Session 12",
+    "Sessions/Session 7/Session 7 Log.md",
+    "Sessions/Session 10/Session 10 Log.md",
+    "Sessions/Session 11/Session 11 Scratchpad.md",
     "Sessions/Session-4/Catalyst.md",
     "Places/Catalyst Kumoshi.md",
     "Sessions/Session 5/Session 5 Log.md",
-    "Sessions/Session 5/Session 5 Prep.md",
-    "Places/Catalyst Aashitak.md",
-    "copilot-session-4479eceb-8600-4e4d-8fbc-0087c52a34c5.md",
-    "session-11-kumoshi-gm-prep.md",
-    "copilot-session-3f84f98a-b0e4-4881-a183-045dde1b6581.md",
     "Sessions/Session 11",
-    "Player Characters/Kaelith Personality Profile.md",
-    "Player Characters/Asha Personality Profile.md",
-    "Sessions/Session 9/Session 9 Log.md",
     "Sessions/Session 10",
-    "Sessions/Session 9/Session 9 Scratchpad.md",
-    "copilot-session-771a5378-c342-4fb2-ae1a-d360f36b2765.md",
-    "copilot-session-0f40937e-8442-477e-903a-6a8b643cc0a6.md",
-    "copilot-session-64bb012d-3948-47c1-a45e-4a2c530daec5.md",
-    "Sessions/Session 8/Session 8 Scratchpad.md",
-    "NPCs/General Harlan Voss.md",
-    "Player Characters/Asha Morrow Background.md",
-    "Player Characters/Asha Morrow.md",
-    "copilot-session-6874ed1c-3f33-4777-905e-b6ee7c826237.md",
-    "copilot-session-2ea5eb7e-e55d-4aa1-aa29-9d51ae0df5f3.md",
-    "Sessions/Session 8/Session 8 Log.md",
     "Sessions/Session 9",
     "NPCs",
     "GM",
-    "Campaign/GM",
-    "Sessions/Session 8",
-    "Sessions/Session 7",
-    "The_Magitech_Chronicles_RPG_1.06.pdf",
-    "Sessions/Session 6"
+    "Campaign/GM"
   ]
 }
