@@ -1,10 +1,10 @@
-![](https://app.roll20.net/users/avatar/5473310/30)
+
 
 Wartok:OOC - evening all
 
 Asha Morrow:OOC howdy
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC: Hey good evening everyone
 
@@ -14,27 +14,27 @@ OOC: Quick set of chores before we start, everyone know their current spell pool
 
 OOC: Kaelith, I think - correct me if I'm wrong - 2 starting catalyzations + 3 now puts you at 5 magic. And Asha would be at 3 magic.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - yes, 5 magic. And correct me if i'm wrong, but visiting the same element multiple times does not increase your resistance
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC: Pg 151 states 3 pool and 3 resistance stacks infinitely
 
 OOC: As an added note it says "3 more resistance" so it assumes you're adding to anything I think
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - sweet
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC: Okay for Xal bonuses. You both are granted the ability to perfectly shield yourself from attention in the Depths. Kaelith walked away with a spell crafted by Xal himself for tearing open the way to the Umbral Depths anywhere. This power may be more than it appears on the surface, Kaelith.
 
 Asha is granted the void-catalyzed version of the Cursed Mk. V Inuran Spell Armor. Kaelith has likely surmised his armor is in the reliquary based on what Aran said, if he wishes to seek it out.
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 Narrator:You came to the Skull of Xal because Tamsin was dying, and there was no safer road left open. Xal welcomed you in.
 
@@ -48,7 +48,7 @@ Asha comes back all wrong. Not wounded, but worse than that, feeling betrayed an
 
 Kaelith gives her what truth he found. Xal chose him. His path into void was not an accident. Nara all but confirms it with a shrug and a welcome, like a foregone conclusion.
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 Narrator:Aran declared in no uncertain terms to Asha that Nefarius is their enemy, citing the impossible cooperation of literally every force in the galaxy last time she rose. Something in the process clicked for Asha and she claimed she would kill Nefarius.
 
@@ -74,7 +74,7 @@ Xal Nara:Nara instantly deflates and walks away to pace. She shuts up.
 
 Xal Aran:Aran crosses his arms and raises his head toward the void in thought. "I don't envy the position you're in right now, to be honest."
 
-![](https://files.d20.io/images/471385718/Ng7CYTCo77eLGUBFuacoQg/med.png?1768349856)
+
 
 Voria:Voria taps Ikadra lightly against the bone. "What can we do to help you right now?"
 
@@ -86,7 +86,7 @@ Asha Morrow:"But this armor was still around for Xal's spell to work on it, what
 
 Xal Aran:A dark look crosses Aran's face. "That's right, I don't know how I forgot about it. Hold on." He disappears and reappears moments later, holding the wet-looking spell armor in his hands. He offers it to Kaelith. "Technically, this is yours."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Let's see what Asha can do."
 
@@ -96,15 +96,15 @@ Xal Aran:"Kazon told me it is deeply infused with dream magic. It's awake, but r
 
 He takes several steps backward.
 
-![](https://files.d20.io/images/471385718/Ng7CYTCo77eLGUBFuacoQg/med.png?1768349856)
+
 
 Voria:Voria glances at Aran and then also backs away.
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 Narrator:Your crew stands nearby, unfazed.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"His name is Sargoth."
 
@@ -112,7 +112,7 @@ Kaelith Voryn-Shai:"His name is Sargoth."
 
 (To Kaelith Voryn-Shai): The mental link with it is easy to find now that you're close again. The armor is quiet and subdued right now, radiating a malaise or lethargy like a lack of sleep.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"And he still wants to consume magic. He is hungry. The armor does not appear change Asha. It is still drenched in Nefarius magic."
 
@@ -120,7 +120,7 @@ Kaelith Voryn-Shai:"And he still wants to consume magic. He is hungry. The armor
 
 Asha Morrow:Asha nods, "Right, and the dream magic makes sense, you were wearing the armor when we catalyzed with Aashitak." Asha steps towards the armor and kneels down before it, activating essence sight before she goes further.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith engages Essence Sight to watch what happens when Asha works._
 
@@ -132,19 +132,19 @@ Narrator: Kaelith:Kaelith, you see your armor fluctuating in a different way tha
 
 Notably, fire keeps showing up around the edges of the magic.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"What can you see in the armor Asha? What magic stands out?"
 
 Asha Morrow:Asha leans forward just a touch and beings to speak with intent internally, trying to make a connection with her new armor while also restraining it for the moment. _'Like a ravenous beast you sense your prey before you, but if we are to do this completely and entirely we will learn focus together. Feel your hunger, your wrath, all your desire bubble to the surface as your prey gets closer.'_ Asha slowly holds a hand out near Kaelith's old armor, _'Sit with it, nurture it, focus it with me as we stare down the hated enemy_' Asha lingers there for a moment that she stretches out in near agony, _'Now_ release it._'_
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 (To Asha): +1 exp
 
 Asha Morrow:In the moment Asha cannot respond to Kaelith as she focuses, but she flashes as grin as she releases her restraint from her armor.
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 Narrator:There's nothing for a knife-thin moment as the armor listens to Asha.
 
@@ -158,19 +158,19 @@ The sensation that comes through Asha's link is immediate and ecstatic.
 
 Not joy exactly, more like righteous satisfaction. A predator finally allowed to put jaws where they belong. The tendrils do not merely tear, but instead suddenly go rigid. Through essence sight, the spell Xal overlaid on this armor unfolds instantly like a spring released. Lattices of void cut through the space between the two sets of armor and pierce the magic in Sargoth.
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 Narrator:There's a twisting and then a sudden shattering of the magic as it shifts into something completely unknown to both of your essence sight. To everyone else it looks like the tendrils and Sargoth's armor are now frozen, coated in golden crystals. The void of Nefarius is gone, completely replaced by pure Dream magic and the void of Xal.
 
 Xal Aran:Aran raises both eyebrows, hardly able to believe what he is looking at right now. He approaches again slowly.
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 (To Asha): Your armor purrs like a cat right now, absolutely pleased. But there's a pressing sense that the work isn't done.
 
 Asha Morrow:For moments after Asha is filled with a rush akin to a _high_ and she holds her grin for a few extra moments as she struggles against impending _mania_. Perhaps nothing has ever felt so _right_ before in her life, this could be the most justified addiction in existence. She pulls herself back from that abyss with a deep breath that grounds her back in the moment and she looks back towards Kaelith with a more usual, pleasant, smile.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith's mouth slowly drops open in awe of what he just watched. He is struck frozen, motionless for a few seconds before shaking himself out of it to intently, purposefully study Sargoth. He uses his Essence sight as well as every aspect of magic he possesses to examine the armor thoroughly_
 
@@ -180,7 +180,7 @@ Underneath it is clear, dream and void interlaced like natural parts of its magi
 
 OOC: Give me a perception DT5 Kaelith
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:
 
@@ -190,7 +190,7 @@ Sargoth:There's something critically missing from the magical matrices inside th
 
 Xal Aran:"May I?" Aran asks, reaching toward the armor with one hand.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Sargoth is empty, wanting. He is not sure what he is now." _Kaelith nods to Xal Aran_ "Go ahead."
 
@@ -204,31 +204,31 @@ Aran releases the ball of gold crystals into it and then Kazon pops the lid onto
 
 He looks rather serious about this.
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 Narrator:OOC: Kaelith is essence sight still on when the crystals are zapped?
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - yes
 
 "That trick would be fabulous to have in my arsenal. As for an Artificer, the one we have on board is but a child. I have no idea if he would be capable of the containment it would take to cage nefarius."
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 (To Kaelith Voryn-Shai): Casually unrelated but looking around, Aran, Voria and Nara are all rolling with unbelievable amounts of magic. Despite Aran utterly dwarfing the other two in raw power, Voria's magic is clearly more complex. She is a true mage at heart. Aran's clearly working with intuition where she works with reason.
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 Narrator:Once the crystals are gone, the suppression over Sargoth is gone at least. Void and dream dance, creating empty spaces which create their own tiny stars and illusory cosmic dust. The armor itself is no long slick and wet looking, but slightly iridescent.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 (From Kaelith Voryn-Shai): Kaelith uses intuition. He is a more instinct and emotional caster
 
 Kazon:"Mm. I will seek him out then with your permission and provide him with some glass. I can not spare much, but enough to get you started."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith looks to Asha for confirmation_
 
@@ -246,13 +246,13 @@ Xal Aran:"Both."
 
 "Kaelith's is not a concern now though, presumably."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"There would have been no need Aran, if Sargoth still oozed of Nefarius. I think we both understand the level of evil she represents."
 
 Xal Aran:He nods.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"If I find that Nefarius still calls to the armor, I shall return with it for safe keeping."
 
@@ -264,7 +264,7 @@ Asha Morrow:"Spark?"
 
 Seraphine Morrow:"Ternus's new fuel. Mostly it powers our ships and weapons, it's like... spell rifles, but for true magic. You can burn it instead of using a mage. They've been using it for everything though, the forges and foundries, heating the megacities, you name it."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:*Kaelith looks to Sere
 
@@ -274,7 +274,7 @@ Seraphine Morrow:"You might have gone through one of their scry-killers back in 
 
 Asha Morrow:"Oh, I thought that's what you meant I just..didn't think I was remembering right. That seems..._wrong_ to me in way I can't explain."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith looks to Seraphine with a disgusted look_ "You mean to say they are stealing magic essence to power everything?"
 
@@ -288,13 +288,13 @@ Xal Aran:What Asha just said strikes Aran hard. He has the look of someone very 
 
 "We need to know where they are getting this from then."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"I agree Xal Aran."
 
 Xal Aran:"Oh, just call me Aran."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith nods_
 
@@ -302,7 +302,7 @@ Seraphine Morrow:Seraphine looks frustrated and takes a step back, looking aroun
 
 Xal Aran:Aran nods slowly.
 
-![](https://files.d20.io/images/471385718/Ng7CYTCo77eLGUBFuacoQg/med.png?1768349856)
+
 
 Voria:"I've lost worlds before, Seraphine. I know. You're trying, that's what matters."
 
@@ -310,7 +310,7 @@ Asha Morrow:"Embrace that feeling, use it as fuel to motivate you to protect eve
 
 Seraphine Morrow:It dawns on her that accepting advice from her daughter is a new concept. She gently tries to accept it right now, though looks still frustrated. "Yeah. You are right."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Asha is right Seraphine. You have live a life dedicated to a cause that perhaps shielded you from the lives of the common man. And that has hardened you. Stealing people's magic is horrifying. I literally would not know who i was without it."
 
@@ -322,23 +322,23 @@ Xal Aran:"You're welcome to stay and train for as long as you like."
 
 Asha Morrow:"That would be wise, how often do we get the opportunity to train here on the Skull of Xal?"
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Yes we will. Seraphine, you have companions amongst this crew. We will help any way we can."
 
-![](https://files.d20.io/images/471386665/zJv8qeYHHUC9lyGAd4PC6g/med.png?1768350308)
+
 
 Ikadra:"Ohhh, you don't get the opportunity to learn from the universe's smartest, most powerful magic artifact now do you? Line up, folks! Ikadra's giving lessons."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"That is a gracious offer Aran. Thank you."
 
-![](https://files.d20.io/images/471385718/Ng7CYTCo77eLGUBFuacoQg/med.png?1768349856)
+
 
 Voria:Voria makes a face and just stares at Ikadra.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith laughs_
 
@@ -346,17 +346,17 @@ Asha Morrow:Asha smiles, enjoying the company of Ikadra.
 
 Xal Aran:"You can train here any time you want. My door's always open to you."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Well, Lysa, you wanted training time. Now's your chance."
 
-![](https://files.d20.io/images/471386665/zJv8qeYHHUC9lyGAd4PC6g/med.png?1768350308)
+
 
 Ikadra:"So let me get this straight: Ternus might be bottling magic poop in pretty little jars and burning it by the ton Outstanding. Civilization remains a mistake."
 
 Asha Morrow:"This is the perfect opportunity for me to get comfortable with spellcasting for the first time and perhaps dabble in learning the only Greater Path available to me currently, Illusion."
 
-![](https://files.d20.io/images/475374291/w5WLbKJjcQMYwhHAmAq-jg/med.png?1770766669)
+
 
 Lysa Vorren:She looks wide eyed at Kaelith and nods. "Uh yeah, dream come true."
 
@@ -364,21 +364,21 @@ Lysa Vorren:She looks wide eyed at Kaelith and nods. "Uh yeah, dream come true."
 
 Xal Nara:Nara puts both hands on her hips and smiles innocently at Lysa. "Me. Aran is a nerd who likes stabbing things."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"I think we woold all immensely appreciate training with Any of you."
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC: We want to all take a quick interlude here to train up?
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - sounds like the best training opportunity we will have
 
 Asha Morrow:OOC yes, I think Asha would like to learn the Illusion greather path and try to gain Mastery in spellcasting while here which both need training
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC - Take a few moments to look over Experience Expenditure on pg 139. Voria can teach Dream, Air, Life, Fire, Void, and greater paths involving them. Aran can teach void, fire, earth. He can only teach greater way for Destruction, and specifically can train in melee combat or ranged combat as well as unarmed. He teaches a unique fighting style if you want to learn Dracon style and be a war mage. Nara teaches void, fire, dream, life, and air and she can teach greater ways involving any of those.
 
@@ -388,11 +388,11 @@ OOC: Put together a wishlist, spend as much EXP as you want, and let me know if 
 
 Asha Morrow:OOC: Asha will train with Voria to learn Illusion and mastery in spellcasting (18xp), how much does it cost to learn Dracon with Aran and what does it do?
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - Kaelith will train with Nara to learn Divination. Does she have access to all the spells?
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC: Dracon style will give you a unique fighting style. To those who can recognize it, you will be instantly noteworthy to them. I'll have to hammer out the details but it will make you an insane war mage utilizing magic more in a physical way. Channeling it through spellblades, and fighting in a way that gives you some automatic advantages and options to learn new moves.
 
@@ -404,11 +404,11 @@ OOC: Though she doesn't have a name for it
 
 Asha Morrow:OOC how much xp for Dracon and for nara's style of casting each?
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - Kaelith is ready to soak up whatever he can. Is there anything that we can learn from Kazon or Malila?
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC: 5 EXP to become a beginner in the style. They're branching disciplines though. I won't say you can't learn both, but realistically it would make more sense to pick one and then come back later. I'll just say that if you want to learn both styles then you'll be here for a month.
 
@@ -422,33 +422,33 @@ OOC: She doesn't like dealing with mortals normally
 
 OOC: I'll take my quick 5 min break now, take your time
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC: As for skills you can comfortably assume a demon or one of the deities can teach you
 
 Asha Morrow:OOC Asha will strongly suggest that their artificer (Corvin? idr) train with Kazon while they are here. Asha will add training in Dracon to her regimen, assuming the group does not want to stay long enough to learn both that and nara's spellcasting
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC - If Kaelith agrees then you can stay as long as you want. Just know the universe keeps moving
 
 OOC: So far that's Divination to Kaelith, Dracon to Asha?
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - Kaelith wants you to learn whatever you desire. This is a magnificent introduction to magic for Asha, and he in no way would want to interrupt that.
 
 Asha Morrow:OOC Asha will also do Illusion and spellcasting mastery with Voria if time permits
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC: Along with divination, I think we can assume you get one free spell when you open the greater way yes? Do you buy any more Kaelith?
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - Kaelith will learn Divination along with Nara's spellcasting style an a couple of Divination Spells
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC: Illusion is a good choice, any additional spells other than your freebie Asha?
 
@@ -458,7 +458,7 @@ OOC: I still need to kinda generate some more examples, but it's annoyingly open
 
 Asha Morrow:OOC asha will learn conjure illusion for her free spell, learn conjure greater illusion with xp, and learn implant memory with xp
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC: Evil cackling DM noises
 
@@ -466,23 +466,23 @@ OOC: Love the choices
 
 OOC: Which divination spells are you going for Kaelith?
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - Flame Reading as the freebie, fire dreaming, and Godsight...Image looking through Godsight with essence sight
 
 Asha Morrow:OOC so far for xp expenditure i am at is 5 for dracon, 8 for illusion, 10 for spellcasting mastery, 6 for the two non-free spells, for a total of 29xp spent
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC: Beautiful choices, those are incredibly useful. And Godsight is thematically awesome to pick up after visiting Xal.
 
 OOC: Thanks Asha
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - Kaelith - Divination 8xp, Nara Casting - 5xp, Fire Dreaming - 3xp, and Godsight 3xp. 19xp total.
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 Narrator:Nara starts the way only a true mage would: by handing Kaelith a book thick enough to stun a drake and telling him, with perfect seriousness, to read it front to back before he tries to be clever. The thing is packed with diagrams, marginalia, old arguments, and enough dense theory to make a lesser student fake their own death. She gives him days with it. Makes him sit with it. Then, only when she is satisfied he actually understands the bones of the technique, she steps in and begins the real work.
 
@@ -496,7 +496,7 @@ There is nothing showy in her method. She puts Asha in plain spaces first. Bare 
 
 Illusion, Voria insists, is not about spectacle. It is about confidence. The spell fails if the caster can't confidently react faster than their opponent can think through it. Something as simple as copying your regiment and forcing two copies to charge the enemy is enough to blow their initial volley. By the time that happens you should already be on your next step. Illusion is as much about what you do behind it as what you do with it.
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 Narrator:Conjure Illusion begins with simple objects. A coin. A knife. A second set of footsteps crossing the room. Conjure Greater Illusion comes later and hurts more, because scale means deeper commitment. A false corridor. A second doorway. A shelf full of books you can feel and read. Implant Memory is worst of all, not because it is hard to cast, but because it demands a certain kind of nerve. Voria watches her carefully there, making sure Asha understands the difference between influence and violation of another person's humanity. Mastery in spellcasting comes in between all of it, hidden inside repetition: cleaner sigils, smoother breathing, fewer wasted motions, less leakage when she reaches for power.
 
@@ -510,7 +510,7 @@ He teaches her to let the spell live in the motion instead of pausing to build i
 
 Aran grins more than he admits to during these sessions. He does not flatter her. He does, however, hit harder the moment she proves she can take it.
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 Narrator:Corvin gets stolen for stretches of time by Kazon, who treats the young artificer with the kind of grave attention usually reserved for sacred engines. Glass appears. Strange glass. Living glass, almost. The sort of material you do not waste and do not drop. Kazon says little at first, but when he does speak, Corvin listens like a starving man near a stove.
 
@@ -522,7 +522,7 @@ Of note, the R&R enjoyed by the marines was a huge success. Crew morale is at al
 
 As a result, no matter what Asha is doing, Sgt. Smoke is going to stop her on her way to the bridge or to meet anyone else because he's got some news to discuss.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - Kaelith would be heading to the bridge
 
@@ -538,17 +538,17 @@ Asha Morrow:Asha chuckles, "Take a survey of their favorite color crayons to eat
 
 Narrator: Kaelith:The bridge feels lived in again. Low lights, instrument glow, the steady hum of a ship that survived too much and came back heavier with it. Training still sits on everybody somehow; even at rest, nobody on this deck looks entirely civilian anymore.
 
-![](https://files.d20.io/images/475374291/w5WLbKJjcQMYwhHAmAq-jg/med.png?1770766669)
+
 
 Lysa Vorren:Lysa has one boot hooked under the rung of a chair and a datapad balanced on her knee, though she keeps drifting off the page and making little shapes in the air with two fingers like she cannot quite stop practicing. There is a wired-in brightness to her now, the look of someone who got exactly what she wanted and immediately started wanting more. Every few seconds her eyes cut toward the viewport or the spell matrices like she is already planning the next bad idea.
 
-![](https://files.d20.io/images/473449881/cL_uCLa-CsHARMqCKTqirg/med.png?1769556779)
+
 
 Rho Anselm:Rho is in the XO chair again, because of course he is, settled into it with the casual confidence of a man who has decided a thing is his without ever needing to say so out loud. He looks relaxed right up until you notice his eyes, which are doing the old work: people, angles, problems, back to people. He has a lot on his mind lately.
 
 Seraphine Morrow:Seraphine stands near one of the side consoles with her arms folded, posture straight, expression caught somewhere between thought and irritation. She glances up when you enter, but then turns her attention back to Nyrix for the time being.
 
-![](https://files.d20.io/images/478181285/NyR01STWeLZW7Jx5gInttg/med.png?1772584898)
+
 
 Nyrix:Nyrix has claimed a patch of space that is probably inconvenient for everyone else and therefore perfect by dragon standards. The little creature is half-curled, half-stretched in that liquid way only predators and cats ever really manage, watching the room with bright, rude intelligence. When you come in, Nyrix lifts her head just enough to acknowledge you, as if to say yes, fine, you may also be on this bridge
 
@@ -556,11 +556,11 @@ Sergeant Smoke:"Well, some of the actual demons wanted to join us. There's four 
 
 "I guess if we're accepting Confederacy spies, might as well turn it into a proper circus tent but that's your call."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith walks over to Nyrix, leans over and scratches her under the chin before settling in his chair by his matrix_
 
-![](https://files.d20.io/images/478181285/NyR01STWeLZW7Jx5gInttg/med.png?1772584898)
+
 
 Nyrix:Nyrix tolerates the approach with the grave dignity of a creature doing you a favor.
 
@@ -572,7 +572,7 @@ Sergeant Smoke:"Oh I'm just fine, Asha. I love my job. My only regret is learnin
 
 Sergeant Smoke smirks.
 
-![](https://files.d20.io/images/475374291/w5WLbKJjcQMYwhHAmAq-jg/med.png?1770766669)
+
 
 Lysa Vorren:"So like, what happens if we just keep doing this?"
 
@@ -580,27 +580,27 @@ She waves her hand around the room to the universe generally. "What after ten ca
 
 Asha Morrow:Asha smiles and gives Smoke a rough pat on the shoulder, "Will do, thanks Smoke." Asha leaves to head to the bridge to find what her officers are up to.
 
-![](https://files.d20.io/images/473449929/F3ccik3dOgyO6n9WNHxu4A/med.png?1769556811)
+
 
 Tamsin Vale:"One and done, babe."
 
-![](https://files.d20.io/images/473449881/cL_uCLa-CsHARMqCKTqirg/med.png?1769556779)
+
 
 Rho Anselm snorts.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Eventually you reach the power level of Aran, Nara, and Voria. I mean that's gotta be what happens, right?"
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 Narrator:Asha enters the bridge, catching Kaelith settled in his chair by the matrix and everyone else similarly set up.
 
-![](https://files.d20.io/images/473449881/cL_uCLa-CsHARMqCKTqirg/med.png?1769556779)
+
 
 Rho Anselm:Rho hops up with a smile. "Welcome back. Aran done whipping your ass?"
 
-![](https://files.d20.io/images/475374291/w5WLbKJjcQMYwhHAmAq-jg/med.png?1770766669)
+
 
 Lysa Vorren:"I don't know... if that was the case wouldn't they have all magic? I got the impression they've only catalyzed half a dozen times each at most."
 
@@ -612,7 +612,7 @@ Seraphine Morrow:"That's true. Even the gods don't know the locations of all cat
 
 Seraphine joins in Kaelith and Lysa's chat.
 
-![](https://files.d20.io/images/475374291/w5WLbKJjcQMYwhHAmAq-jg/med.png?1770766669)
+
 
 Lysa Vorren:"Oh, I was just saying like... what happens if we keep doing this? Catalyzing?"
 
@@ -620,77 +620,77 @@ Lysa Vorren:"Oh, I was just saying like... what happens if we keep doing this? C
 
 OOC: You can do a history check if you want
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Although I'm sure that's true Seraphine, our map sure has a shit ton of them we can hit."
 
 Asha Morrow:"I don't know actually, I am woefully undereducated on the topic. We don't necessarily _have_ to keep going, but the idea is to get strong enough to do what needs doing."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:This message has been hidden.
 
 This message has been hidden.
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC: Oops
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 Narrator:Kaelith, yeah, you know catalyzations rarely ever hit two digits at most. Many mages ascend by becoming guardians or, in rarer cases, binding a god directly. You know of Nebiat who bound Krox, and was then defeated by Frit who now wields Krox and Nebiat's power. In this way, Frit never really needed to even catalyze once... she went from zero catalyzations to godhood.
 
-![](https://files.d20.io/images/475374291/w5WLbKJjcQMYwhHAmAq-jg/med.png?1770766669)
+
 
 Lysa Vorren:"It doesn't scare you?"
 
 Asha Morrow:"What happens if we don't scares me more."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Ultimately I don't think anyone really knows how many Catalysts one person can absorb, but many of those wielding tremendous power took it form another source. And demi-god, a guardian, or something similar. Defeating someone and catalyzing their power is a thing too."
 
-![](https://files.d20.io/images/475374291/w5WLbKJjcQMYwhHAmAq-jg/med.png?1770766669)
+
 
 Lysa Vorren:"Well, can we all make a serious agreement with each other right now? If we go that far, if we go as far as Aran, or farther, we need to... I don't know. Stay friends? Even if we hate each other, we can't become the next Nefarius."
 
-![](https://files.d20.io/images/473449881/cL_uCLa-CsHARMqCKTqirg/med.png?1769556779)
+
 
 Rho Anselm nods slowly.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith's head snaps around towards Lysa at her question of fear_
 
 Asha Morrow:"Beyond that, if I start to become the next Nefarius _or worse_ you will have to kill me. I would not want to live to become what I want to destroy most."
 
-![](https://files.d20.io/images/473449881/cL_uCLa-CsHARMqCKTqirg/med.png?1769556779)
+
 
 Rho Anselm:"Seconded."
 
-![](https://files.d20.io/images/475374291/w5WLbKJjcQMYwhHAmAq-jg/med.png?1770766669)
+
 
 Lysa Vorren:"I think that's what Voria was trying to teach me, although she never said it out loud. Those people all have a long history with each other and I get the impression they've not always seen eye to eye about things. But visiting them was different than everywhere else I've been. It reminded me of our crew here."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"I don't think that your armor would allow you to become anything akin to Nefarius, Asha. But I think we would all agree to that sentiment. As for me, I intend to Catalyze every element of magic at least once. The rush is to good. I am driven to feel the exhilaration each one provides."
 
-![](https://files.d20.io/images/475374291/w5WLbKJjcQMYwhHAmAq-jg/med.png?1770766669)
+
 
 Lysa Vorren:"Yeah, it's addictive."
 
 Asha Morrow:Asha mumbles mostly to herself, "Tyranny comes in many forms."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"And Lysa, we have all shared in not one, but two events of tremendous magnitude that have forever bonded us. I think we will always remember each other fondly and always be ready to assist each other."
 
-![](https://files.d20.io/images/473449881/cL_uCLa-CsHARMqCKTqirg/med.png?1769556779)
+
 
 Rho Anselm:Rho returns to his seat and gets busy scanning for news. It's only a few moments before he casts a bulletin to the scry screens. "Well, it's happening. Trade moon arrival at Ternus in two weeks time."
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 Narrator:The bulletin is splattered with too much information. The trade moon is expected to pull in 300T in trade revenue. It's expected to be in position for a period of ten years to facilitate trade and Ternus must meet minimum trade quotas over that span of time.
 
@@ -698,27 +698,27 @@ Markets are going wild as well. The price of random goods are rapidly dropping, 
 
 Asha Morrow:"We'll be heading there soon after its arrival, I'm sure everyone has something they want and for me I want to outfit this battleship in preparation for its catalyzation. We will finally shed its awful name and be all the better for it."
 
-![](https://files.d20.io/images/473449881/cL_uCLa-CsHARMqCKTqirg/med.png?1769556779)
+
 
 Rho Anselm:"All I want is the fanciest spell rifle they'll sell me."
 
-![](https://files.d20.io/images/473449929/F3ccik3dOgyO6n9WNHxu4A/med.png?1769556811)
+
 
 Tamsin Vale:"Oh god yeah. I bet they'll have Mk. IX rifles for the elites. No way we can afford that."
 
 Asha Morrow:Asha grins, knowing better.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"I'm sure that we all want some new toys at the Trade Moon, whether it be equipment or intel or something else. But that's two weeks away. Anyone have any other ideas for what to do before then?" _A smile slowly forms on Kaelith's face_
 
 Asha Morrow:Asha tilts her head playfully, "It sounds like you have an idea Kaelith."
 
-![](https://files.d20.io/images/475374291/w5WLbKJjcQMYwhHAmAq-jg/med.png?1770766669)
+
 
 Lysa Vorren taps her chin, smiling.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"There has to be at least one Catalyst between here and Ternus."
 
@@ -726,7 +726,7 @@ Asha Morrow:"Well, pull up the map and lets take a look at the others we had pla
 
 Seraphine Morrow:This message has been hidden.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Life is a good thought." _Kaelith pulls out the map_
 
@@ -734,7 +734,7 @@ Asha Morrow:This message has been hidden.
 
 Seraphine Morrow:OOC: Sorry
 
-![](https://files.d20.io/images/475374291/w5WLbKJjcQMYwhHAmAq-jg/med.png?1770766669)
+
 
 Lysa Vorren:"I want to go to Spirit, personally, but I understand why you would say Life."
 
@@ -746,27 +746,27 @@ Seraphine Morrow:Seraphine stares at Lysa for a few moments, judging her.
 
 "Are you mad?"
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"I still need to feel the rush of Spirit as well."
 
-![](https://files.d20.io/images/475374291/w5WLbKJjcQMYwhHAmAq-jg/med.png?1770766669)
+
 
 Lysa Vorren:"Spirit is a valid form of magic, _Major_."
 
 Seraphine Morrow:"A valid form of magic for wyrms and sadists?"
 
-![](https://files.d20.io/images/475374291/w5WLbKJjcQMYwhHAmAq-jg/med.png?1770766669)
+
 
 Lysa Vorren:"Sometimes I forget you're only good at telling marines what to do."
 
 Seraphine Morrow:"Have you _ever_ seen combat, Lysa?"
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Says the" _Kaelith smirks and doesn't finish his comment_
 
-![](https://files.d20.io/images/475374291/w5WLbKJjcQMYwhHAmAq-jg/med.png?1770766669)
+
 
 Lysa Vorren rolls her eyes so hard she tilts her head back.
 
@@ -780,51 +780,51 @@ Asha Morrow:"Name a murder that doesn't require ending a life."
 
 Seraphine Morrow:"That is completely different. If I kill someone, their spirit can move on."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"You're worried about binding souls when you have without objection used the life blood of a mage to power your guns to kill? That's precious."
 
 Seraphine Morrow:"Not only do you not know if that is true or not, I draw the line at violating another's will. If Ternus is burning stolen magic, then I have blood on my hands for trusting the wrong machine. Fine. I can own that. But don't flatten everything into the same sin just because it makes your point cleaner. If I kill someone in battle, that is one horror. Binding their soul while alive, or what remains after they die, and making it serve you, is another. I have done ugly things in war, Kaelith. I am not going to pretend otherwise, but I know that is inhumane."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Nor am I going to make the claim that binding a soul into servitude isn't inhumane, however binding a soul of like mind to assist you in furthering a mutual goal can be beneficial for both parties. We can both wrap our opinions in whatever pretty paper suits the party Seraphine. Lets face it, horrors in ones eyes can be viewed differently in others."
 
-![](https://files.d20.io/images/475374291/w5WLbKJjcQMYwhHAmAq-jg/med.png?1770766669)
+
 
 Lysa Vorren:"Okay, that's a real line. I'm not even mocking you for having it. But you asked for one use of spirit magic that isn't soul-binding, and there are plenty. Wards, speaking with the dead who actually want to speak, laying something restless to sleep. The problem isn't spirit, Major. The problem is what cruel people do with it."
 
 Seraphine Morrow:"I see I'm not talking anyone out of this. Fine."
 
-![](https://files.d20.io/images/475374291/w5WLbKJjcQMYwhHAmAq-jg/med.png?1770766669)
+
 
 Lysa Vorren:"I don't think we're even going there anyway. Asha and Kaelith were talking about Life."
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 Narrator:Kaelith, the nearest life catalyst is Shaya, but there is another further out. It will be a stretch, but you could just make it there and straight to Ternus if you don't take any downtime.
 
 Shaya would leave you room to visit a second catalyst easily.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"The closest Life Catalyst is Shaya, which could be a whole different kind of adventure. There is another we could hurry to and make a quick turn to make it to Ternus, but I'll leave the call up for discussion."
 
 Asha Morrow:Asha tilts her head and leans it on a palm, "Well Shaya does sound ideal for Life catalyzation but..how welcoming would your people be to that?"
 
-![](https://files.d20.io/images/465566247/kx383qakTiwpkERKIActNg/med.webp?1764114136)
+
 
 (To Kaelith Voryn-Shai): It's pretty close to impossible, but swinging Voria's influence... maybe.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"They are definitely not going to like seeing me and Terrans aren't their favorite, but if we flaunt just speaking with Voria, we may be welcomed."
 
-![](https://files.d20.io/images/475374291/w5WLbKJjcQMYwhHAmAq-jg/med.png?1770766669)
+
 
 Lysa Vorren:"I wonder if she would be willing to send a missive ahead and let them know not to assist us."
 
-![](https://files.d20.io/images/473449881/cL_uCLa-CsHARMqCKTqirg/med.png?1769556779)
+
 
 Rho Anselm:"Depths, that's a bold ask. You realize that right."
 
@@ -832,41 +832,41 @@ Seraphine Morrow:"Absolutely not. Voria is not going to risk getting mixed up wi
 
 Asha Morrow:"Hmph, she seemed pretty cool to me but maybe you're right. I'll take your lead on this Kaelith, its your people so you know best if we can make that work or not. I'm happy to give it a try and leave if it doesn't go as expected."
 
-![](https://files.d20.io/images/473449929/F3ccik3dOgyO6n9WNHxu4A/med.png?1769556811)
+
 
 Tamsin Vale:"You're letting fear dictate your decisions."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"We can give it a shot. Worst that can happen is they tell us fuck off or try to kill us."
 
-![](https://files.d20.io/images/473449929/F3ccik3dOgyO6n9WNHxu4A/med.png?1769556811)
+
 
 Tamsin Vale:"Why life?"
 
 Asha Morrow:"You almost fucking died Tamsin, because we had _one_ Life mage on hand."
 
-![](https://files.d20.io/images/473449929/F3ccik3dOgyO6n9WNHxu4A/med.png?1769556811)
+
 
 Tamsin Vale:She shrugs. "You're at war. Stick to the original plan, don't pivot just because you took one casualty."
 
 Asha Morrow:"Maybe you misunderstand who I am and what this crew means to me to say that so casually."
 
-![](https://files.d20.io/images/473449929/F3ccik3dOgyO6n9WNHxu4A/med.png?1769556811)
+
 
 Tamsin Vale:She offers another slight shrug, meeting Asha's gaze cleanly. "That's what I'd do. Take it or leave it, ma'am."
 
-![](https://files.d20.io/images/473449881/cL_uCLa-CsHARMqCKTqirg/med.png?1769556779)
+
 
 Rho Anselm:"Ehhh, Captain's right. I don't care so much about having to retreat, so much as I do about losing one of you."
 
 Asha Morrow:That lingering desire fills Asha's heart again, _greed_. More than greed it would be arrogant to imagine getting through this impossible task of theirs without losing an Officer, but Asha doesn't hesitate to reach for that impossibility nonetheless. "Kaelith if you're good with visiting your people and think there is a reasonable chance of success then that is what we will do. Another adventure for us."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Face it Tamsin, we have all become more than just a crew. The events we share have bonded on a deeper level and none of us are prepared to just another one of us just die."
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC: Stellar, let's call scene there.
 
@@ -874,21 +874,21 @@ OOC: You two killed it
 
 OOC: Take 5 EXP for the session
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - awesome session. Thanks
 
 Asha Morrow:OOC yayy another great session
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC I'm glad we got a chance to finally train and spend exp
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - and next up, a trip to Shaya. LOL
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC Ohhh booyyyyy haha
 
@@ -896,11 +896,11 @@ OOC I'm sure they'll be thrilled
 
 OOC Return of the exile
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - a way more potent exile
 
-![](https://app.roll20.net/users/avatar/266322/30)
+
 
 Sshado C. (GM):OOC Gonna give the chamber of the first a run for their money
 
@@ -908,6 +908,6 @@ OOC All right I'll be on Discord. See you next week!
 
 Asha Morrow:OOC thanks yall see you next week :)
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - next week yall
