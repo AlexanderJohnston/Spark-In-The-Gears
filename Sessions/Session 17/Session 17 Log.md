@@ -4,7 +4,7 @@ Sshado C. (GM):OOC - How's everyone's week been?
 
 Asha Morrow:OOC fine so far, long day of meetings for me today tho. how about you
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - my day was pretty good. went by fast
 
@@ -28,7 +28,7 @@ OOC: Otherwise proceed as you like
 
 Asha Morrow:OOC question, where do I see 'shielding' as a stat for my armor
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - and I am not sure what the stats are on mine anymore with the removal of the Nefarious magic
 
@@ -40,7 +40,7 @@ OOC - Spell Armor Mk. V cheat sheet on the docs list for reference. Although I p
 
 OOC - On top of the base 1 armor it gives you
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - sounds good for a work in progress. LOL
 
@@ -54,7 +54,7 @@ Asha Morrow:OOC alright, how far away is the area the attacks are coming from? c
 
 Sshado C. (GM):OOC - Damn this book is light on rules
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - I just realized that as a relic hunter I get edge on everything I cast through my spellstaff
 
@@ -62,7 +62,7 @@ Kaelith Voryn-Shai:OOC - I just realized that as a relic hunter I get edge on ev
 
 Sshado C. (GM):OOC - That's a very nice bonus
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - sure is
 
@@ -78,7 +78,7 @@ Asha Morrow:OOC yeah even if we run we'll have to cast _something_ to make space
 
 Sshado C. (GM):OOC - Roll up, let's see how this goes and it'll be a good lesson for me
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:
 
@@ -204,7 +204,7 @@ Asha Morrow:The illusion of Asha taunts out with a yell and a devious grin, "**Y
 
 (To Asha): +1 EXP
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith will lift off, then apply a brief full power burst for a second or two to gain higher ground than their assailants before targeting the one that has not attack yet with Implode_
 
@@ -216,7 +216,7 @@ Narrator:OOC - Great question, they spread out from where you are so a couple ar
 
 OOC - You and Kaelith are just inside I believe
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - Kaelith should leave it when he takes flight
 
@@ -224,7 +224,7 @@ Kaelith Voryn-Shai:OOC - Kaelith should leave it when he takes flight
 
 Narrator:OOC Aye
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:
 
@@ -246,7 +246,7 @@ OOC - Oh wow nm
 
 And the fates cackled at Kaelith's dice.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - implode is 15 void damage if it hits
 
@@ -262,7 +262,7 @@ OOC - Unless you order them otherwise, Kaelith's illusions will follow his movem
 
 (For asha)
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:Kaelith targets center mass of the assailant yet to unleash his voidbolt, destabilizing his heart and causing a rupture that sucks half of his chest in with it.
 
@@ -270,7 +270,7 @@ Kaelith Voryn-Shai:Kaelith targets center mass of the assailant yet to unleash h
 
 Sshado C. (GM):OOC - One action to fly up, another to shoot down onto the guy is that right?
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - correct
 
@@ -290,7 +290,7 @@ OOC - +4 being (12 _2_ 2 _2_ 2)
 
 OOC (12 times 2 times 2 times 2 times 2)
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - I will eat the magic cost
 
@@ -300,7 +300,7 @@ Sshado C. (GM):OOC - Okay usual cost +4 to your spell pool this turn
 
 OOC - With staff right? So don't forget edge
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - was with staff and I added edge
 
@@ -310,7 +310,7 @@ Sshado C. (GM):OOC - Oh right, you hit
 
 OOC - It's a kill, you want to describe the implosion? There's two Shayan true mages down there in white robes.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:**Kaelith targets center mass of the assailant yet to unleash his voidbolt, destabilizing his heart and causing a rupture that sucks half of his chest in with it.**
 
@@ -404,7 +404,7 @@ The bolt goes wide and has no hope in hitting a moving target from where he's st
 
 OOC: Kaelith's up
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith will fly towards the shooter, closing the distance to save on his spell pool. **1 movement action** Then he unleashes a greater bolt (void/fire/dream) at his target_
 
@@ -430,7 +430,7 @@ Sshado C. (GM):OOC - End initiative
 
 Asha Morrow:The illusion of Kaelith yells out towards the real Kaelith, "**Did you get them?**"
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith hovers, spinning slowly searching rooftops for other assailants. He even engages essence sight to look for hidden things_
 
@@ -464,7 +464,7 @@ If anything, you might expect they had unusual magitech on them or something, bu
 
 The main takeaway is the scene looks ordinary, although you haven't seen a ton of corpses in essence sight, it does feel true.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith will fly over and grab the corpse before returning to the square and Asha and Bord_
 
@@ -474,7 +474,7 @@ Narrator:It's no problem for Kaelith to carry.
 
 Bord:Bord motions for Kaelith to set the man down on the pavement as he returns.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith sets the body down after landing, then takes a few steps back for Bord to get a good look._
 
@@ -482,7 +482,7 @@ Bord:He takes a few moments to look it over and then gives a nod over his should
 
 Bord looks at the two of you seriously, arms crossed. "I don't get the impression you two are gonna cooperate if I ask you to come with me, but it would be for the best. Take my ship and let's get somewhere safe before we sort this out."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith looks over to Asha, deferring to his Captain_
 
@@ -502,7 +502,7 @@ Seraphine Morrow:"Hey, you two are mages. Send a damn missive as soon as you can
 
 She curses but she actually sounds relieved.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"We will send word Seraphine."
 
@@ -510,7 +510,7 @@ Asha Morrow:Asha chuckles at the thought of sending a _missive_ to one of her of
 
 Bord:Bord half bows and motions to the ship in a sweeping gesture. "Be my guest." He holds the pose for a half second and then heads over to help finish loading cargo back into the bay.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith slowly walks to Bord's ship, stopping several times to glance up into the tree_
 
@@ -532,7 +532,7 @@ Asha Morrow:Asha heads to the bridge as directed and sits down _next to_ the pil
 
 Nyrix:Nyrix gets cuddly with Asha and stretches out, happy to get attention.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith follows Asha to the bridge and gives it a once over before taking a seat behind the Captain's chair_
 
@@ -542,7 +542,7 @@ He takes a seat and fires up the ship. "So, what brings to you Shaya?" he asks, 
 
 Asha Morrow:Asha absentmindedly continues giving attention to Nyrix as the dark thought of Bord setting up the assassination encounter to make himself look better to them. She shakes away the thought, not wanting to be as pessimistic as possible, "Well at the moment I think it was stupidity. It was a convergence of wants I guess."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith chuckles at Asha's response_
 
@@ -554,7 +554,7 @@ Bord:That one gets him good. Bord slaps his knee once in a good laugh and shoot 
 
 Asha Morrow:Asha grins, "You see why I didn't stick with them."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Don't look at me. I've been an outcast for over a hundred years. Nobody signs my paychecks but me."
 
@@ -564,7 +564,7 @@ Asha Morrow:Asha turns and shoots a glance to Kaelith then settles back again, "
 
 Bord:Once they're parked, he turns to face Asha and Kaelith. He stares hard at them both. "Then tell me why. What has possessed you to throw your lives away like this?"
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith scrunches his face at Bord's comment_ "Throw our lives away? What makes you think that?"
 
@@ -576,7 +576,7 @@ He straightens up and takes a deep breath, settling himself.
 
 All the charm and energy has been sucked out of this paladin. The radiant man who was standing before you on the battlefield is clearly the mask he puts on for other people.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Your honesty is refreshing Bord, but make no mistake about our place in this endless war was decided for us. Perhaps even before we catalyzed for the first time."
 
@@ -598,13 +598,13 @@ Sshado C. (GM):OOC - Aashitak, dream catalyst. Kumoshi was the air catalyst you 
 
 OOC - Asha is fast!!!
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - Stop taking such good notes
 
 Bord:OOC: No word stops my typing speed as hard as rhythm
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - LOL
 
@@ -628,13 +628,13 @@ Bord:He takes a seat at the table and lets his helmet drop onto it. He sinks int
 
 Asha Morrow:"Oh? I thought they were just as likely after you."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith walks over to the windows and looks out upon the drifter villages. He sighs deeply, accepting the warm embrace of life magic washing over him._
 
 Bord:He grins for a moment, then drops it with a wave of his hand. "They're not after me. I've seen attacks, that was weak."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith says bluntly_ "They are probably followers of Nefarius."
 
@@ -644,7 +644,7 @@ Bord:All his expression vanishes.
 
 Asha Morrow:Asha takes a deep breath then suddenly turns and stares, hard, at Kaelith.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Come on Bord. Don't play dumb. You have to realize that our armor is blessed by Xal. And both sets used to be full of Nefarius's plague magic. **Kaelith shrugs his shoulders at Asha** "He's a fucking paladin of Voria, he will figure it out eventually even if we don't tell him."
 
@@ -656,7 +656,7 @@ Asha Morrow:"Kaelith, for fuck's sakes at least make people _work_ for it."
 
 (To Asha): +1 EXP for this scene
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Why play games, this isn't a negotiation for some parts or weapons. This is the fate of the fucking system we are talking about. Any assistance or guidance we can muster is a plus."
 
@@ -686,7 +686,7 @@ Asha Morrow:"That is what I mean."
 
 Bord:Bord slowly leans back in his chair, not sure how to take that.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Some of us are chosen to walk a path others would not have the courage to follow Bord. That makes us different or special. Or maybe stupid. But for whatever reason we were chosen and how we choose to follow that path tells a story of its own. I myself intend to complete the circle of magic, learning all aspects, common and greater, and wherever that leads me, I will go."
 
@@ -704,7 +704,7 @@ Asha Morrow:Asha takes a breath and thinks for a few moments, shooting a glance 
 
 Bord:"No, it has to be right now."
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"You are aware of my lineage Bord. That may pose some issue when we get up in the tree tops."
 
@@ -720,7 +720,7 @@ Bord:He smirks at Kaelith's remark. "No concern there," he replies. He produces 
 
 Nyrix:She hops off the table and strolls right through it.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith walks over to join the two_ "Well now. What are we waiting for?"
 
@@ -738,7 +738,7 @@ Bord:Bord follows you through and holds his head high, standing just beside the 
 
 Nyrix:Nyrix wastes no time to hop up and lap at the golden liquid. It borders on blasphemous behavior to treat it so casually, but she does.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith walks slowly over to the pool and stares into it_
 
@@ -758,7 +758,7 @@ Asha remains conscious of what is going on though.
 
 Asha Morrow:Asha approaches the pool.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith soaks in the light of Shaya and with all of his might attempts to trace the symbols of life magic and his family sigil in the air_
 
@@ -802,7 +802,7 @@ At the basin, Nyrix goes perfectly still. Her eyes glaze silver-blue. Her claws 
 
 Asha Morrow:Asha breathes like it is the first time again, tears streaming down her face. The shock and awe of catalyzation never cease but Life has brought her something else entirely. Maybe she always knew it and now she can _see_ it, _feel_ it. Life is everywhere the same way she always thought death was everywhere. Asha is reminded of the same feelings the previous catalysts gave her, seeing and feeling really is believing. Asha turns to look at her companions, both the little drake and the proud Shayan. Speechless, again.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:**Kaelith tries with all that is within him to dig deeper into the vision. To find the proof of the cycle he seeks. And to find the memories of long lost Voryn-Shai in the light of Shaya**
 
@@ -820,7 +820,7 @@ In practical terms, there is _some_ realm of Dream Kaelith is now aware of.
 
 Nyrix:Nyrix transforms in golden light before Asha's eyes. Her body slides down like liquid from the edge of the basin, forming into a larger shape. It takes quickly to form, becoming a dragon like she may have rarely seen representing the Krox in trades and contracts. She's recognizable because she only approximates a human. The hair is slightly off, and her skin is a little too perfect. She looks just like her homeworld, cold and pale with hair like white snow. Her eyes slowly come into focus as she pulls away from the light of Shaya.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Still trapped in the vision or his own mind, Kaelith's body relaxes. His shoulders roll forward and his head hangs toward the floor. It's almost as though the weight of expectations and the world have been lifted from him_
 
@@ -834,13 +834,13 @@ Asha Morrow:Asha is absolutely _gobsmacked_ watching Nyrix change, she just star
 
 Nyrix:Her eyes slide to Asha and she suddenly smiles. "You saved me," she say simply, staring into Asha with a laser focus of pride and appreciation.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith slowly regains himself and his posture, but still stands motionless with his eyes closed_
 
 Asha Morrow:Asha's voice sounds _small_, more tears stream down her face "What?"
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith seems to react to Asha's voice by tilting his head her direction, but does not yet open his eyes_
 
@@ -852,7 +852,7 @@ Asha Morrow:Asha can barely get the astonished words out of her mouth, "Kaelith,
 
 Bord:"I'll be fuckin' damned, what are _you_?" he asks under his breath.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:_Kaelith inhales deeply then exhales slowly_ "What is it you wish me to see Asha? I am hoping for more truths from Shaya."
 
@@ -864,7 +864,7 @@ Nyrix:As soon as Kaelith inhales, she goes to the floor. Nyrix presses her foreh
 
 Bord:Bord watches in stunned silence.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:*Kaelith slowly opens his eyes and is confused by the hand that was on his back that is neither Asha's nor Bord's. He slowly turns his head to see who else is in the room. **Confusion clearly crosses his face** "Who is this?"
 
@@ -880,7 +880,7 @@ Asha Morrow:"Nyrix, please. Get up."
 
 Nyrix:She stands and raises her head proudly, her gaze meeting Asha evenly.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"Nyrix?" _Kaelith announces in a shocked tone_ "Shaya seems to have truly touch you."
 
@@ -888,7 +888,7 @@ Kaelith Voryn-Shai:"Nyrix?" _Kaelith announces in a shocked tone_ "Shaya seems t
 
 Nyrix:She bows her head slightly in acknowledgement. "Shaya is an old friend. She would see Kumoshi freed from his prison. They are connected in death through their actions. Both slain to stop the world enders, trapped forever in an endless war with them. Please, let me help you put an end to this." She swallows, tilting her head down further. Wet tears hit the floor, falling from her face and freezing as they land.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:"We share in your bond now, both with Shaya and with Kumoshi. You need not bow your head to me for you are my sister and we share in the story of the saviors. Stand tall as my equal for one day I may feel as though I should bow to you."
 
@@ -898,7 +898,7 @@ Sshado C. (GM):OOC: Good stopping point here. Both of you take 5 EXP for the ses
 
 Asha Morrow:OOC another banger of a session, what an ending wow
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - holy smokes. another fabulous session
 
@@ -906,7 +906,7 @@ Kaelith Voryn-Shai:OOC - holy smokes. another fabulous session
 
 Sshado C. (GM):OOC That was great, glad you both had fun
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - so life magic, 3 life resistance, and 3 spells from the catalyzation?
 
@@ -914,7 +914,7 @@ Kaelith Voryn-Shai:OOC - so life magic, 3 life resistance, and 3 spells from the
 
 Sshado C. (GM):OOC Exactly, and I'll probably give you both a Shaya boon as well. I need to double check the book on that but don't let me forget.
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - sounds good
 
@@ -928,6 +928,6 @@ Asha Morrow:OOC yayy, well thanks much for the session yall. see you next week ^
 
 Sshado C. (GM):OOC Thanks so much. Hope you both have a nice week :)
 
-![](https://files.d20.io/images/463501989/uffoiECHgg_FePKmfVj4AA/med.webp?1762706719)
+
 
 Kaelith Voryn-Shai:OOC - until next week
