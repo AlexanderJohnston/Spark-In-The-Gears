@@ -1,4 +1,4 @@
-# Kaelith Voryn‑Shai — Personality Profile (Player‑Facing)
+f# Kaelith Voryn‑Shai — Personality Profile (Player‑Facing)
 
 ---
 

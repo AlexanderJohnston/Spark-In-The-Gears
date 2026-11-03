@@ -1,0 +1,516 @@
+
+Sshado C. (GM):OOC - Did you get labor day off yesterday?
+
+
+Kaelith Voryn-Shai:OOC - sure did
+
+
+Sshado C. (GM):OOC - That's what I like to hear
+
+I could use the rest of the week off now :) to sleep
+
+
+Kaelith Voryn-Shai:OOC - I was joking at work today about starting a petition for labor week. LOL
+
+
+Sshado C. (GM):OOC - lol I would LOVE that
+
+
+Kaelith Voryn-Shai:OOC - me too
+
+Asha Morrow:OOC same
+
+
+Sshado C. (GM):OOC - All right give me just a sec to finish typing this up and we'll begin
+
+Quick recap notes since it has been a while:
+
+Session 24 - Axiom was collected. Lone Star refitted. Aran was given the Terra disk. Nara admitted to arranging the catalyst map and salvage assignment.
+
+Session 25 - Axiom catalyzed with Xal. Kek connected the surviving future to the Hand's weapon, Saezo's crucial hesitation, and Maena's plots with Spark, as well as Ternus engaging in their Umbral mining operations.
+
+Session 26 - Asha assigned work, the group accepted Rho's proposed operation with Saezo, and agreed in principle with Yraina's infiltration plot.
+
+OOC - Nyrix was told to stay. Seraphine will return to Ternus with Tamsin. Rho and Smoke will take a platoon to Saezo. Lysa wants to access the corpse of the Maker's Wrath (Necrotis Dreadnought ship) to investigate Spirit. Xal Nara / Xal Aran are convening with their Pantheon of deities.
+
+
+Narrator:The Lone Star hangs beside the Skull of Xal, its rebuilt systems humming quietly beneath the bridge. Violet light spills across the windows and the clean edges of consoles that look brand new and extremely expensive. The crew remains gathered around them. Seraphine is leaning forward in the captain's chair, Tamsin has stopped working on her rifle, and Nyrix is watching the conversation with obvious interest.
+
+There is finally enough work to go around. Seraphine and Tamsin have Ternus to investigate. Rho has proposed taking Smoke and a platoon into Saezo's operation as hired protection. Lysa is waiting to learn whether Nara will let her anywhere near Necrotis' remains. Nobody has actually left yet, but the bridge is already beginning to shift with movement and discussion.
+
+Yraina, meanwhile, is still staring at Asha. She offered to steal the Maena memory-imprinting device, wipe your memories and then walk you into Maena as slaves. Asha agreed, which seems to have surprised her.
+
+Asha's last question is still waiting for an answer: who would be going with her?
+
+
+Yraina:"The fewer people the better. And with a strong preference to those who can survive on their own."
+
+
+Kaelith Voryn-Shai:"I don't know how I feel about a memory wipe. How do you plan on making us whole again?"
+
+Asha Morrow:"What's the risk of going alone?"
+
+
+Yraina:"I would use a little bit of bureaucracy, the Inuran way. Declare you both as personal servants on the entrance, which will get flagged and we'll all be sent to temporary holding for a while. More than enough time for me to administer the restoration magitech."
+
+"Going alone? As in a solo operation?"
+
+Asha Morrow:"Right, well I mean just one memory wipe."
+
+"Though I'd certainly feel better with Kaelith there."
+
+
+Kaelith Voryn-Shai:"I will not let you go alone Asha, I just want to make sure there is a plan. And the rest of you better come crashing down the door if we have not returned in a week."
+
+Asha Morrow:"Alright alright, just wanted to check."
+
+
+Nyrix:"Understood. If you do not return in a week then I will ensure the doors break."
+
+
+Yraina:"I'm keen to not spend too long waiting around and planning. We'd be wise to think ahead on some agreed upon guidelines though. For one, I think we should each be prepared to fight for our lives if things go south."
+
+Asha Morrow:"That's pretty basic, no?"
+
+
+Yraina:She leans forward on the holographic display table at the center of the bridge and summons up a map of the trade moon, transmitting from her data pad. She slowly zooms down onto a spot that is completely inconspicuous on the surface, other than being only a half kilometer from a minor trade port and landing pad.
+
+"What about escape? If everything goes to Depths and you see a way out, are you taking it?"
+
+She adds, "We will be completely outnumbered."
+
+Asha Morrow:"What if everything goes great?"
+
+Asha shrugs, "I don't mean to be flippant, but this is an insane plan with high risk - especially before our memories are returned. We are already putting a lot of trust in someone who we, and no offense, only barely know at this point and for barely any time in the grand scheme. Pointing out being outnumbered, or needing to fight for our lives, I just think it feels like small stuff compared to the very core of the plan. I'm already in."
+
+"This is that important. Something happens in every other timeline that fucks things so bad it starts being impossible to even see what happens after. We have barely come this far and it is only by fate, or rather the hands of a few people, that we are not in one of those realities."
+
+
+Yraina:Yraina looks like she's about to give Asha an earful about this in response but at the same time just mildly confused. "I suppose I could get behind that philosophy."
+
+
+Rho Anselm smirks.
+
+
+Kaelith Voryn-Shai:"I have already decided that the plan is going to fall to shit, so I'm ready to fight tooth and nail to save our fucking hides. I'm ready to fry whoever gets in our way of an escape and not think twice about it. If it goes better than I expect than great, otherwise know that there are sure to be fireballs and lightning bolts flying everywhere."
+
+
+Nyrix:"Little miss Inuran, what of your family's power? Do they use the ways of the weaver as well?"
+
+
+Yraina:Yraina looks over. "What?"
+
+
+Lysa Vorren scrunches her eyes for a moment and then says, "Scrying."
+
+
+Yraina:"Uh, no. They are spirit workers. Their true mages may dabble but they're only checking you for Bindings on the way in."
+
+
+Nyrix:"And your belongings?"
+
+
+Yraina:"I'm not smuggling anything in for you."
+
+
+Nyrix:"Fine."
+
+
+Yraina:"As to what you were just saying, Kaelith, I expect you will have the opportunity to fry then. We're not getting out unbothered."
+
+
+Kaelith Voryn-Shai:"Once we have our memories back, I'll just reach through a void rift to the ship and grab our gear."
+
+
+Yraina:"Stellar."
+
+She straightens up and crosses her arms. "I'm going to steal a lot of salt from the kitchen now to bring with us. As a last resort, we can use it to hold spirits back."
+
+Asha Morrow:"Are you...serious?"
+
+
+Lysa Vorren:Lysa grins. "Primitive, but yes she's right."
+
+Asha Morrow:"Really? Actually?"
+
+
+Lysa Vorren:"I've always wanted to ask a God why that even works."
+
+
+Yraina:"It won't hold forever, but yes."
+
+
+Kaelith Voryn-Shai:"Shit. Sounds like I need to learn more about spirit. That sounds pretty sweet."
+
+
+Yraina:Yraina grimaces at the thought. "Be careful what you wish for."
+
+Asha Morrow:"Unbelievable." Asha barks out a laugh
+
+
+Lysa Vorren just shakes her head, but smiles.
+
+Xal Aran:A missive arrives on the bridge from Xal Aran, unopened.
+
+Asha Morrow:"I'm sure more good news awaits." Asha opens it.
+
+Xal Aran:Aran does not waste a beat, talking immediately and calmly. "The Pantheon has decided to grant your request to allow one mage aboard the Maker's Wrath. Our condition is that she be accompanied by no fewer than myself, Lady Voria, and Lady Frit."
+
+
+Lysa Vorren:Lysa's eyes widen but then she keeps her composure.
+
+Asha Morrow:"Well that sounds _fun_!" Asha grins, "Good luck with that!"
+
+
+Kaelith Voryn-Shai:"Watch your step Lysa, that is not going to be good time."
+
+
+Lysa Vorren:"Great, thank you, Aran."
+
+Xal Aran:"Send a missive when you're ready and we'll translocate you."
+
+He closes the message.
+
+
+Lysa Vorren:"Depths... it's weird to talk to these people. They treat the ability to be wherever they want so casually."
+
+"To just pluck me out of the ship."
+
+
+Rho Anselm:"Y'know they can hear you, right?"
+
+
+Lysa Vorren:"Yeah, who cares."
+
+
+Tamsin Vale:"Wellll, at least they're on our side."
+
+Seraphine Morrow:"We're on _theirs_," she corrects. "For now."
+
+Asha Morrow:"I assume everybody here wants to continue existing, right? So we're all on eachother's side for the moment."
+
+
+Yraina:"For all of its flaws, the previous state of things was workable. Existing is generally good."
+
+
+Rho Anselm:"Yeaaah we're a bunch of downers. You know what I wanna do? I want to go fuck up some ten thousand year old shitwad plot to keep me from enjoying beer and living by a lake on New Texas."
+
+
+Kaelith Voryn-Shai:"I've just existed already. Sorry, but I'll take imminent death over that any day."
+
+
+Lysa Vorren:"Kaelith, in case we don't see each other again for a while - good luck with Axiom. Don't compromise on those catalysts. I'll bring you back something from the Wrath."
+
+Asha Morrow:"Nothing like the rush of death to propel you forward, eh?"
+
+
+Rho Anselm:"Aye."
+
+
+Kaelith Voryn-Shai:"Thanks Lysa. And I intend to follow the plan for Axiom to the letter. And i wouldn't call it the rush of death Asha, but scraping by and trying to find your next meal sucks."
+
+Asha Morrow:"It truly does suck." Asha takes a moment to consider the old corvette she used to fly solo to make ends meet and where she is now.
+
+
+Yraina:She leans forward on the holographic display table at the center of the bridge and summons up a map of the trade moon, transmitting from her data pad. She slowly zooms down onto a spot that is completely inconspicuous on the surface, other than being only a half kilometer from a minor trade port and landing pad.
+
+"This here, this is an Educator. They keep the devices we need alongside memories of people, like a databank. Mostly just the ones Maena considers valuable. Some are specialists that they rehire periodically and it smooths the entire process out. Obviously some are also family records that Maena uses to leverage control over other people. We don't need to go that deep though, just get the devices and get out, avoid dealing with the high security areas."
+
+At some point while she speaks it becomes apparent that there is a facility there, but it's well-disguised to look like more of the surface. Built under and into it if anything.
+
+Asha Morrow:"Is it possible to do this in a way where nobody will know what happened? What happens if word gets out some people came and ransacked the devices? Would their security go up? Would the scrutiny we undergo increase?"
+
+
+Yraina:"Mm, this is a good question. Two ways I can think of; either walk in and do it as quietly as possible, or there might be an old specialist I could call in a favor from. He owes me, and I know he's good for it, but that's one more person who would know something is going on. The quiet way is to assert authority at the entrance. There's a... trick to it, magic that authorizes you as someone who _requires_ discretion and has the rank to support it."
+
+Asha Morrow:"Tell me more about the quiet way."
+
+
+Yraina:"It's like I said. Almost like having a special tattoo, and if it's seen then anyone with a brain knows to immediately get out of your way and pretend you weren't there."
+
+"It's doubtful they have changed it since I was a child. It's extremely time consuming to change the process."
+
+Asha Morrow:"Okay and do you have one or how do we get one?"
+
+
+Lysa Vorren:Lysa watches her with cool, muted suspicion.
+
+
+Yraina:"Yes, it's magic I can invoke."
+
+
+Lysa Vorren:"Is that magic you can teach?"
+
+
+Yraina:"I'm afraid not."
+
+Asha Morrow:"Why not?"
+
+
+Yraina:"It is a security system, so there is a physical component to it. A tiny fraction of my soul is in the core repository. It is kept well away and sealed from any interference, so only something directly connected to it can invoke it to trigger confirmation of Maena authority."
+
+"You could cast the same sigils and nothing would happen."
+
+Asha Morrow:"So you already have this authority then?"
+
+
+Yraina:"Yes, I do. It is non-revokable."
+
+"As I said the only way to change it would be to redo the entire system. That would mean opening, risking access to the core and manually removing each soul, imprinting it again, and re-inserting them."
+
+
+Lysa Vorren:"Excuse me, what the _fuck_ is your family working on?"
+
+
+Yraina:"I don't know."
+
+"Look, I would tell you if I could. I'm in far too deep with you now to lie about it. I'm not ashamed of my past. I chose to leave."
+
+
+Lysa Vorren:"I wasn't accusing _you_. I am just shocked."
+
+
+Rho Anselm:"Right. So it's a gamble on your authority, or a gamble on your contact."
+
+
+Kaelith Voryn-Shai:"Well ain't this going to be fun. Maybe we need to risk life and limb with Yraina before we make this leap of faith."
+
+Asha Morrow:"Sounds like a pain in the ass either way, but I'm leaning on Yraina's existing authority to keep this as quiet as possible. Are there other...for lack of a better worse, 'defectors'? How many? Any high profile defectors? Any major betrayals? Are _you_ a high profile defector? The more yes' the higher the risk they'd go through the effort of changing the system, the less the better our odds."
+
+
+Yraina:"Generally no, the machine ensures you stay in your lane. Specialists for example, they can never truly defect because they're never allowed to keep those memories outside. At best they can commit subterfuge, and that does happen often. Things get stolen or go missing, they don't really care about that."
+
+"I didn't defect so much as I just... left before I was old enough to be involved."
+
+Asha Morrow:"So low chance they'd go through the effort for you or others who might've left?"
+
+
+Yraina:"Right. I stand no chance of getting anywhere important without immediately being grabbed like anyone else, and the system will ultimately put me back in front of my mother."
+
+"There is no reason for them to look for me, at least as far as I've known."
+
+"I sometimes think of them like a ship. The outer layers are meant to be destroyed to save it. If you can't even scratch them then you're not worth their time."
+
+
+Kaelith Voryn-Shai:"So we can talk about the what ifs all day long. We cannot be sure that we can trust Yraina 100 percent, but she offers the best chance of getting in and getting what we want. We have lived by the sword thusfar Asha, Let's just do this and see where it leads."
+
+Asha Morrow:"I agree, let's get after it."
+
+
+Kaelith Voryn-Shai:_Kaelith nods_ "Let's do it."
+
+
+Narrator:Lysa sends her missive and barely has time to lower her hand before she's gone. No warning, there is just an empty space beside the display table now.
+
+The rest takes a little more organizing. Seraphine and Tamsin depart aboard a corvette with a small squad of Asha's marines, while Rho and Smoke make their arrangements for Saezo. People collect equipment, exchange instructions, and find somewhere else to be. By the time the Lone Star reaches the Trade Moon, there is considerably more room on the bridge. The port Yraina selected is small by local standards, so it only has room for a few dozen ships. Cargo tugs crawl between landing pads beneath banks of hard lights. Low service buildings crowd around the perimeter with walls covered in docking numbers and advertisements. Nobody here seems particularly interested in who is arriving or leaving, and comms don't open a single time to inquire, nor did anyone try to extort you.
+
+The Lone Star settles onto its assigned pad with a low vibration through the deck. Outside, ground equipment is already moving toward the ship.
+
+
+Yraina:Yraina brings her map up again. The Educator is half a kilometer beyond the port, its marker hovering over what looks like an unremarkable stretch of the moon's surface. Even knowing where to look, it takes a moment to distinguish the facility's outline from the terrain around it.
+
+"Suppose we just suit up and fly there. That's not a long trip for tech mages."
+
+
+Kaelith Voryn-Shai:"Sounds like a plan to me."
+
+Asha Morrow:"Sure, our suits should handle it fine."
+
+
+Narrator:The flight takes less than a minute and your suit visors guide you with AR overlays on the terrain. The port drops behind you, its traffic thinning into scattered service roads and broad stretches of bare surface. From above, the Educator is almost invisible. Its roof follows the surrounding terrain so precisely that only the straight edges of a recessed entrance give it away. As you descend, more of the facility becomes apparent. A shallow ramp leads down between retaining walls to a broad set of dark glass doors. Beside it, a separate vehicle entrance disappears beneath the surface, wide enough for a cargo transporter. Both approaches are clean and maintained. Someone has gone to considerable effort to make an expensive building look like nothing.
+
+There are no guards standing outside. A narrow strip of light above the pedestrian entrance brightens as you land nearby, and something small behind the glass turns to follow your descent.
+
+
+Yraina:Yraina lowers her helmet and starts walking, though not clearly having picked an entrance yet. "Best not to linger too long. Talk and walk?"
+
+She is taking her time not to move too fast.
+
+Asha Morrow:"Yep, I'm right behind you."
+
+
+Kaelith Voryn-Shai:_Kaelith lands and lowers his helmet as well, following Yraina as she walks_
+
+
+Yraina:Yraina leads the group to the front door. Through the doors, you can see a reception area. Pale walls, a long counter, several empty chairs. An Inuran attendant sits behind the counter with a display suspended in front of him. Two people in plain work clothes occupy seats along the far wall, waiting quietly. She doesn't hesitate to pass inside.
+
+
+Narrator:The attendant looks up as you enter. His eyes move across your armor, then settle on Yraina. He lowers his display and waits.
+
+
+Yraina:Yraina traces a small, precise set of sigils in the air. The pale lines of spirit briefly illuminate something beneath the skin of her wrist. A matching symbol forms on the display suspended in front of the attendant and holds for a moment before both go dark. The entrance remains shut.
+
+
+Kaelith Voryn-Shai:_Kaelith stands tall and attempts to look like Yraina's security_
+
+
+Yraina:She tries again, slower this time. Nothing answers, and through the glass you see the attendant glance down at his display with a slight frown.
+
+
+Narrator:"Something wrong?" he asks coldly.
+
+Asha Morrow:Asha doesn't react, she just stares forward and waits.
+
+
+Yraina:
+
+rolling 4d6>5 Performance
+
+(
+
+5
+
++
+
+3
+
++
+
+5
+
++
+
+1
+
+)
+
+**=**
+
+2 Successes
+
+"I was attacked by one of our _workers_, and freshly wiped. We're just restoring the backup."
+
+
+Narrator:The man stares silently at Yraina, then Asha and her unreacting presence, then Kaelith.
+
+
+Sshado C. (GM):OOC: Performance check DT1
+
+Asha Morrow:
+
+|Asha Morrow|
+|---|
+|Performance|
+|4 Successes|
+|(4+1) Charisma  <br>(0+0) Perform(TN5)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+
+Kaelith Voryn-Shai:
+
+|Kaelith Voryn-Shai|
+|---|
+|Performance|
+|3 Successes|
+|(3+3) Charisma  <br>(0+0) Perform(TN5)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+
+Narrator:The suspicion quickly drains from the Inuran's face and is replaced by fear. "Who was wiped? Never saw you, madame."
+
+Asha Morrow:Asha has ice water in her veins, this is business as usual.
+
+
+Yraina:She doesn't respond, simply approaches the door and expects it to be unlocked, and it is made so by the attendant. They're in.
+
+
+Narrator:The door opens into a wide corridor that slopes gently beneath the surface. Everything is clean, evenly lit, and very quiet. Yraina walks like she knows where she's going, and the few staff you pass move aside without asking. One of the rooms has its door open. Inside, a man in plain work clothes is sitting upright in a padded chair while a technician removes a thin silver frame from his head. He looks around with immediate confusion.
+
+"Where's my daughter?"
+
+The technician checks her display. "You don't have any dependents."
+
+He starts to protest, then stops. You can see him trying to remember why he asked.
+
+The technician marks something on her display and reaches for the frame again. Yraina keeps walking.
+
+
+Yraina:Two doors farther down, she turns into a preparation room. Cabinets line the walls around a pair of adjustable chairs. There are trays of small magitech instruments, sealed contact pads, and several of the same silver frames resting in charging cradles. Beside each frame is a handheld unit with a narrow slot for an imprint.
+
+A rack above the workbench holds dozens of translucent wafers, each seated in an individually numbered case. Some have names beneath the numbers. Yraina goes directly to a cabinet and opens it. Inside are compact cases with fitted spaces for a frame, a handheld unit, and several blank wafers. Three are fully stocked.
+
+She yanks them out one at a time and hands them to you two without a word.
+
+
+Yraina looks terrified, despite the silence.
+
+Asha Morrow:Asha takes the device silently and gives Yraina a cheeky wink.
+
+
+Yraina:She wiggles her eyebrows slightly and then finally speaks up. "That's all we need. Let's get the Depths out of here."
+
+
+Kaelith Voryn-Shai:_Kaelith takes his and nods_ "After you."
+
+
+Narrator:The door opens before anyone can turn toward it.
+
+An older Inuran woman steps inside carrying a slate, her sleeves rolled neatly above the wrists. Her attention goes immediately to the open cabinet, then to the case in Asha's hands. “Good, you've found a complete one.”
+
+Asha Morrow:Asha nods and follows, letting Yraina lead again.
+
+
+Narrator:She moves aside and gestures to the corridor. "Bring it through. We've got a specialist refusing restoration until someone explains why the last three contracts overlap. I need a witness and someone capable of holding him still."
+
+
+Yraina:Yraina blinks rapidly, shooting Asha a panicked glance.
+
+Asha Morrow:Asha steps outside to the corridor and looks to the woman to lead the way, saying nothing.
+
+
+Narrator:Yraina quickly follows along with Asha.
+
+
+Kaelith Voryn-Shai:_Kaelith sighs deeply then follows_
+
+
+Narrator:The woman takes their silence as agreement and leads you two doors down, reading from her slate as she walks. "He does this occasionally. Usually he's pleased with the compensation once he's restored."
+
+Inside, a thin Inuran man sits on the edge of a padded chair. Three contracts are spread across a display in front of him. He looks up at the case, then at your armor, and slowly puts both hands flat on his knees. "I agreed to one placement,” he says. “Those are three different facilities. The same dates. My signature on all three."
+
+The Inuran woman sets her slate beside the chair. "And you've been paid for all three," she says in a tired voice.
+
+The man replies, "That wasn't my question." Suddenly he looks to Kaelith, "Please. Let me finish reading before she puts anything back."
+
+Asha Morrow:Asha sets the device down on a nearby surface, close to the woman if she is near one. She the moves to behind the man and places a hand on his shoulder. No pressure, but there is intent implied.
+
+
+Narrator:The man goes very still beneath Asha's hand, then cautiously reaches forward and expands the contracts. "They aren't three jobs. The first one pays for my work. The second one permits another facility to retain the memories produced. The third authorizes those to be restored whenever expertise is needed again again, minus the intervening period."
+
+He opens the most recent authorization. Attached to it is a short recording of this room. He is sitting in the same chair, wearing different clothes.
+
+On the recording, he asks to cancel. The woman beside you reaches toward the display, but he scrolls past her hand. Beneath the recording is the disposition of his request.
+
+**Cancellation deferred pending restoration of the consenting identity.**
+
+"What, so you just fucking install a version of me that agreed?" he asks.
+
+She simply replies, "We restore the context in which you made an informed decision."
+
+
+Narrator:His shoulders go rigid. "How many times have I asked to leave?"
+
+
+Yraina:Yraina stares hard at Asha, trying to will out of her some signal. She looks ready to kill.
+
+Asha Morrow:Asha stares back and her face goes hard, as if she is willing her empathy away. She fails, and gives the lightest little head jerk from Yraina towards the inuran woman.
+
+
+Yraina:OOC: Halfway break time, give me ten
+
+
+Sshado C. (GM):OOC: Y'know what, I have a proposal that we call it here since this is basically the entire setup for the big raid. I still need to finish the main map for it anyway, so we could run the entire thing in 4 hours in one shot next week. Normally I'd go on, but I'm so tired today.
+
+OOC: It's all action going forward and not having a finished map would be silly for it
+
+
+Kaelith Voryn-Shai:OOC - that's ok by me
+
+Asha Morrow:OOC no problems here
+
+
+Sshado C. (GM):OOC - Great, I'm glad we got a chance to play finally. Let's take 2 EXP and go get some of your night back
+
+Asha Morrow:OOC good seeing yall, thanks for the session. have a great week!
+
+
+Wartok:OOC - good short session and good getting back at it
+

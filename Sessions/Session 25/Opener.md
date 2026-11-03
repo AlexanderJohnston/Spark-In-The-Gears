@@ -1,0 +1,1 @@
+The Xal-aligned characters are close allies, but knowledge does not propagate automatically between them. If Aran, Nara, Voria, Ikadra, or the Swarm knows a new fact, establish how it was shared.

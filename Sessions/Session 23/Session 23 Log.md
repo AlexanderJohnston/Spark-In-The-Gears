@@ -1,0 +1,1289 @@
+
+Sshado C. (GM):OOC: hey
+
+OOC: hey
+
+OOC: I put a recap on Discord if you need it, just shouting it out here because I always miss Discord
+
+OOC: I put a recap on Discord if you need it, just shouting it out here because I always miss Discord
+
+Asha Morrow:OOC helloo
+
+OOC helloo
+
+
+Kaelith Voryn-Shai:OOC - hey all
+
+OOC - hey all
+
+Asha Morrow:OOC howdy
+
+OOC howdy
+
+
+Sshado C. (GM):OOC - hey hey
+
+OOC - hey hey
+
+
+Kaelith Voryn-Shai:OOC - recap read
+
+OOC - recap read
+
+
+Sshado C. (GM):OOC - Well I'm excited, thanks for showing up both of you. I have been craving session time again
+
+OOC - Well I'm excited, thanks for showing up both of you. I have been craving session time again
+
+OOC - I know work + session makes the day quite long so it's appreciated :)
+
+OOC - I know work + session makes the day quite long so it's appreciated :)
+
+
+Kaelith Voryn-Shai:OOC - session makes the work stress lessen
+
+OOC - session makes the work stress lessen
+
+
+Narrator:The taxi abandons all notion of this being a normal fare about three minutes into the journey.
+
+The taxi abandons all notion of this being a normal fare about three minutes into the journey.
+
+The city outside changes by degrees as the group passes quickly from the outer facade put on by the planet to pretend it isn't a deeply troubled hive. Commercial fronts become concrete service mouths and service infrastructure. Concrete makes way for steel and old steel becomes a confusing mix of materials like geological layers of rock and sediment.
+
+The city outside changes by degrees as the group passes quickly from the outer facade put on by the planet to pretend it isn't a deeply troubled hive. Commercial fronts become concrete service mouths and service infrastructure. Concrete makes way for steel and old steel becomes a confusing mix of materials like geological layers of rock and sediment.
+
+The vehicle chirps once to inform you that it is adapting to your environment. There's an audible hiss and then your ears pop as the cabin seals itself. Moments later, the taxi cleanly dives into wastewater. Although water may be the wrong word for it. The toxic sludge and biological soup you're flying through have largely replaced any concept of underground water basins on Ternus as all of the waste and runoff of millennia accumulate and inevitably find underground seas to occupy.
+
+The vehicle chirps once to inform you that it is adapting to your environment. There's an audible hiss and then your ears pop as the cabin seals itself. Moments later, the taxi cleanly dives into wastewater. Although water may be the wrong word for it. The toxic sludge and biological soup you're flying through have largely replaced any concept of underground water basins on Ternus as all of the waste and runoff of millennia accumulate and inevitably find underground seas to occupy.
+
+
+Narrator:The incredible thing is how the infrastructure just continues downward. Most of it here is non-functional, but some of it is also maintained and part of legacy systems.
+
+The incredible thing is how the infrastructure just continues downward. Most of it here is non-functional, but some of it is also maintained and part of legacy systems.
+
+Asha Morrow:"So...feeling like home yet Rho? How exactly did you navigate..._this_, to know where we are going?"
+
+"So...feeling like home yet Rho? How exactly did you navigate..._this_, to know where we are going?"
+
+
+Rho Anselm:"Not too thrilled to be here, but we won't be long. But this is just a shortcut. There are dozens of ways down to where want to go... but most of them involve people, or dangerous access ways. Nobody in their right mind would take this route because if you are a surface dweller then you're probably well enough off to leave Ternus or conscript."
+
+"Not too thrilled to be here, but we won't be long. But this is just a shortcut. There are dozens of ways down to where want to go... but most of them involve people, or dangerous access ways. Nobody in their right mind would take this route because if you are a surface dweller then you're probably well enough off to leave Ternus or conscript."
+
+He makes a bowl shape with one hand and with the other he pretends to be the taxi diving into it, then coming out the side of it near the top. "See, we're just going in a little ways, coming out somewhere else. Going underneath all the noise."
+
+He makes a bowl shape with one hand and with the other he pretends to be the taxi diving into it, then coming out the side of it near the top. "See, we're just going in a little ways, coming out somewhere else. Going underneath all the noise."
+
+
+Yraina:Yraina is staring wide eyed at this explanation and looks a little pale even.
+
+Yraina is staring wide eyed at this explanation and looks a little pale even.
+
+Asha Morrow:"What is our route going to look like once we're on that side?"
+
+"What is our route going to look like once we're on that side?"
+
+Seraphine Morrow:Seraphine just smirks. "You're pretty clever, Rho."
+
+Seraphine just smirks. "You're pretty clever, Rho."
+
+
+Rho Anselm:"Well thanks. It's not far on the other side. There's this old refinery we will come out next to and on the other side is the big pit."
+
+"Well thanks. It's not far on the other side. There's this old refinery we will come out next to and on the other side is the big pit."
+
+Asha Morrow:"I'm not usually squeamish but this is gross."
+
+"I'm not usually squeamish but this is gross."
+
+
+Rho Anselm:"It's fuckin nasty."
+
+"It's fuckin nasty."
+
+
+Yraina:"I thought life on the surface of the trade moons was difficult. I'm starting to re-evaluate."
+
+"I thought life on the surface of the trade moons was difficult. I'm starting to re-evaluate."
+
+"Is there much crime down here?"
+
+"Is there much crime down here?"
+
+
+Rho Anselm:"What did you call them on the moon, Black areas? Nobody is outright hostile here, long as you don't give them a good reason to be, but the rules aren't always obvious."
+
+"What did you call them on the moon, Black areas? Nobody is outright hostile here, long as you don't give them a good reason to be, but the rules aren't always obvious."
+
+
+Yraina:She nods at this. "I'm in my element then."
+
+She nods at this. "I'm in my element then."
+
+
+Rho Anselm:"I'm thinking you hang back with me at the taxi and guard our ride. I'm not sure I trust you following them down to the big secret lab."
+
+"I'm thinking you hang back with me at the taxi and guard our ride. I'm not sure I trust you following them down to the big secret lab."
+
+
+Yraina:"Sure, I can do that," she offers.
+
+"Sure, I can do that," she offers.
+
+Asha Morrow:"Why not Rho?"
+
+"Why not Rho?"
+
+
+Rho Anselm:"We just met her."
+
+"We just met her."
+
+Asha Morrow:"I had just met you when we went into the jaws of death and lost most your crew."
+
+"I had just met you when we went into the jaws of death and lost most your crew."
+
+
+Rho Anselm:"If you want her down there then I'll watch the car alone, it's fine."
+
+"If you want her down there then I'll watch the car alone, it's fine."
+
+Asha Morrow:"Well, I _would_ feel more comfortable with you having some company to watch the car. I was just curious why not."
+
+"Well, I _would_ feel more comfortable with you having some company to watch the car. I was just curious why not."
+
+
+Rho Anselm:"Just a gut instinct. But I trust your judgement more than that."
+
+"Just a gut instinct. But I trust your judgement more than that."
+
+Asha Morrow:Asha looks around the group, "Anyone not thrilled about going in with us and want to keep Rho company?"
+
+Asha looks around the group, "Anyone not thrilled about going in with us and want to keep Rho company?"
+
+Seraphine Morrow:"A thousand times yep," she replies.
+
+"A thousand times yep," she replies.
+
+"I can stay up here?"
+
+"I can stay up here?"
+
+Asha Morrow:"Of course."
+
+"Of course."
+
+
+Kaelith Voryn-Shai:_Kaelith looks around as well_ "I'm far more interested in this location than that library."
+
+_Kaelith looks around as well_ "I'm far more interested in this location than that library."
+
+Seraphine Morrow:"Easy then."
+
+"Easy then."
+
+
+Narrator:The taxi emerges from the sludge then and settles down on the "shore" which is just the edge of a large concrete pad at the base of an ancient refinery for who knows what. It once fed into the body of water you emerged from.
+
+The taxi emerges from the sludge then and settles down on the "shore" which is just the edge of a large concrete pad at the base of an ancient refinery for who knows what. It once fed into the body of water you emerged from.
+
+The car and the area smell awful and the air down here is stale. It's not immediately dangerous, but it does give you a slight sickly feeling. Your body knows it should not be down here on a primal level.
+
+The car and the area smell awful and the air down here is stale. It's not immediately dangerous, but it does give you a slight sickly feeling. Your body knows it should not be down here on a primal level.
+
+
+Rho Anselm:After getting out, he motions toward what is East, but could be any direction if you don't check. "Just walk that way, you can't miss it."
+
+After getting out, he motions toward what is East, but could be any direction if you don't check. "Just walk that way, you can't miss it."
+
+Asha Morrow:"Everyone coming with, let's go. Everybody else, make sure the taxi stays functional or we're fucked." Asha stands and stretches her legs, making a stank face as the state of this place.
+
+"Everyone coming with, let's go. Everybody else, make sure the taxi stays functional or we're fucked." Asha stands and stretches her legs, making a stank face as the state of this place.
+
+
+Kaelith Voryn-Shai:"Right behind you Captain."
+
+"Right behind you Captain."
+
+"I have no words for the condition this place is in. Why let this rot beneath the growing megaplex above and not utilize it for anything is beyond me."
+
+"I have no words for the condition this place is in. Why let this rot beneath the growing megaplex above and not utilize it for anything is beyond me."
+
+Asha Morrow:"Every society shows off its best while hiding its dirty secrets and decay."
+
+"Every society shows off its best while hiding its dirty secrets and decay."
+
+
+Narrator:The trip across the old cracked concrete of the refinery is uneventful, if a little unsettling. This place is so old and so dead, and such a waste. The scale of the underground of Ternus is just staggering, enough to fit whole cities in.
+
+The trip across the old cracked concrete of the refinery is uneventful, if a little unsettling. This place is so old and so dead, and such a waste. The scale of the underground of Ternus is just staggering, enough to fit whole cities in.
+
+The "hole" Rho was referencing is impossible to miss since it is nearly a mile wide. This layer is built right on top of yet another city abandoned below it. The architecture is so ancient that it is foreign to you. Despite this, it's remarkably well preserved for something so deeply buried. Although it is covered in garbage and dirt, the place hasn't collapsed in on itself.
+
+The "hole" Rho was referencing is impossible to miss since it is nearly a mile wide. This layer is built right on top of yet another city abandoned below it. The architecture is so ancient that it is foreign to you. Despite this, it's remarkably well preserved for something so deeply buried. Although it is covered in garbage and dirt, the place hasn't collapsed in on itself.
+
+Down at the bottom, near the center is what must be the observatory. It's the most prominent building in the area and you immediately know why Rho recognized it. It must have once been beautiful, and somehow still shines through the cracks in its white and gold exterior.
+
+Down at the bottom, near the center is what must be the observatory. It's the most prominent building in the area and you immediately know why Rho recognized it. It must have once been beautiful, and somehow still shines through the cracks in its white and gold exterior.
+
+
+Kaelith Voryn-Shai:"I guess."
+
+"I guess."
+
+
+Narrator:From here, just eyeballing it, you could easily assume the trip down will be a couple of miles of flight. Nothing your suits can't handle.
+
+From here, just eyeballing it, you could easily assume the trip down will be a couple of miles of flight. Nothing your suits can't handle.
+
+Asha Morrow:Asha looks around the group, "Let's do it." and lifts off towards the observatory if there are no objections.
+
+Asha looks around the group, "Let's do it." and lifts off towards the observatory if there are no objections.
+
+
+Kaelith Voryn-Shai:_Kaelith falls in line behind, following Asha towards the Observatory._
+
+_Kaelith falls in line behind, following Asha towards the Observatory._
+
+
+Narrator:The group all descend together and make a line straight for the Observatory. The flight down is quiet.
+
+The group all descend together and make a line straight for the Observatory. The flight down is quiet.
+
+Your armor carries you over the pit and for a moment there is no ground, only layers. The city above, the dead city below, and a strange vertical ocean of dust, debris, trash and old banners and broken walkways. The scale is offensive.
+
+Your armor carries you over the pit and for a moment there is no ground, only layers. The city above, the dead city below, and a strange vertical ocean of dust, debris, trash and old banners and broken walkways. The scale is offensive.
+
+Whole streets lie there under the grime. Apartment towers lean against each other like exhausted drunks. Rail bridges hang broken between districts. There are vehicles embedded in walls, market signs buried under mineral crust, and old flood barriers warped by time and pressure from countless floods.
+
+Whole streets lie there under the grime. Apartment towers lean against each other like exhausted drunks. Rail bridges hang broken between districts. There are vehicles embedded in walls, market signs buried under mineral crust, and old flood barriers warped by time and pressure from countless floods.
+
+
+Narrator:The observatory sits at the bottom of a mile-wide grave, staring up at the underside of another city instead of the sky it once saw. As you draw closer, the damage to it becomes clear. It looks like it was once maintained with large metal plates bolted over parts of the exterior. Ternus military hazard bands cross old civilian markings and graffiti. The script is not Ternus-standard, but much older.
+
+The observatory sits at the bottom of a mile-wide grave, staring up at the underside of another city instead of the sky it once saw. As you draw closer, the damage to it becomes clear. It looks like it was once maintained with large metal plates bolted over parts of the exterior. Ternus military hazard bands cross old civilian markings and graffiti. The script is not Ternus-standard, but much older.
+
+The front approach to the observatory is choked with debris, but the main doors are visible. They are tall, arched, made of some kind of white stone and framed by gold at the edges. Above the doors, almost polished away by age, are three letters: "**S M D**".
+
+The front approach to the observatory is choked with debris, but the main doors are visible. They are tall, arched, made of some kind of white stone and framed by gold at the edges. Above the doors, almost polished away by age, are three letters: "**S M D**".
+
+
+Kaelith Voryn-Shai:"Well, here we are. Let's find a way in."
+
+"Well, here we are. Let's find a way in."
+
+
+Tamsin Vale:Tamsin lifts the visor on her spell armor and studies the entrance. "Maybe we can restore power?"
+
+Tamsin lifts the visor on her spell armor and studies the entrance. "Maybe we can restore power?"
+
+
+Yraina:"Or just bypass the locks physically."
+
+"Or just bypass the locks physically."
+
+Asha Morrow:Asha stares at the "S M D" at the front and scrunches her face as she tries to remember if that's something she should recognize, but she doesn't waste much time on it "Restore power or blow a hole through the front. Or as Yraina says, any locks should be degraded enough to easily get through with force."
+
+Asha stares at the "S M D" at the front and scrunches her face as she tries to remember if that's something she should recognize, but she doesn't waste much time on it "Restore power or blow a hole through the front. Or as Yraina says, any locks should be degraded enough to easily get through with force."
+
+
+Tamsin Vale:"Maybe Kaelith can look for a side entrance while we do that."
+
+"Maybe Kaelith can look for a side entrance while we do that."
+
+"He
+
+"He
+
+"He's got those observant mage type eyes."
+
+"He's got those observant mage type eyes."
+
+
+Kaelith Voryn-Shai:"Agreed." _Kaelith smirks at Tamsin before flying a tight circle around the Observatory_
+
+"Agreed." _Kaelith smirks at Tamsin before flying a tight circle around the Observatory_
+
+
+Sshado C. (GM):Tamsin will try restoring power. Any approach you want to try, Asha?
+
+Tamsin will try restoring power. Any approach you want to try, Asha?
+
+Kaelith, that'll be Investigation or Perception DT 3
+
+Kaelith, that'll be Investigation or Perception DT 3
+
+
+Kaelith Voryn-Shai:
+
+|Kaelith Voryn-Shai|
+|---|
+|Perception|
+|7 Successes|
+|(4+3) Intuition  <br>(4+0) Percept(TN4)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+|Kaelith Voryn-Shai|
+|---|
+|Perception|
+|7 Successes|
+|(4+3) Intuition  <br>(4+0) Percept(TN4)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+Asha Morrow:Well then
+
+Well then
+
+
+Sshado C. (GM):OOC That'll do it lol
+
+OOC That'll do it lol
+
+
+Narrator:Kaelith circles the observatory once and immediately spots it. A maintenance balcony tucked into the back-left curve of the dome, half-hidden under trash and mineral growth. The door there is smaller and much less reinforced.
+
+Kaelith circles the observatory once and immediately spots it. A maintenance balcony tucked into the back-left curve of the dome, half-hidden under trash and mineral growth. The door there is smaller and much less reinforced.
+
+
+Kaelith Voryn-Shai:_Over comms, Kaelith chirps_ "Got an easy in over here." _and relays his position_
+
+_Over comms, Kaelith chirps_ "Got an easy in over here." _and relays his position_
+
+Asha Morrow:Just as Asha is about to approach the front door area she stops and goes towards Kaelith's position, "That was quick."
+
+Just as Asha is about to approach the front door area she stops and goes towards Kaelith's position, "That was quick."
+
+
+Narrator:Yraina and Tamsin both cease discussing options and look a little relieved. Visors back on, they take flight to catch up with Kaelith.
+
+Yraina and Tamsin both cease discussing options and look a little relieved. Visors back on, they take flight to catch up with Kaelith.
+
+
+Tamsin Vale:"Nice job."
+
+"Nice job."
+
+
+Narrator:Approaching the door, it looks like something broke the seal from the inside long ago. There are scorch marks on the metal but only on the interior side. Kaelith can also see the faintest line of older script worked into the threshold.
+
+Approaching the door, it looks like something broke the seal from the inside long ago. There are scorch marks on the metal but only on the interior side. Kaelith can also see the faintest line of older script worked into the threshold.
+
+It reads: "Service access: atmospheric calibration"
+
+It reads: "Service access: atmospheric calibration"
+
+
+Kaelith Voryn-Shai:"This hole wasn't too hard to spot, but thanks for the recognition."
+
+"This hole wasn't too hard to spot, but thanks for the recognition."
+
+
+Yraina:"What are we looking for in there? A computer?"
+
+"What are we looking for in there? A computer?"
+
+Asha Morrow:Asha scoffs, what Kaelith considers easy is out of balance with reality. "Yes, something to search records maybe, Kaelith did you have a lead on what specifically might have what we're looking for?"
+
+Asha scoffs, what Kaelith considers easy is out of balance with reality. "Yes, something to search records maybe, Kaelith did you have a lead on what specifically might have what we're looking for?"
+
+
+Kaelith Voryn-Shai:"We are searching for a document. it is MD-456cd-e99c2-Ëterra_hist.cc2. It seems that someone missed scrubbing it from history."
+
+"We are searching for a document. it is MD-456cd-e99c2-Ëterra_hist.cc2. It seems that someone missed scrubbing it from history."
+
+OOC - should be SMD
+
+OOC - should be SMD
+
+
+Yraina:"Okay, got it. I'll consider anything even remotely looking like a storage device."
+
+"Okay, got it. I'll consider anything even remotely looking like a storage device."
+
+
+Kaelith Voryn-Shai:"Supposedly it should be in a research lab."
+
+"Supposedly it should be in a research lab."
+
+Asha Morrow:"Is there a lab inside this observatory?"
+
+"Is there a lab inside this observatory?"
+
+
+Kaelith Voryn-Shai:"It is a vessel of science, I assume it is not out of the realm of possiblity."
+
+"It is a vessel of science, I assume it is not out of the realm of possiblity."
+
+
+Narrator:The service door opens into a narrow maintenance hall, then into the observatory proper. The main chamber is circular and vast, with dead consoles arranged in rings around a cracked projection table at the center. Directly above the center console is what must have been a technological marvel for its time. Even by today's standards its magitech is seamlessly woven with computing and machinery. Perhaps that was once the bottom of this observatory's eye.
+
+The service door opens into a narrow maintenance hall, then into the observatory proper. The main chamber is circular and vast, with dead consoles arranged in rings around a cracked projection table at the center. Directly above the center console is what must have been a technological marvel for its time. Even by today's standards its magitech is seamlessly woven with computing and machinery. Perhaps that was once the bottom of this observatory's eye.
+
+Dust covers everything in soft gray sheets.
+
+Dust covers everything in soft gray sheets.
+
+Despite its age, the central table flickers weakly. A few broken points of light appear over it, maybe once a starfield.
+
+Despite its age, the central table flickers weakly. A few broken points of light appear over it, maybe once a starfield.
+
+
+Kaelith Voryn-Shai:"We should perhaps search in teams. Whatcha think Cap?"
+
+"We should perhaps search in teams. Whatcha think Cap?"
+
+
+Tamsin Vale:Tamsin stands still a few feet into the central chamber and looks around slowly. "This is uncanny. It's all kind of familiar but not."
+
+Tamsin stands still a few feet into the central chamber and looks around slowly. "This is uncanny. It's all kind of familiar but not."
+
+She looks to Asha for orders.
+
+She looks to Asha for orders.
+
+Asha Morrow:"By all means, everyone look where makes sense to you. I will check that almost barely working table in the middle. Maybe we can reroute power to a console."
+
+"By all means, everyone look where makes sense to you. I will check that almost barely working table in the middle. Maybe we can reroute power to a console."
+
+
+Sshado C. (GM):If you're searching, give me investigation, otherwise engineering if you want to try to get into the system or repair it.
+
+If you're searching, give me investigation, otherwise engineering if you want to try to get into the system or repair it.
+
+Asha Morrow:
+
+|Asha Morrow|
+|---|
+|Engineering|
+|2 Successes|
+|(3+0) Reason  <br>(2+0) Engineer(TN5)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+|Asha Morrow|
+|---|
+|Engineering|
+|2 Successes|
+|(3+0) Reason  <br>(2+0) Engineer(TN5)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+
+Kaelith Voryn-Shai:"I'll head out and look for labs."
+
+"I'll head out and look for labs."
+
+|Kaelith Voryn-Shai|
+|---|
+|Investigation|
+|2 Successes|
+|(4+3) Intuition  <br>(3+0) Investig(TN5)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+|Kaelith Voryn-Shai|
+|---|
+|Investigation|
+|2 Successes|
+|(4+3) Intuition  <br>(3+0) Investig(TN5)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+
+Narrator:Asha gets the table to stop dying, mostly. The projection stutters, collapses, then steadies into a broken star map with half of the labels missing. The system is not online, but it is listening now and can be brought online with further work. There is a storage index buried under the damage, but the file path keeps failing to resolve.
+
+Asha gets the table to stop dying, mostly. The projection stutters, collapses, then steadies into a broken star map with half of the labels missing. The system is not online, but it is listening now and can be brought online with further work. There is a storage index buried under the damage, but the file path keeps failing to resolve.
+
+Asha Morrow:"Anyone else wanna give this a go to see if we can bring it all the way up? I almost got into files, but not quite. Otherwise I'll try some more."
+
+"Anyone else wanna give this a go to see if we can bring it all the way up? I almost got into files, but not quite. Otherwise I'll try some more."
+
+
+Narrator:Kaelith finds the labs easily enough but there are too many of them. Side rooms branch off from the main chamber in a ring: calibration, optics, atmospheric modeling, archive handling, old computation. Most are dead or power in emergency mode making it harder to search. Luckily he can read this old version of Terran language.
+
+Kaelith finds the labs easily enough but there are too many of them. Side rooms branch off from the main chamber in a ring: calibration, optics, atmospheric modeling, archive handling, old computation. Most are dead or power in emergency mode making it harder to search. Luckily he can read this old version of Terran language.
+
+One rooms stands out, because it is so particularly inconspicuous. It's an archive prep room with empty racks and dust outlines where storage cases used to sit. One shelf has been disturbed more recently than the rest, and a thin drag mark leads deeper into the room.
+
+One rooms stands out, because it is so particularly inconspicuous. It's an archive prep room with empty racks and dust outlines where storage cases used to sit. One shelf has been disturbed more recently than the rest, and a thin drag mark leads deeper into the room.
+
+
+Tamsin Vale:"Let me get a crack at it, Cap."
+
+"Let me get a crack at it, Cap."
+
+|Tamsin Vale|
+|---|
+|Engineering|
+|3 Successes|
+|(0+0) Reason  <br>(3+0) Engineer(TN4)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+|Tamsin Vale|
+|---|
+|Engineering|
+|3 Successes|
+|(0+0) Reason  <br>(3+0) Engineer(TN4)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+
+Kaelith Voryn-Shai:_Kaelith follows the drag marks further into the room_
+
+_Kaelith follows the drag marks further into the room_
+
+
+Tamsin Vale:Tamsin leans over the table and starts tracing Asha's work. "Yeah, you had it. Power routing is just ugly."
+
+Tamsin leans over the table and starts tracing Asha's work. "Yeah, you had it. Power routing is just ugly."
+
+She taps two dead controls and then physically pulls a cracked panel aside to bridge something underneath. "There... should do the trick."
+
+She taps two dead controls and then physically pulls a cracked panel aside to bridge something underneath. "There... should do the trick."
+
+The projection steadies, and several side chambers light up in the index. One of them blinks amber, it's the same room Kaelith is in.
+
+The projection steadies, and several side chambers light up in the index. One of them blinks amber, it's the same room Kaelith is in.
+
+
+Tamsin Vale:This message has been hidden.
+
+This message has been hidden.
+
+This message has been hidden.
+
+This message has been hidden.
+
+Asha Morrow:"No surprise, Kaelith is on the right path."
+
+"No surprise, Kaelith is on the right path."
+
+
+Narrator:OOC: Perception DT3 Kaelith
+
+OOC: Perception DT3 Kaelith
+
+
+Kaelith Voryn-Shai:
+
+|Kaelith Voryn-Shai|
+|---|
+|Perception|
+|5 Successes|
+|(4+3) Intuition  <br>(4+0) Percept(TN4)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+|Kaelith Voryn-Shai|
+|---|
+|Perception|
+|5 Successes|
+|(4+3) Intuition  <br>(4+0) Percept(TN4)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+
+Narrator:Kaelith finds a box at the back of the room with the top removed. There is a big word marked over top of the box, "FINAL". Upon examining the contents he finds what are some sort of old storage medium. They look like disks and have what might be considered markings or inputs, but nothing Kaelith would recognize. The way they are labeled is enough context.
+
+Kaelith finds a box at the back of the room with the top removed. There is a big word marked over top of the box, "FINAL". Upon examining the contents he finds what are some sort of old storage medium. They look like disks and have what might be considered markings or inputs, but nothing Kaelith would recognize. The way they are labeled is enough context.
+
+The storage drive he's looking for is the final one in the box. He also notices that all disks are accounted for except for one, a few entries behind the final disk.
+
+The storage drive he's looking for is the final one in the box. He also notices that all disks are accounted for except for one, a few entries behind the final disk.
+
+
+Kaelith Voryn-Shai:_Kaelith will check the serial number gap and take note so he can research later before grabbing the document he came for_
+
+_Kaelith will check the serial number gap and take note so he can research later before grabbing the document he came for_
+
+
+Narrator:Missing serial: SMD-156cd-c13c1-SOL.cc2
+
+Missing serial: SMD-156cd-c13c1-SOL.cc2
+
+
+Sshado C. (GM):OOC: Kaelith returns to the central room with it?
+
+OOC: Kaelith returns to the central room with it?
+
+
+Kaelith Voryn-Shai:OOC - correct
+
+OOC - correct
+
+"While you all were playing Ms. fix-it, I went and found it." _Kaelith chuckles and hand the disk over to Asha_
+
+"While you all were playing Ms. fix-it, I went and found it." _Kaelith chuckles and hand the disk over to Asha_
+
+
+Tamsin Vale:Tamsin crosses her arms. "Let nobody ever call you modest."
+
+Tamsin crosses her arms. "Let nobody ever call you modest."
+
+
+Yraina:"Kaelith, you seem to have a knack for finding your way around these places."
+
+"Kaelith, you seem to have a knack for finding your way around these places."
+
+She says that almost as a question.
+
+She says that almost as a question.
+
+Asha Morrow:Asha nods, feeling a little useless. "This looks old, I don't recognize the format. Maybe we can access it here?"
+
+Asha nods, feeling a little useless. "This looks old, I don't recognize the format. Maybe we can access it here?"
+
+
+Tamsin Vale:Tamsin takes the disk and turns it over once.
+
+Tamsin takes the disk and turns it over once.
+
+OOC: Engineer DT3 if you want to figure out how to slot it into the reader
+
+OOC: Engineer DT3 if you want to figure out how to slot it into the reader
+
+She offers it to Asha. "You want to give it a shot?"
+
+She offers it to Asha. "You want to give it a shot?"
+
+
+Tamsin Vale:OOC: Lol she took it just to hand it back, goofy
+
+OOC: Lol she took it just to hand it back, goofy
+
+
+Kaelith Voryn-Shai:"I have a knack for magic and a innately perceptive eye Yraina. Fleeing from Shaya as a child and hiding most of life gave me very keen instincts."
+
+"I have a knack for magic and a innately perceptive eye Yraina. Fleeing from Shaya as a child and hiding most of life gave me very keen instincts."
+
+Asha Morrow:
+
+|Asha Morrow|
+|---|
+|Engineering|
+|5 Successes|
+|(3+0) Reason  <br>(2+0) Engineer(TN5)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+|Asha Morrow|
+|---|
+|Engineering|
+|5 Successes|
+|(3+0) Reason  <br>(2+0) Engineer(TN5)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+
+Yraina:"That sounds useful." She glances around the dead observatory, "And lonely."
+
+"That sounds useful." She glances around the dead observatory, "And lonely."
+
+
+Narrator:Asha finds the reader slot after only a few seconds. The shape is strange but the logic is familiar enough: old storage, old contacts, old stubborn machine. It clicks into place and the table lights sharpen into a clean white-gold star projected in the center of the room.
+
+Asha finds the reader slot after only a few seconds. The shape is strange but the logic is familiar enough: old storage, old contacts, old stubborn machine. It clicks into place and the table lights sharpen into a clean white-gold star projected in the center of the room.
+
+Then the recording begins.
+
+Then the recording begins.
+
+An unknown man speaks:
+
+An unknown man speaks:
+
+
+Narrator:"I am the last watcher in this observatory, and Sol is ending in the glass. Humanity's native sun does not go out like a lamp; it folds inward, white-gold and silent, while every instrument insists there should still be time. There is no time. There is only the old light reaching us late, and the road back to Terra still bleeding at the edge of the map."
+
+"I am the last watcher in this observatory, and Sol is ending in the glass. Humanity's native sun does not go out like a lamp; it folds inward, white-gold and silent, while every instrument insists there should still be time. There is no time. There is only the old light reaching us late, and the road back to Terra still bleeding at the edge of the map."
+
+"Captain Soma Arata stood beneath that light and accepted the Hand of Eterra. Let the record be plain: the Hand is the title granted to the man chosen to stay behind and close the way home. Not for punishment. Not for glory. For mercy, because if humanity could return, something worse could follow us back out."
+
+"Captain Soma Arata stood beneath that light and accepted the Hand of Eterra. Let the record be plain: the Hand is the title granted to the man chosen to stay behind and close the way home. Not for punishment. Not for glory. For mercy, because if humanity could return, something worse could follow us back out."
+
+"When Soma seals the path, he will become our last door and our first refusal. We leave him Sol's final radiance, the names of the dead, and the authority to deny even us. If any child of Terra finds this after the dark, remember him kindly, and do not open what he closed."
+
+"When Soma seals the path, he will become our last door and our first refusal. We leave him Sol's final radiance, the names of the dead, and the authority to deny even us. If any child of Terra finds this after the dark, remember him kindly, and do not open what he closed."
+
+
+Narrator:And as he is speaking you see the event unfold before you. The star in the projection collapses inward without flame, folding into a white wound at the center of the map. Around it, lines of travel and old gatework flare one by one and then go dark as if suddenly cut off.
+
+And as he is speaking you see the event unfold before you. The star in the projection collapses inward without flame, folding into a white wound at the center of the map. Around it, lines of travel and old gatework flare one by one and then go dark as if suddenly cut off.
+
+A single human figure appears at the edge of the light, impossibly small beside Sol's death but also impossibly large considering the space he is in, one hand raised toward the bleeding route home. It's undeniable that he is casting something.
+
+A single human figure appears at the edge of the light, impossibly small beside Sol's death but also impossibly large considering the space he is in, one hand raised toward the bleeding route home. It's undeniable that he is casting something.
+
+
+Yraina:Yraina is utterly speechless as she watches this, and fears even speaking would disturb something she has no right to be here for.
+
+Yraina is utterly speechless as she watches this, and fears even speaking would disturb something she has no right to be here for.
+
+
+Kaelith Voryn-Shai:"Very lonely indeed, but it forced me to become the man I am today and not the pawn of my family on Shaya."
+
+"Very lonely indeed, but it forced me to become the man I am today and not the pawn of my family on Shaya."
+
+Asha Morrow:Asha watches as if she is receiving some forbidden knowledge and considers the reality of their situation. Does the "hole" in their universe have anything to do with this? What exactly could be on the other side for these people to go to such great lengths? Is this referring to the depths themselves? Too many questions cross her mind and its clear there will be no straightforward answer here. "We should decide if we're keeping this disk or not."
+
+Asha watches as if she is receiving some forbidden knowledge and considers the reality of their situation. Does the "hole" in their universe have anything to do with this? What exactly could be on the other side for these people to go to such great lengths? Is this referring to the depths themselves? Too many questions cross her mind and its clear there will be no straightforward answer here. "We should decide if we're keeping this disk or not."
+
+
+Kaelith Voryn-Shai:"It would appear that something deeply ominous infected the Terran homeworld that these scientist and this Hand of Eterra fought desperately to prevent from entering this star system. The evils that exist here are horrific, how bad must that have been back there that they sealed it and wiped the history of it."
+
+"It would appear that something deeply ominous infected the Terran homeworld that these scientist and this Hand of Eterra fought desperately to prevent from entering this star system. The evils that exist here are horrific, how bad must that have been back there that they sealed it and wiped the history of it."
+
+
+Tamsin Vale:"Are you telling me that we used to be able to close... entire star systems? What kind of power was that?"
+
+"Are you telling me that we used to be able to close... entire star systems? What kind of power was that?"
+
+Asha Morrow:"Well, what does closing a star system even mean in this case?"
+
+"Well, what does closing a star system even mean in this case?"
+
+
+Tamsin Vale:"That's a good question. It looked like they erased it."
+
+"That's a good question. It looked like they erased it."
+
+
+Yraina:"Surely they didn't just put it into the Depths. That didn't look like a void tear."
+
+"Surely they didn't just put it into the Depths. That didn't look like a void tear."
+
+
+Kaelith Voryn-Shai:"I can't say that I have the slightest idea how, but it certainly seems possible."
+
+"I can't say that I have the slightest idea how, but it certainly seems possible."
+
+Asha Morrow:"Well if they were just erasing it what would be the need to leave someone behind? Its like it was..."banished" or something? I don't even know how to describe this really."
+
+"Well if they were just erasing it what would be the need to leave someone behind? Its like it was..."banished" or something? I don't even know how to describe this really."
+
+
+Yraina:"Maybe they needed a mage to maintain it?"
+
+"Maybe they needed a mage to maintain it?"
+
+
+Kaelith Voryn-Shai:"Perhaps the power required to seal the gateway requires life force. Maybe the Hand had to sacrifice himself in order to seal the breach."
+
+"Perhaps the power required to seal the gateway requires life force. Maybe the Hand had to sacrifice himself in order to seal the breach."
+
+Asha Morrow:"Who could maintain it for..ever?"
+
+"Who could maintain it for..ever?"
+
+
+Yraina:"Only a Guardian. So which Catalyst was he from?"
+
+"Only a Guardian. So which Catalyst was he from?"
+
+She gestures at the space where the sun used to be. "Your people cannot use magic. You don't know who created you. Maybe that's where your own God's Catalyst is."
+
+She gestures at the space where the sun used to be. "Your people cannot use magic. You don't know who created you. Maybe that's where your own God's Catalyst is."
+
+
+Tamsin Vale:"We can use magic."
+
+"We can use magic."
+
+
+Yraina:She waves that off and then apologizes. "You know what I mean. It isn't innate to you like us."
+
+She waves that off and then apologizes. "You know what I mean. It isn't innate to you like us."
+
+"I'm a piece of Inura, in a sense."
+
+"I'm a piece of Inura, in a sense."
+
+Asha Morrow:"Struggling to not feel mildly insulted, but sure I see what you're getting at."
+
+"Struggling to not feel mildly insulted, but sure I see what you're getting at."
+
+
+Kaelith Voryn-Shai:"As much as I am Shaya. But Terrans are resourceful and far more adaptable than you or I Yraina."
+
+"As much as I am Shaya. But Terrans are resourceful and far more adaptable than you or I Yraina."
+
+
+Yraina:"That they are."
+
+"That they are."
+
+"They are also much older than us. They arrived here when the gods of today were still young and nobody has ever been told why."
+
+"They are also much older than us. They arrived here when the gods of today were still young and nobody has ever been told why."
+
+
+Tamsin Vale:"Maybe our god was just a huge asshole."
+
+"Maybe our god was just a huge asshole."
+
+
+Kaelith Voryn-Shai:"Or perhaps your people fled the horrors created by your god. Or perhaps your own people."
+
+"Or perhaps your people fled the horrors created by your god. Or perhaps your own people."
+
+Asha Morrow:"What horrors could be so great to deem doing...whatever they did acceptable or even necessary?"
+
+"What horrors could be so great to deem doing...whatever they did acceptable or even necessary?"
+
+
+Kaelith Voryn-Shai:" I wish I could answer that for you Asha, I simply do not know. I only offer possible options to your peoples story."
+
+" I wish I could answer that for you Asha, I simply do not know. I only offer possible options to your peoples story."
+
+
+Narrator:Aashitak's own magic surges within Asha and Kaelith, bringing up fleeting memories of her death. Zenzuata dragging her into the Depths asking where Eterra has gone. Her voice echoing, "If you do this, Talifax won't stop with just _killing you_. Don't you see he has deceived us? Nobody will be able to oppose him, Zen. Eterra chose to die so we COULD fight!"
+
+Aashitak's own magic surges within Asha and Kaelith, bringing up fleeting memories of her death. Zenzuata dragging her into the Depths asking where Eterra has gone. Her voice echoing, "If you do this, Talifax won't stop with just _killing you_. Don't you see he has deceived us? Nobody will be able to oppose him, Zen. Eterra chose to die so we COULD fight!"
+
+Asha Morrow:Asha's face scrunches up and she holds her head, squatting in place. She mindlessly repeats the last sentence she hears, "Eterra chose to die so we could fight..."
+
+Asha's face scrunches up and she holds her head, squatting in place. She mindlessly repeats the last sentence she hears, "Eterra chose to die so we could fight..."
+
+
+Yraina:Yraina stares at Asha curiously, then asks, "What was that?"
+
+Yraina stares at Asha curiously, then asks, "What was that?"
+
+
+Kaelith Voryn-Shai:"Does that mean that the Hand trapped Zenzuata on the other side?"
+
+"Does that mean that the Hand trapped Zenzuata on the other side?"
+
+Asha Morrow:She shakes her head, trying to hold onto fleeting memories of something that didn't happen to _her_, "I don't know..something Aashitak said as Zen dragged her into the depths."
+
+She shakes her head, trying to hold onto fleeting memories of something that didn't happen to _her_, "I don't know..something Aashitak said as Zen dragged her into the depths."
+
+
+Sshado C. (GM):OOC: Quick halfway point break, I'll be back in 5-10
+
+OOC: Quick halfway point break, I'll be back in 5-10
+
+OOC: Okay I'm back
+
+OOC: Okay I'm back
+
+
+Kaelith Voryn-Shai:OOC - sweet
+
+OOC - sweet
+
+
+Tamsin Vale:Tamsin does what she usually does when she can't follow the conversation and feels a little foolish. She focuses on the people involved and tactics. "We know that Arata broke his exile, whatever you want to call it, to sabotage a freighter."
+
+Tamsin does what she usually does when she can't follow the conversation and feels a little foolish. She focuses on the people involved and tactics. "We know that Arata broke his exile, whatever you want to call it, to sabotage a freighter."
+
+"It must have been important."
+
+"It must have been important."
+
+
+Yraina:"Was that the attack on Ternus recently?"
+
+"Was that the attack on Ternus recently?"
+
+
+Tamsin Vale:"Right, the same one. And everyone seems to share the same enemy, but they're fighting each other too. It's always Talifax this, Talifax that, but he's dead. So why attack Ternus now?"
+
+"Right, the same one. And everyone seems to share the same enemy, but they're fighting each other too. It's always Talifax this, Talifax that, but he's dead. So why attack Ternus now?"
+
+
+Yraina:"I guess only the gods know the answer to that."
+
+"I guess only the gods know the answer to that."
+
+Asha Morrow:"What's the name of that anti-magic shit, damn. spark?"
+
+"What's the name of that anti-magic shit, damn. spark?"
+
+Asha rubs her head.
+
+Asha rubs her head.
+
+
+Yraina:"Spark, your new wonder fuel," she agrees.
+
+"Spark, your new wonder fuel," she agrees.
+
+
+Kaelith Voryn-Shai:_Kaelith rolls his eyes when Asha says Spark_
+
+_Kaelith rolls his eyes when Asha says Spark_
+
+_And a second time at yraina's mention of it_
+
+_And a second time at yraina's mention of it_
+
+Asha Morrow:"Right, well spark was involved in killing whoever was spying on Kaelith and I. So its more than fuel. Ternus is using the fuck out of it, I'd be surprised if spark wasn't involved in whatever methods they're using to _encourage_ us from hard casting on the surface."
+
+"Right, well spark was involved in killing whoever was spying on Kaelith and I. So its more than fuel. Ternus is using the fuck out of it, I'd be surprised if spark wasn't involved in whatever methods they're using to _encourage_ us from hard casting on the surface."
+
+
+Kaelith Voryn-Shai:"Perhaps Seraphine could give us the real version of what spark is, but it feels to me the fucking life force of mages."
+
+"Perhaps Seraphine could give us the real version of what spark is, but it feels to me the fucking life force of mages."
+
+
+Yraina:"All the magic with none of the mage if the claims are to be believed; it's impressive stuff really. The exports to the trade moon must be staggering."
+
+"All the magic with none of the mage if the claims are to be believed; it's impressive stuff really. The exports to the trade moon must be staggering."
+
+"I mean you've seen Ekron's room right."
+
+"I mean you've seen Ekron's room right."
+
+She casually references that all of that liquid in there was Spark.
+
+She casually references that all of that liquid in there was Spark.
+
+
+Kaelith Voryn-Shai:"That doesn't bother you Yraina. It's the lifeforce of our people process into fuel to kill."
+
+"That doesn't bother you Yraina. It's the lifeforce of our people process into fuel to kill."
+
+
+Yraina:"It terrifies me."
+
+"It terrifies me."
+
+"Nobody should be able to just buy power like that."
+
+"Nobody should be able to just buy power like that."
+
+
+Kaelith Voryn-Shai:"I second that. And frankly it infuriates me."
+
+"I second that. And frankly it infuriates me."
+
+Asha Morrow:"Well if that's the case then maybe the freighter attack should have been at the trade moon." She pauses and continues, "Maybe that was the intended destination actually."
+
+"Well if that's the case then maybe the freighter attack should have been at the trade moon." She pauses and continues, "Maybe that was the intended destination actually."
+
+
+Kaelith Voryn-Shai:_Kaelith shrugs_
+
+_Kaelith shrugs_
+
+
+Tamsin Vale:"What are we doing with the record. Are we taking it back up or destroying it?"
+
+"What are we doing with the record. Are we taking it back up or destroying it?"
+
+Asha Morrow:"Seems dangerous to me, not sure it should survive after this. What does the room think?"
+
+"Seems dangerous to me, not sure it should survive after this. What does the room think?"
+
+
+Narrator:A silence hangs over Tamsin and Yraina for different reasons as they think about that seriously.
+
+A silence hangs over Tamsin and Yraina for different reasons as they think about that seriously.
+
+
+Kaelith Voryn-Shai:I think between us we have all the information we need. This record does not need to see the light of day."
+
+I think between us we have all the information we need. This record does not need to see the light of day."
+
+
+Tamsin Vale:"That would be the smart thing to do. It just seems like a waste."
+
+"That would be the smart thing to do. It just seems like a waste."
+
+Asha Morrow:"It sure does. Give an alternative then Tamsin. Is there someone, somewhere, you trust to keep this record safe from prying eyes?"
+
+"It sure does. Give an alternative then Tamsin. Is there someone, somewhere, you trust to keep this record safe from prying eyes?"
+
+
+Tamsin Vale:"What's that ship Lysa is always ranting about. The Word of Knowledge? Probably there."
+
+"What's that ship Lysa is always ranting about. The Word of Knowledge? Probably there."
+
+She shrugs. "It checks the boxes. Old library. Guarded by gods. Just hope they're friendly."
+
+She shrugs. "It checks the boxes. Old library. Guarded by gods. Just hope they're friendly."
+
+Asha Morrow:"The Flame of Knowledge, yes. That would align this knowledge directly with Xal though, are we comfortable with that?"
+
+"The Flame of Knowledge, yes. That would align this knowledge directly with Xal though, are we comfortable with that?"
+
+
+Tamsin Vale:She nods at the correction.
+
+She nods at the correction.
+
+"You have to align with someone in a war. Xal seems like the only one who isn't in this for more power."
+
+"You have to align with someone in a war. Xal seems like the only one who isn't in this for more power."
+
+Asha Morrow:"Its not a criticism, I feel like this may be a good option and I agree with how you feel about Xal, but its an important thing to acknowledge for posterity. Keeping this knowledge around could affect the future we'll never see, that's all I'm saying. If everyone in the room is good with this though, then I agree. We'll keep it with us until it can be delivered to the Flame of Knowledge."
+
+"Its not a criticism, I feel like this may be a good option and I agree with how you feel about Xal, but its an important thing to acknowledge for posterity. Keeping this knowledge around could affect the future we'll never see, that's all I'm saying. If everyone in the room is good with this though, then I agree. We'll keep it with us until it can be delivered to the Flame of Knowledge."
+
+
+Tamsin Vale:"If we fail, then it's up to us to pass the message forward."
+
+"If we fail, then it's up to us to pass the message forward."
+
+"The risks are real, but I think it's right."
+
+"The risks are real, but I think it's right."
+
+
+Kaelith Voryn-Shai:"We must also remember that Nara had knowledge we would find that ship, therefore handing this over to them might actually fills some holes in what information they can provide. I am good with that plan."
+
+"We must also remember that Nara had knowledge we would find that ship, therefore handing this over to them might actually fills some holes in what information they can provide. I am good with that plan."
+
+Asha Morrow:"Then its decided. Let's get out of here."
+
+"Then its decided. Let's get out of here."
+
+
+Sshado C. (GM):OOC: We can skip back to the bridge and assume that you catch Rho and Seraphine up on the way back. Does that work?
+
+OOC: We can skip back to the bridge and assume that you catch Rho and Seraphine up on the way back. Does that work?
+
+Asha Morrow:OOC do it
+
+OOC do it
+
+
+Kaelith Voryn-Shai:OOC - yup
+
+OOC - yup
+
+
+Narrator:The trip back is a long series of switchoffs, getting into the taxi, then out, walking and taking elevators. It is plenty of time to catch Rho and Seraphine up on what you found in the observatory. By the time you return to the ship, the other members of your bridge have been filled in through all of the comms chatter back and forth. They at least have the quicky and dirty version of events.
+
+The trip back is a long series of switchoffs, getting into the taxi, then out, walking and taking elevators. It is plenty of time to catch Rho and Seraphine up on what you found in the observatory. By the time you return to the ship, the other members of your bridge have been filled in through all of the comms chatter back and forth. They at least have the quicky and dirty version of events.
+
+
+Rho Anselm:Rho sits heavily into one of the bridge chairs and rubs both ahnds over his face. "So Terra was real, the way home was real, and some poor bastard got left behind to lock the door."
+
+
+Kaelith Voryn-Shai:"I think that is a poor way of putting it Rho. One man sacrificed himself for your entire race it would appear."
+
+Asha Morrow:"Yes, essentially. How exactly they "locked the door" is up for debate. Something we can hardly fathom doing now."
+
+Seraphine Morrow:Seraphine is quiet for longer than usual. "That explains too much about Ternus policy for my comfort," she finally says. "Memory control, wiping criminals and conscripting them, archive redactions, and all the paranoia. It's a long way to go to maintain a secret for that long, when nobody even knows what it is anymore."
+
+Asha Morrow:"Would make more sense if we had any idea of _why_ exactly this happened beyond some vague description of _horrors_ of their own making."
+
+
+Kaelith Voryn-Shai:"Fear makes men do things they would not normally do Seraphine. You of all should know that with your war experience."
+
+Seraphine Morrow:"War at least has a sense of purpose."
+
+Asha Morrow:"Not always."
+
+
+Kaelith Voryn-Shai:"Soldiers are given a sense of purpose perhaps. Those pulling the string and issuing the orders are the ones who know the real gains behind the war."
+
+Asha Morrow:"More importantly what are we doing with this information? We have to return to Ekron and _obviously_ we're not giving him that full story, but then where do we go next with it? I mean other than delivering the disk itself to the Flame of Knowledge."
+
+
+Kaelith Voryn-Shai:OOC - I am drawing a blank on Ekron. Why can I not remember who this is? LOL
+
+Asha Morrow:OOC Saezo Ekron, the Inuran merchant we were investigating the Freighter for
+
+
+Lysa Vorren:OOC: Saezo Ekron, he's the Inuran on the trade moon who originally contracted you to salvage the freighter. He is currently paying you to look into who was involved (Maena)
+
+Asha Morrow:OOC wait did he pay kaelith too? I thought just asha, he sent out competing contracts? damn
+
+
+Kaelith Voryn-Shai:OOC - ok. was forgetting the last name.
+
+
+Lysa Vorren:OOC - yup Kaelith was hired on by Joren
+
+OOC - So technically he paid Joren
+
+OOC - Or kaelith worked with them, I honestly forget
+
+Asha Morrow:OOC that's wild and deserves more of a confrontation lol
+
+
+Lysa Vorren:OOC Yup haha
+
+
+Kaelith Voryn-Shai:OOC - they brought Kaelith in. I had no knowledge of the payment arrangement with Saezo
+
+
+Lysa Vorren:Lysa leans slightly against the large table projector in the middle of the bridge, arms crossed. "I see three paths before us. We figure out what that spell on the freighter did, we figure out where Spark is coming from, or we find a way to Terra ourselves."
+
+
+Kaelith Voryn-Shai:OOC - and since Joren and his sister died, they never got paid
+
+Asha Morrow:OOC Asha paid Joren's wife, good enough
+
+"I would like to do all of those things."
+
+
+Nyrix:She straightens up slightly before speaking. "Is it safe to assume the Flame of Knowledge is where your dragon scale originally came from?"
+
+Asha Morrow:"Yes actually we confirmed that on the freighter, it was Nara herself."
+
+Asha didn't know whether to be grateful or angry about that.
+
+
+Kaelith Voryn-Shai:"Almost certainly. Why she saw fit to place it there for us to find is uncertain. But perhaps we could ask Nara."
+
+
+Nyrix:"If they know that, then there must be much more there to learn."
+
+Asha Morrow:"Perhaps they put much of this in place knowing what would happen. Maybe that would explain how agreeable Nara and Aran were about training us."
+
+
+Tamsin Vale:"No kidding. They practically expected us."
+
+
+Lysa Vorren:"And then there's always the option of visiting more Catalysts. Perhaps targeting ones which were related to the gods we're investigating."
+
+"It may be time to consider spreading our priorities and splitting the team up to cover more ground."
+
+Asha Morrow:"First thing we're doing is heading back to the trade moon and giving Saezo enough of the story to be paid and off his shitlist without providing too much we don't need him to know."
+
+
+Kaelith Voryn-Shai:"Yes, the bare minimum. And grabbing my staff."
+
+
+Rho Anselm:"Yep, wrap up business here."
+
+Asha Morrow:"Gives us the opportunity to give him the Maena's as a name to go after, win-win really."
+
+"Alright well if there's no complaints lets just go and get this over with."
+
+
+Kaelith Voryn-Shai:"None here"
+
+
+Narrator:The journey back to Saezo Ekron is a little easier this time, knowing what is in store for you. The docking bribes are not paid for this time, dinging Asha's account for 100k credits after Yraina explains the process to her. Having an Inuran fixer here is handy though, so your trip is quick and uneventful from the surface down to the wealthy layers of the moon.
+
+Saezo asks you to meet at a new location however while you are halfway there.
+
+
+Yraina:Yraina takes a pause from leading the group toward Saezo's office and pulls them off to the side of a walkway to talk. "This is pretty weird of him. I know he leaves a lot, but he always does business at home."
+
+"You might consider him a little paranoid."
+
+Asha Morrow:"So what is your suggestion then?"
+
+
+Yraina:She shrugs. "Just be on your toes, I suppose."
+
+Asha Morrow:"Fun."
+
+
+Kaelith Voryn-Shai:"Getting my staff so I'm prepared to kill anything if necessary."
+
+
+Saezo Ekron:This time the meeting place provided is in an orange level security industrial sector. An elevator takes you close to the location and you see the glow before you even enter the facility he is in. Gold, orange light spilling out from the windows. It seems like a massive pump house, but instead of water or oil or something sensible, it is pumping golden liquid Spark. He is standing in front of the main line, turning to face the crew as they approach.
+
+"You'll have to excuse me for meeting in such a dreary place, but I thought you might like to see what I'm working on."
+
+
+Yraina:Yraina looks believably just as confused as anyone else when they arrive. Her eyes are full of dollar signs right now.
+
+"This is absurd, man."
+
+Asha Morrow:Asha stares for awhile at the golden Spark, feeling like for a moment she is manifesting the things she is interested in, "Well I'll forgive you if for nothing else than the..._scenery_."
+
+
+Narrator:This place radiates power, much more apparent to mages but Asha and Kaelith in particular feel like they are bathing in sunlight just being around this much Spark. It's warm and could easily make you want to settle in for a nap.
+
+
+Kaelith Voryn-Shai:_Kaelith clenches his fists tightly and purses his lips. He remains calm, however obviously affected by the scenery of the room. He offers only a nod to Saezo_
+
+
+Saezo Ekron:"So tell me, what did you learn in your investigation?"
+
+Asha Morrow:Asha turns to Kaelith and holds out a hand, "Well? You did the flame reading, would you like to go? Otherwise I'll give the short version."
+
+
+Kaelith Voryn-Shai:_Kaelith closes his eyes momentarily and takes a deep breath_ "Certainly Asha." _Kaelith takes a step forward and begins to recant what he saw in the flame reading. He gives only the basic story, leaving out the layered details that led the group to their actions after. And there are no details given on the scale map and Nara's involvement_
+
+
+Saezo Ekron:OOC: So he knows Maena sabotaged it, does he know the Captain was under the influence of Hand of Eterra?
+
+OOC: Or just leaving it at the very basic - Maena
+
+
+Kaelith Voryn-Shai:OOC - Kaelith does tell him that the Captain was under spiritual influence, but claims he could not identify the source
+
+
+Saezo Ekron:OOC Perfect
+
+"Maena," he says at last, soft enough that it's almost drowned out by the Spark pumps. "The only reason I didn't suspect them was because the sabotage happened so long ago. That means they knew about all of this ahead of time."
+
+Saezo begins to pace slowly.
+
+"It seems my enemies are not to be underestimated. We should discuss your payment."
+
+Asha Morrow:Asha watches quietly and finally its her turn to step in, "I've got some things in mind, do you?" Off the top of her head, Kaelith's rather _expensive_ staff, or prepping the Lone Star for catalyzation would surely be costly.
+
+
+Kaelith Voryn-Shai:_Kaelith cracks his knuckles_ "My staff certainly is expensive. And we did provide some very meaningful information. And besides, we are standing in a room that is worth far more than either of those things Asha."
+
+
+Saezo Ekron:"As I said, arming you like my own brother. A refit of your ship, Mark IX spell armor for each of your marines and matching weapons. A particularly large amount of Blood of Shaya potions and similar grade battle supplies. The works. Unless you have something specific in mind?"
+
+He then asks, "How much is the staff?"
+
+Asha Morrow:Asha hesitates.
+
+
+Yraina:Yraina silently offers her data slate to Asha with the invoice on it, tilted out of view of course.
+
+OOC: It was like 275 million? Something like that
+
+OOC: Yes I double checked 285m
+
+Asha Morrow:Asha opens her mouth and nothing comes out, the cost of this staff alone makes their "fortune" look small. She sighs and finally relents, "285."
+
+
+Saezo Ekron:He shrugs. "That would barely add fifteen percent to what I'm considering. Consider it included."
+
+
+Kaelith Voryn-Shai:OOC - it was all of the money Kaelith had plus like 15 million
+
+
+Yraina:She professionally hides her reaction but only manages to do so by looking off to the side to find something else to stare at.
+
+Asha Morrow:Asha stares blankly at the floor as she considers what true wealth looks like. What was a life changing amount of money for her and Kaelith is...nothing to this man. A rounding error. She considers Joren's wife who she gave 1million to and how that would change her life. There are levels to this. Asha wonders if the information they provided is actually worth this amount but she discards the thought soon after she doesn't care. "Great."
+
+
+Saezo Ekron:"Very well then, the deliveries are in progress now and someone will be by to speak with you about the ship. Yraina, send the invoice to me and I'll pay for the staff. Consider your obligations to me cleared."
+
+Asha Morrow:"If you're in a generous mood then another favor if you would? Whenever you have an idea on how to get back at the Maena family, let us know. We've something of a grudge at this point." she looks to Yraina, then back "In more ways than one."
+
+
+Kaelith Voryn-Shai:_Kaelith is fuming inside at the wave of Saezo's hand at the costs they just presented, but maintains his composure_ "A pleasure doing business with you Saezo."
+
+
+Saezo Ekron:"I'll be sure to keep that in mind. If I need some experts, then I'll be in touch."
+
+
+Sshado C. (GM):OOC: Good stopping point here I believe, let's call it
+
+Asha Morrow:OOC the mysteries deepen
+
+OOC thank fuck we made friends with a rich guy
+
+OOC we're about to have space marines on the lone star lmao
+
+
+Sshado C. (GM):OOC: your ship is about to get on a new level
+
+
+Kaelith Voryn-Shai:OOC - that was awesome
+
+OOC - and now you get to figure out what my staff can do
+
+
+Sshado C. (GM):OOC: like how Voriya's "The First Spellship" is just a ridiculous vessel. It's even larger on the inside than it is on the outside, the kitchens just perfectly print any possible food you could want, it has some of the best medical facilities in the galaxy etc..
+
+OOC - Oh yes and the staff
+
+OOC - That is gonna be fun to figure out
+
+OOC - Kaelith is trying to make something like Ikadra
+
+Asha Morrow:OOC excited for the lone star to get a new name and some new wild powers, meanwhile kaelith is about to be godlike
+
+
+Sshado C. (GM):OOC - I'll have to reach out for your input on it tbh
+
+OOC - Both ship and staff
+
+Asha Morrow:OOC well thanks for the session yall, have a good week!
+
+
+Sshado C. (GM):OOC - All right take 4 exp each and let's meet next week, schedules willing
+
+OOC - Cya
+
+
+Kaelith Voryn-Shai:OOC - see ya

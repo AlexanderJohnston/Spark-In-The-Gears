@@ -1,0 +1,1420 @@
+---
+title: Session 30 Log
+type: session-log
+session: 30
+status: not-yet-played
+---
+
+# Session 30 Log
+
+Prep: [[Session 30 - GM Guide]] · Reference: [[Session 30 - Continuity]]
+
+## Play log
+
+
+Sshado C. (GM):OOC: Evenin
+
+OOC: How's your day been?
+
+
+Kaelith Voryn-Shai:OOC - evening
+
+OOC - work has finally calmed down
+
+
+Sshado C. (GM):OOC - glad to hear it
+
+
+Kaelith Voryn-Shai:OOC - how about work for you? Still crazy
+
+
+Sshado C. (GM):OOC - It's calming down. Though I'm struggling to type that out because it feels like I'll jinx it. Knock on wood.
+
+OOC - More like I'm just getting a better handle on it
+
+OOC - Also choosing to drop some other commitments like a video gaming group which I don't have time for
+
+Swapping to IC for a moment.
+
+Asha and Kaelith have just walked into sample custody at Survey Exchange Nine. Each has a research tablet. Their memories are fully intact and their flimsy assessor cover still works. Daal and Senn are arguing over custody records in receiving. Vesk has ordered them to provide samples and stop outgoing shipments. He is coming here.
+
+They have basically confirmed that Maena wants to animate a manufactured god and use it to reach the power associated with Sol/Terra. Kaelith identified the Hand's Void contamination in the lab and privately told Asha about it.
+
+
+Sshado C. (GM):OOC - some kind of magnifying glass is stuck on my mouse... one sec... dunno what this is
+
+OOC - Okay fixed. I must've hit a button in roll20
+
+
+Narrator:Sample custody is colder than receiving. Orange light shines through rows of sealed vessels behind glass, each marked with a shipment code. A narrow workbench faces the racks, fitted with an inspection lamp and a shallow containment tray.
+
+The attendant places two retained samples in the tray, followed by an empty transfer vessel. Their labels match entries on your tablets. He switches on the lamp, then returns to the doorway as Senn calls for another custody record.
+
+Beyond him, Daal leans over the receiving terminal, holding her place on the screen while Senn argues. Above the freight lanes, the dispatch board reads **OUTBOUND SHIPMENTS HELD**.
+
+Yraina steps inside with the case and settles beside the door, watching receiving. For the moment, you have the bench to yourselves.
+
+Asha Morrow:Asha activates **essence sight** and leans down to take a close look at one of the samples, leaving room for Kaelith to do as he needs.
+
+
+Kaelith Voryn-Shai:_Kaelith begins to first inspect the transfer vessel for signs of the Hands contamination with his essence sight_
+
+
+Narrator:Through Asha's essence sight, the Spark is brilliant. The color is difficult to name, almost silver, it's indistinguishable from the strange magic found aboard their salvage months ago. Threaded through it is Void, intermingled with the Spark itself. These samples carry the same contamination Kaelith identified in the laboratory, despite never having passed through Daal's apparatus.
+
+The empty transfer vessel presents a different picture to Kaelith. Its containment enchantments form a steady, orderly pattern around the interior. He finds no trace of the Hand's interference lingering in them, no residue carrying the distinctive Void contamination, and no apparent faults in the vessel's magitech. It was clearly designed by a master artificer.
+
+Asha Morrow:Asha speaks quietly, "Same thing here."
+
+
+Kaelith Voryn-Shai:_Kaelith takes his own look at the Spark while nodding at Asha's comment_ "The transfer vessel is clear, indicating the contamination must be coming directly from the holding chamber of even the mine itself."
+
+Asha Morrow:She nods lightly, "Everything points to the source itself being contaminated."
+
+
+Narrator:A soft chime sounds from both tablets. The custody records Senn has been pulling appear beneath the sample entries, with shipment dates, vessel numbers, and transfer locations. The origin column lists the **Trade Moon reserve**. Farther down there is an earlier reference which includes an attachment: **SOURCE EXTRACTION SURVEY**. Beside it sits a small lock symbol and the note **FULL REPORT HELD IN SURVEY RECORDS - SEEK STAFF AUTHORIZATION**.
+
+Through the open doorway, Senn turns his terminal toward Daal and taps a line on the screen. You hear him talking about how every transfer is accounted for.
+
+Despite being locked out from the deeper survey records, it's apparent the contamination is within the entire Trade Moon's reserve, but it's not clear if that chain of supply extends all the way to the mines.
+
+
+Kaelith Voryn-Shai:_In a hushed tone to Yraina_ "How bad does us directing the source of the contamination back to the trade moon look?"
+
+Asha Morrow:Asha's mind races with a million different thoughts. Maintaining cover is important but she doesn't want to _help_ these people understand what's happening either, in fact she wants to do the opposite. Now doesn't seem to be the right time to start killing people though. She turns to Kaelith, "Any ideas?"
+
+
+Kaelith Voryn-Shai:"The reality is that if the Hand contaminated the trade moon reserves, they would in theory need to dump all the reserves and recollect to then continue the trials."
+
+Asha Morrow:"Sure, that might delay things substantially. I just think maybe they don't need to know everything."
+
+
+Yraina:She turns her attention from the doorway, giving Kaelith her full attention. "If my mother can use it against Saezo, badly. He gave me my first decent living in fifteen years. I have very little interest in helping my family take that from me."
+
+Her voice drops further. "And if they corner him, we have more to lose than my employment," she adds, glancing at the samples. "This is keeping their god from waking up. Any useful answers we give to Vesk might help him change that. I want my mother's operation broken, but let's be careful about doing her research for her."
+
+Asha Morrow:"We should play ignorant then, maybe act like these look fine to us. I don't know, this is harder than I thought it'd be.."
+
+
+Kaelith Voryn-Shai:"If the reserves are contaminated, then Saezo stands to take a huge fall from grace. And besides, you don't need to work for him anymore. You have us. And if the reserves are contaminated, it could take years to get enough Spark recollected to have enough to make their God."
+
+
+Yraina:"You have..."
+
+She stops, looking at Kaelith. Some of the tension leaves her face, replaced by a surprised smile. "I'll hold you to that."
+
+For a moment she seems content to leave it there. Then she glances back toward receiving. "Years would be lovely. I'd like to spend them somewhere my mother isn't. But we don't know what else they have, or how close they are to finding a way around this."
+
+She turns to Asha, still looking a little softer. "Baffled is perfectly credible. Daal has been staring at this longer than we have. The vessel looks sound, and we need more information about the samples. We can say both without lying."
+
+Asha Morrow:"Confused it is, easy way to extract more info."
+
+
+Kaelith Voryn-Shai:"Let's see if we can get Daal in her by herself."
+
+
+Yraina:"I can distract Senn?"
+
+
+Kaelith Voryn-Shai:_Kaelith walks toward the door_ "Daal, do you have a moment?"
+
+Meret Daal:OOC: Sorry got distracted with Midjourney, trying to get a Daal portrait
+
+"Of course."
+
+Daal straightens from the terminal. As she turns toward Kaelith, Yraina approaches teh desk, her attention on the dispatch board.
+
+
+Yraina:"Which of these consignments was already cleared to leave?" she asks, getting Senn to point at several entries as she redirects his attention.
+
+
+Narrator:They have effectively traded places. Yraina is now outside the room, somewhat out of earshot.
+
+Meret Daal:Daal joins Kaelith at the doorway, then approaches the bench. "What would you like me to look at?"
+
+
+Kaelith Voryn-Shai:"We have examined the transfer vessel and the sample vials. The transfer vessel is free of contaminants, but the samples show the same contaminants as your vials in the lab. What can you tell us of the process prior to the Spark reaching this point?"
+
+
+Meret Daal:Her eyes move from the empty vessel to the samples.
+
+"Then the interference predates our equipment."
+
+She draws one of the tablets closer and opens its custody history.
+
+"These lots passed through the Trade Moon reserve. Comparison portions were sealed and entered into custody before the laboratory drew its working samples. We test what we receive for ordinary performance, and it passes those checks. The failure only appears when we attempt animation."
+
+Her finger stops at the source-survey reference.
+
+"I don't supervise extraction. I can account for what we do to it in the laboratory, but everything before the reserve comes to me through reports."
+
+
+Meret Daal:She looks back to Kaelith. "The original surveys should document that process. I can open them in Records."
+
+
+Kaelith Voryn-Shai:"Please do. I fear there are too many moving parts to pinpoint the contaminated process."
+
+
+Meret Daal:"Okay. Let's follow one batch all the way back."
+
+
+Narrator:She motions for you to stay and takes the tablet to Survey Records, walking past Senn and Yraina. After a brief exchange with the staff there, she returns with the protected survey open on the tablet and places it between you.
+
+The report begins with an extraction inventory. Its material classifications are: **recovered souls, residual spiritual material, and divine remains.** Collection sites are identified as workings deep within the Umbral.
+
+Subsequent entries track the consignment through transport and storage to the Trade Moon reserve. The recorded acceptance tests concern stability and ordinary industrial performance. None tests the material against a neural lattice before it reaches the reserve.
+
+
+Meret Daal:"They recorded whether it was usable, but not testing for the failure we're seeing. We would have to take a lattice all the way back to the mines in order to find out."
+
+Asha Morrow:Asha takes a deep breath and lets it all out over a long exhale, _they're working in the Umbral Depths_? This gets worse with every moment.
+
+
+Kaelith Voryn-Shai:"That's not a feasible solution Daal and you know that. The working conditions in a mine would make your attempt to animate nearly impossible."
+
+
+Meret Daal:Meret falls quiet. Her eyes move back through the custody entries, then settle on the extraction report. Her thumb pauses.
+
+"I wouldn't attempt it beside an excavation face. We can put a test in a controlled enclosure. We already have more delicate equipment than that."
+
+A small, incredulous smile crosses her face.
+
+"We've been trying to make the experiment work with the stock Vesk insists we use. We should have questioned that. A failed trial might tell us very little, but a successful one would establish that the material can work before it reaches reserve. It's worth testing."
+
+She studies Kaelith for a moment, the communicator still in her hand.
+
+
+Kaelith Voryn-Shai:_Kaelith flashes a look to Asha with concern in his eyes_ "I don't like the thought of trying animation in an uncontrolled environment. It's too risky. We chance losing the lattice or worse."
+
+Asha Morrow:Asha is trying not to burst at the seams, they've probably given these people too much already. Meret is too smart. Her mind races but she can't think of a good way to backpedal at this point.
+
+Asha was never one for worship but all of this feels _heretical_ in a way that makes her very soul _crawl_.
+
+
+(To Asha): +1 exp
+
+
+Meret Daal:"Then we establish the conditions before attempting it. Containment, a suitable chamber, a shutdown procedure. It's not like I'm ordering one to be run this afternoon."
+
+Her tone remains measured, but her grip tightens around the communicator.
+
+"If you've identified a particular danger, tell me and I'll include it. But we may have spent months trying to repair stock we could simply replace. I can't withhold that possibility because the first trial might fail."
+
+She raises the communicator toward her mouth.
+
+"You can explain your concerns to Vesk with me."
+
+
+Kaelith Voryn-Shai:OOC - how much money does Kaelith think setting up the field operation would cost?
+
+Asha Morrow:Asha's hand makes a fist down by her side as if she was gripping her spellhammer. She is lucky these people can't read minds as she imagines bashing their heads in.
+
+
+Sshado C. (GM):OOC - A good starting guess for him might be around 100 million credits.
+
+OOC - It's expensive but not quite like buying a whole battleship expensive
+
+
+Kaelith Voryn-Shai:"Would it not be easier to request a new batch from the reserves first before we waste hundreds of millions of creds on setting up a field lab to run a test?"
+
+"And why is Vesk so insistent on using the samples he provided?"
+
+
+Narrator:Meret’s thumb stops short of the transmit control.
+
+
+Meret Daal:"A different lot, drawn separately. Yes. We should establish whether the problem extends beyond these consignments before proposing a field trial."
+
+She lowers the communicator slightly.
+
+"As for Vesk... I haven't been given a technical reason. Making the existing reserve work is a requirement of the project. I've been treating it as one."
+
+Her eyes return to the custody records. "We should choose the next lot ourselves."
+
+Asha Morrow:"What if there's a reason for that?"
+
+
+Kaelith Voryn-Shai:_At Daal's comment about Vesk, his face sags a look of suspicion begins to form_
+
+
+Meret Daal:OOC: Let me get a performance check DT1
+
+OOC: sorry I mean Negotiation
+
+
+Kaelith Voryn-Shai:OOC - From Kaelith or Asha
+
+
+Meret Daal:OOC: Either of you can contribute
+
+Asha Morrow:
+
+|Asha Morrow|
+|---|
+|Negotiation|
+|2 Successes|
+|(4+1) Charisma  <br>(3+0) Negotiatio(TN4)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+
+Kaelith Voryn-Shai:
+
+|Kaelith Voryn-Shai|
+|---|
+|Negotiation|
+|3 Successes|
+|(3+3) Charisma  <br>(1+0) Negotiatio(TN5)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+
+Meret Daal:Meret looks down at the communicator, then returns it to her pocket.
+
+"Then there may be something about this stock he hasn’t told me. I've spent months defending my apparatus against these failures. If there's information missing from the specifications, I want to establish that before he chooses our next comparison."
+
+She turns the inventory toward both of you. "Pick a separate lot. I'll authorize the request."
+
+Her voice lowers, "And we'll keep the source trial between us for now."
+
+Asha Morrow:Asha stares down at the inventory like she is choosing where to die. She wishes she could divine a perfect answer for this.
+
+
+Kaelith Voryn-Shai:_Kaelith looks over the inventory manifest for a long moment_
+
+
+Narrator:Most of the entries repeat the same requisition number attached to Vesk’s samples. One has a different origin:
+
+QC-17 — RESERVE REFERENCE SAMPLE
+
+Drawn by: Reserve quality-control staff
+
+Purpose: Routine industrial calibration
+
+Location: Exchange Nine, retained-stock rack
+
+Seal: Intact
+
+
+Narrator:Its custody history shows a separate draw from another reserve lot. It was selected independently of Vesk’s research requisition, and it is already here.
+
+
+(From Kaelith Voryn-Shai): can Kaelith cast Flame reading for a glimpse at which to pick?
+
+
+Narrator:Alternatively, Asha could select a lot that would take a while to get here, perhaps one of the older entries. The separate sample on the list she found is almost definitely contaminated too and will just prove the theory.
+
+In fact she can even see it sitting on a shelf if she looks around the room.
+
+
+(To Kaelith Voryn-Shai): Yes!
+
+
+(To Kaelith Voryn-Shai): what result are you searching for in those futures?
+
+
+Narrator:OOC: Kaelith might be about to try something if you're unsure
+
+Asha Morrow:Asha points to an older entry, the older the better, and looks at Kaelith "What do you think about this one?"
+
+
+Kaelith Voryn-Shai:_Kaelith will use Flame Reading to investigate the one Asha points out_
+
+
+Narrator:OOC: hard casting yes?
+
+OOC: No focus or staff on you
+
+OOC: Sorry that is a lazy way of asking. He's etching sigils in the air right?
+
+
+Kaelith Voryn-Shai:OOC -Yes, covertly etching at his side away from Daal
+
+
+Narrator:OOC - Let's see a performance DT2 to hard cast silently with her attention on you
+
+OOC - Alternatively I would let you roll the negotiation success into explaining this away
+
+OOC - since you way outscored it
+
+
+Kaelith Voryn-Shai:OOC - performance is not his strongsuit so negotiation might be best
+
+
+Narrator:OOC - typing
+
+The flame widens into a view of the comparison bench. Daal stands beside it, reading a reply on her tablet.
+
+"That lot is still in the Trade Moon's reserve archive. They have to retrieve it and arrange a transfer. Forty eight hours at the earliest."
+
+The flame shifts, revealing Senn inside the dispatch booth. A priority transmission begins assembling on his screen: your images, the laboratory referral, Yraina's sponsor record. Beside his hand, available under his logged-in credentials, is a big button labeled **CANCEL TRANSMISSION**. It glows and awaits someone to press it before it goes out to the Maena network.
+
+The flame shifts again, a minute later. Behind Daal, the gateway brightens. A man steps through with two armed escorts and a hard case in his hand.
+
+"Vesk. We're arranging an independent comparison," Daal says.
+
+
+Narrator:He sets the case beside his feet. "Your '**assessors**' are reassigned to protected research. Their household sponsor no longer has release authority."
+
+Yraina steps forward. An escort moves between her and the bench, bringing out restraints. She shoots a panicked glance back to Kaelith, who sees himself in third person standing beside Asha.
+
+"Send it directly," Vesk says. "Local management can hear about this afterward."
+
+He reaches down for the case.
+
+The vision breaks apart.
+
+This is one probable outcome. There is still time to change it.
+
+
+Meret Daal:Daal catches the movement of Kaelith’s fingers. Her eyes follow a briefly visible sigil, and her expression brightens.
+
+"You can hard-cast."
+
+She says this with unmistable pleasure, then glances at his dependent band. "And they put you in household service. Do you know how long I've been requesting a tech mage? What are you looking for, something in the sample history?"
+
+
+Sshado C. (GM):OOC: Just to make it absolutely clear what happened there, Senn is about to betray you two.
+
+OOC: You've got probably 15-20 seconds Kaelith
+
+
+Kaelith Voryn-Shai:OOC - to be clear, the message is currently on his screen?
+
+
+Sshado C. (GM):OOC - To metagame momentarily, he's typing it in right now and adding the pictures to it
+
+OOC - not really metagaming since you saw it
+
+Asha Morrow:OOC yraina is still next to senn?
+
+
+Sshado C. (GM):OOC - Across from him, she sadly doesn't see his screen
+
+OOC - trying to be too normal
+
+Asha Morrow:OOC she's closer to push the button i mean, maybe. i guess i dont know exactly how far we are either
+
+
+Sshado C. (GM):OOC - oh yes she's within arm's reach
+
+
+Kaelith Voryn-Shai:_Kaelith steps back from Daal and rapidly hard casts Blink_
+
+
+Sshado C. (GM):OOC - you two are a few good strides, maybe 20-30 meters
+
+OOC that'll do it lmao
+
+
+Narrator:Kaelith disappears, reappearing instantly at...
+
+
+Kaelith Voryn-Shai:_Kaelith Blinks behind Senn, grabs him around the neck and yanks him back from his terminal_
+
+Asha Morrow:"What-" Asha pushes her way past Meret and rushes over.
+
+
+Sshado C. (GM):OOC: Kaelith "gets the drop" (pg 109) and has one full round before anyone can enter the initiative order, as may Asha if read as written.
+
+OOC: Two full actions each, sorting out grapple now
+
+OOC: I'm going to exclude Yraina because the book explicitly states allies only get the drop if they're 'by your side'
+
+OOC: and technically she wasn't
+
+OOC: So I would assume this means Asha has seen you blink before and recognizes it instantly and her combat instincts kick her in basically. OK I'm gonna stop rambling and sort
+
+Asha Morrow:OOC safe to assume Asha gets over there quickly and sees the in progress transmission and the Cancel Transmission button after a moment of looking?
+
+
+Sshado C. (GM):OOC Sure I would consider that one movement action
+
+OOC she can move 25 meters at a sprint
+
+OOC sorry a sprint is both actions
+
+OOC - hittint he button is free
+
+OOC - Kaelith looks like you need to roll Melee to hit for this
+
+Asha Morrow:Asha rushes over, assessing the situation to see why Kaelith did what he did, and slams the **Cancel Transmission** button instinctively. Its on.
+
+
+Sshado C. (GM):OOC - You know what I just can't reason why you would need to roll to hit on a blink like this
+
+OOC - Are you trying to restrain as well?
+
+
+Kaelith Voryn-Shai:OOC - yes. and keep him from reaching the terminal. No intent to harm at this point
+
+
+Sshado C. (GM):OOC - Okay one action will just simply yank him back and prevent him from reaching, no roll needed. You still have one action left.
+
+OOC - The blink is free since it was outside combat
+
+OOC - COuld use this to pull your staff or anything you like, or you can reserve the action, checking rules on waiting
+
+
+Kaelith Voryn-Shai:OOC - will likely hold the action if possible
+
+
+Sshado C. (GM):OOC - Okay we're rolling initiative now, so what you can do is place a third action at anywhere in that initiative tree for the next round, irregardless of your own position.
+
+OOC - Fiar?
+
+OOC Fair*
+
+
+Kaelith Voryn-Shai:OOC - fair
+
+Everyone rolls initiative
+
+Asha Morrow:
+
+|Asha Morrow|
+|---|
+|8 Initiative|
+|(4+0) Agility  <br>(3+0) Initiative  <br>(0) Bonus|
+
+
+Kaelith Voryn-Shai:
+
+|Kaelith Voryn-Shai|
+|---|
+|9 Initiative|
+|(3+2) Agility  <br>(0+0) Initiative  <br>(0) Bonus|
+
+
+Sshado C. (GM):
+
+|Yraina|
+|---|
+|9 Initiative|
+|(3+1) Agility  <br>(3+0) Initiative  <br>(0) Bonus|
+
+oops
+
+
+Yraina:This message has been hidden.
+
+|Dock Warden - Senn|
+|---|
+|9 Initiative|
+|(1+0) Agility  <br>(3+0) Initiative  <br>(0) Bonus|
+
+OOC: Asha got cheated
+
+|Meret Daal|
+|---|
+|5 Initiative|
+|(1+0) Agility  <br>(0+0) Initiative  <br>(0) Bonus|
+
+
+Narrator:Everything suddenly happens all at once. Kaelith yanks Senn back from the terminal and Asha is there like lightning, slamming down on the button and canceling the transmission before it even started to send. She arrived there with time to spare.
+
+Kaelith is up first. All eyes are on him.
+
+Not only that, he's the only one who knows Vesk is about to walk through.
+
+
+Kaelith Voryn-Shai:_Kaelith works to secure his grip around Senn's neck just tight enough so he understands the threat is imminent._ "Why are you trying to rat us out?"
+
+
+Dock Warden - Senn:His hands close around Kaelith's forearm. He tries to turn his head, but the tightened grip stops him.
+
+"Because Daal's letting household servants dictate what happens on my dock."
+
+The words come out strained, but the contempt survives.
+
+"You stop dispatch. You start pulling research records. She's too pleased with her new assistants to ask whether any of this should be happening."
+
+His eyes flick toward Yraina.
+
+"I was reporting this to someone who could overrule Daal. I wasn’t asking your sponsor's permission."
+
+
+Narrator:OOC: Considering that 1 action
+
+
+Yraina:Yraina's expression is lower than contempt for this scum in front of her.
+
+
+Kaelith Voryn-Shai:OOC - OK. I hold for the natural initiative order to continue
+
+
+Sshado C. (GM):OOC - Okay add that to your existing held action
+
+
+Yraina:Yraina's gun is in her hand in one swift motion, aimed firmly at Daal as she slowly walks toward her, ensuring that Daal can't suddenly duck behind the doorway into the next room. "Throw the communicator toward me and act natural," she says coldly.
+
+Yraina shoots a glance to Asha, "You're going to need to secure our entrance. Can you ambush them?"
+
+(OOC: Both actions for Yraina, one includes Asha's ability to respond)
+
+Asha Morrow:Asha just nods, as she rapidly scans everyone in the room and now the entrance she'll be tasked with guarding.
+
+
+Dock Warden - Senn:His eyes dart toward receiving. His mouth opens as though to shout an order, then he feels how little room there is between Kaelith's forearm and his throat.
+
+The terminal is out of reach. Yraina has a gun. Nobody is coming to pull him free and there's no guarantee he will be heard down in Survey Records if he were to shout.
+
+"All right. All right."
+
+He releases Kaelith's arm and spreads his hands, keeping them away from his belt.
+
+"No more messages. You've made your point."
+
+His voice drops.
+
+
+Dock Warden - Senn:"Just loosen your arm."
+
+OOC: 1 action
+
+OOC: He foregoes his next one unless Kaelith wants to release right now
+
+
+Kaelith Voryn-Shai:_Kaelith will loosen his grip slightly to allow Senn to breathe normally_ "If I let you free and you try **ANYTHING**, I will disintegrate you. Do you understand me?"
+
+
+Dock Warden - Senn:Senn relaxes considerably but makes no motion to move. "I understand you."
+
+
+Narrator:Asha: Across receiving, the transfer platform sits inactive. Its low metal rim is nearly flush with the freight decking, and the space above it is empty. Asha cannot see the headquarters chamber or anyone approaching from that side since it isn't open right now.
+
+To the left, a parked loading cradle offers a useful position. Its solid motor housing stands waist-high, about three metres from the platform’s edge. Crouching behind it would conceal most of her body while leaving her an angled view of the arrival area.
+
+If the passage opens there, she could catch someone stepping clear of it, either from cover or with a short rush.
+
+An open freight aisle behind the cradle leads back toward the dispatch booth and Kaelith. She would have room to withdraw without crossing the platform.
+
+Asha's turn
+
+
+Narrator:OOC: But honestly if you have something to say speak freely
+
+Asha Morrow:Asha eyes the loading cradle as her choice. She speaks before she moves, "This is what I was saying before, _why_ insist on only using the reserve? There's something going on here." Asha runs over to the loading cradle to take a good position behind it to ambush someone walking through.
+
+OOC is pulling the spellhammer out of the void pocket a full action?
+
+
+Sshado C. (GM):OOC yeah
+
+OOC It's a hard cast
+
+Asha Morrow:OOC was moving over here a full action, was it far?
+
+
+Sshado C. (GM):OOC: No it wasn't, and I'm curious what you'll do so I'm going to roll your weapon draw into the movement this time.
+
+OOC - No it wasn't far I mean
+
+Asha Morrow:OOC suppose I could just cast a spell or something instead but Asha is kinda pissed so im staying in character
+
+
+Sshado C. (GM):OOC Take another EXP point for that
+
+OOC Kaelith as well for the flame reading
+
+OOC very very good choices
+
+OOC That your turn then>?
+
+
+Kaelith Voryn-Shai:_Kaelith pivots them around placing himself between Senn and the terminal before releasing his grip and shoving Senn away from him_
+
+Asha Morrow:Asha draws void sigils into the air to reach into her void pocket and pull her **Mark VIII Inuran Spellhammer** out, she holds it primed to swing on someone that gets close or to rush to them and swing if necessary. _This_ is what she has wanted to do, these fucks die.
+
+
+Dock Warden - Senn:Senn stumbles away from Kaelith, falling onto all fours. He has no action to stand up yet.
+
+OOC: 1 action spent
+
+
+Kaelith Voryn-Shai:_Kaelith follows Asha lead and pulls forth Axiom through the void_
+
+
+Meret Daal:Daal slowly takes the communicator between two fingers and tosses it toward Yraina's feet. It slides across the metal plating and clatters to a stop a few inches from her boots. Her hands remain raised.
+
+"There's, I'm not calling anyone."
+
+Her eyes follow Asha's hammer, then return to Yraina. The excitement has drained from her face.
+
+"I gave you the reports. I agreed to keep our findings from Vesk."
+
+There is hurt beneath the fear, sharpening her voice.
+
+"What do you actually want? If it's him, then tell me what you need me to do. I'll help you! But just keep the receiving staff out of it."
+
+
+Kaelith Voryn-Shai:_Kaelith glances to Yraina_
+
+
+Yraina:Yraina meets his gaze, her eyes distant as she is rapidly processing this.
+
+"Then get them out of receiving. Send them to records and pull the older assays. Make it sound like work."
+
+She glances to the comparison bench.
+
+"When Vesk arrives, tell him you need him at the bench. You have the tablets: let him come to you. Stay clear of the loading cradle and keep your hands visible. Do that and you'll have helped your people out of the shooting."
+
+
+Meret Daal:Meret immediately complies, moving into position.
+
+
+Sshado C. (GM):OOC: Kaelith's turn. Vesk arrives next round.
+
+
+Kaelith Voryn-Shai:_Kaelith will move to a position that prevents Vesk from seeing him before entry into the immediate area_
+
+
+Yraina:OOC: Lol I forgot you can literally spend experience in comabt, Asha just reminded me. Never forget!
+
+
+Narrator:Kaelith takes a position behind some freight cases on the other side, opposite of Asha so they have a clean crossfire on the situation.
+
+
+Yraina:Yraina barks orders at Senn to stay on all four behind his counter where he will be firmly out of sight of Vesk but still visible to her from inside sample custody. She gets Daal into position at the bench and then takes an angle ready to ambush by popping out of the same room Daal is in.
+
+
+Dock Warden - Senn:Senn moves to comply and stays hidden and silent.
+
+OOC: Any last actions Asha?
+
+Asha Morrow:OOC Nope, I think Asha is prepared to come out from behind the loading cradle and ambush if necessary, otherwise she is waiting
+
+
+Narrator:Silver light gathers beneath the transfer platform's rim. A low vibration passes through the decking, and the air above it tightens before opening onto the pale headquarters chamber.
+
+A narrow-faced man in a charcoal coat steps through, carrying a hard case in his left hand. A sidearm sits neatly at his right hip. Two guards follow with spell rifles held at their chests.
+
+
+Vesk Aruun:Vesk's eyes pass over the stalled freight lanes before settling on Daal.
+
+"You've stopped an entire dispatch cycle, Meret. Show me why."
+
+
+Meret Daal:"Over here. I have the comparison records open and some samples ready."
+
+
+Narrator:She remains beside the bench, both hands resting visibly near the tablets.
+
+
+Vesk Aruun:Vesk walks off the platform toward her. His escorts spread slightly behind him, leaving room between them as they clear the passage platform. He approaches the loading cradle with the case still in his hand. Across the receiving floor, Kaelith has a clear view of the guards behind the freight cases. Asha does as well.
+
+
+Sshado C. (GM):OOC: Kaelith's turn
+
+OOC: The guards and Vesk will go last
+
+OOC: Actually to be honest this is you getting the jump again, so you three get an action before they even get to have a round
+
+
+Kaelith Voryn-Shai:_Kaelith will cast Chameleon on himself_
+
+
+Sshado C. (GM):OOC: Sight?
+
+
+Kaelith Voryn-Shai:OOC - yes
+
+
+Sshado C. (GM):OOC: I believe spellcasting + expression to check to determine threshold
+
+
+Kaelith Voryn-Shai:OOC - Yes, but what is expression? I don't see it on the sheet
+
+OOC - looks like expression is charisma
+
+
+Sshado C. (GM):OOC - yeah
+
+OOC - You choose it at char gen, it's your way of expressing your magic, a stat of your choice
+
+OOC - one of the cooler ideas IMO
+
+
+Kaelith Voryn-Shai:OOC - Ok. so it's intuition for Kaelith
+
+
+Sshado C. (GM):OOC - ah okay sorry
+
+
+Kaelith Voryn-Shai:OOC - no worries
+
+
+Sshado C. (GM):OOC - that actually makes more sense considering him
+
+
+Kaelith Voryn-Shai:
+
+|Kaelith Voryn-Shai|
+|---|
+|Spellcasting|
+|4 Successes|
+|(4+3) Intuition  <br>(5+0) Spellcasting(TN4)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+
+Sshado C. (GM):OOC: Okay he's basically invisible
+
+OOC: Second action or pass?
+
+
+Kaelith Voryn-Shai:_He slowly slides out from behind his cover to close the distance on Vesk and his guards, making sure to not obscure Asha's shot_
+
+
+Sshado C. (GM):OOC: How close do you want to get
+
+OOC: within X meters
+
+
+Kaelith Voryn-Shai:OOC - within about 15 meters
+
+
+Sshado C. (GM):OOC - got it
+
+
+Yraina:Yraina waits, holding ready for Asha to spring the ambush. She holds her available action, covering Vesk. Her trigger will be **Asha beginning her attack**, provided she has a clear shot. If Vesk notices the trap and reaches first, she fires then.
+
+She stays tucked in the doorway. She wants to shoot him. The tension in her jaw makes that plain, but she holds.
+
+
+Dock Warden - Senn:Senn passes.
+
+
+Sshado C. (GM):This message has been hidden.
+
+OOC: Asha
+
+Asha Morrow:OOC feel like ive asked before but how far is "1" range and how far away is Vesk from Asha right now?
+
+
+Sshado C. (GM):OOC: 1 range is melee or 1 meter / square
+
+OOC: Vesk is within 10 meters
+
+OOC: His two guards trail behind at about 5 meters, so one is even closer to you
+
+Asha Morrow:OOC how is a range of "1" differentiated from a range of "short" or "personal" then?
+
+OOC or "touch" rather, personal makes sense
+
+
+Sshado C. (GM):OOC: Personal affects you in context of magic, touch requires physical contact distance so, and a hammer can reach 1, so that would be up to a meter away, outside of touch range.
+
+OOC: Best I can guess after looking but it's not cleanly defined for melee
+
+Asha Morrow:OOC well my hammer has a range of 2 but i take your point
+
+OOC just means one of my spells is basically melee and i didnt realize that until now
+
+
+Sshado C. (GM):OOC: I would interpret that as being able to swing and attack something that is normally 5 meters out of your range then, aka "one square" on the grid
+
+OOC: Is that more useful?
+
+Asha Morrow:OOC I guess?
+
+
+Sshado C. (GM):OOC: lol sorry :/
+
+OOC: I hope i"m not confusing this
+
+Asha Morrow:OOC its fine i will do something less cool then
+
+Asha will also cast **Chameleon** to hide herself from sight, with the intent to sneak up on the guard nearest to her.
+
+|Asha Morrow|
+|---|
+|Spellcasting|
+|3 Successes|
+|(4+1) Charisma  <br>(3+0) Spellcasting(TN4)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+
+Narrator:Asha is hidden well.
+
+Asha Morrow:Asha will move very deliberately and at a steady pace up behind the guard nearest to her, her hammer well prepared for a swing if anything goes awry or someone else sets this whole thing off.
+
+
+Narrator:OOC: Meret Daal passes.
+
+OOC: Y'all want to go until 10 or are you good
+
+
+Kaelith Voryn-Shai:OOC - I'm up for 10, but totally up to you two
+
+
+Narrator:OOC - No pressure at all
+
+Asha Morrow:OOC alright
+
+
+Vesk Aruun:Vesk continues toward the comparison bench, apparently satisfied that Daal is waiting for him. He sets the hard case beside his boot and reaches for the tablet she has ready.
+
+"Show me the comparison."
+
+
+Narrator:There are two escorts we will call Bastion, the heavy, and Kestrel, slightly less heavy. Differentiated by blueish spell armor and greenish spell armor.
+
+The heavier escort, Bastion, follows him, stopping a little to one side of the bench. His rifle remains lowered, but his hands stay in firing position.
+
+The second escort stops nearer the freight aisle. Rather than watch Daal’s presentation, he surveys receiving: the empty dispatch position, the loading equipment, and the approaches behind his partner. His eyes pass **directly** over Asha and Kaelith before he turns back around to face the room Vesk is in, his back once again to them.
+
+
+Vesk Aruun:Vesk looks up from the tablet.
+
+“Where are the assessors?”
+
+Kaelith's turn
+
+
+Sshado C. (GM):OOC: I can feel the tension. Who will snap it first
+
+;)
+
+
+Kaelith Voryn-Shai:_Kaelith will glance around for Asha_
+
+|Kaelith Voryn-Shai|
+|---|
+|Perception|
+|5 Successes|
+|(4+3) Intuition  <br>(4+0) Percept(TN4)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+**Perception roll**
+
+
+Narrator:Kaelith is almost disturbingly sharp here, maybe it's the combat. Has he actually had a good night of sleep lately? Is it possible? Surely not.
+
+He sees Asha clearly.
+
+OOC: Asha did you follow Bastion into the room or Kestrel outside
+
+Asha Morrow:OOC I dont know which was which, whichever was "closer" to Asha
+
+
+Narrator:OOC: Bastion was closer to you initially and he is the one that followed Vesk inside. He looks beefier
+
+OOC: but both are equally easy for you, it's up to you if you want to gang up with Kaelith or not
+
+Asha Morrow:OOC Bastion it is, lets see how beefy he is against a hammer
+
+
+Narrator:OOC hahahaha
+
+
+Sshado C. (GM):Okay Kaelith, one more action.
+
+
+Kaelith Voryn-Shai:OOC - got it
+
+_Kaelith lines up Kestrel in the path of Axiom and unleashes disintegrate upon him_
+
+
+Sshado C. (GM):OOC: Yesssssss
+
+
+Kaelith Voryn-Shai:OOC - spellcasting roll correct
+
+
+Narrator:OOC - not for this
+
+OOC - well
+
+OOC - Hold on
+
+OOC yes
+
+OOC You need spellcasting roll
+
+OOC - do you wanna enhance it?
+
+
+Kaelith Voryn-Shai:OOC - I forget what enhancing does
+
+
+Narrator:OOC - I lowkey think your magic might be too low for this but I'm gonna allow it
+
+OOC - It has a cost of 5 but yours is 4, so disregard the enhancement question
+
+OOC - We'll just assume Aran taught you some tricks, but when you eventually level to 5 magic then the cost will be 5 still
+
+
+Kaelith Voryn-Shai:OOC - my magic is 6 - 2 to start plus 4 catalysts
+
+Asha Morrow:OOC was just gonna say
+
+OOC my magic is 4, his should be even better
+
+
+Narrator:OOC - sorry for the long OOC here, I'm ready to hit it
+
+OOC - oh
+
+OOC - I'm sorry yours should be 8 then kaelith
+
+OOC - each point of enhancement adds 2 damage
+
+OOC - your extra 3 points is +6 damage and can be the difference between a kill or not in tight situations
+
+
+Kaelith Voryn-Shai:OOC - ok. Let's do it.
+
+
+Narrator:OOC - Okay, sub 8 from your spell pool currently.
+
+
+Kaelith Voryn-Shai:
+
+|Kaelith Voryn-Shai|
+|---|
+|Spellcasting|
+|7 Successes|
+|(4+3) Intuition  <br>(5+0) Spellcasting(TN4)  <br>(0) Bonus Dice  <br>(2) Edge|
+
+OOC - disintegrate goes against dodge
+
+
+Narrator:Kaelith pours all of his power into the spell.
+
+A bolt of blackness edged in incandescent fire erupts from his concealed position and strikes Kestrel squarely. The warding channels across the guard’s spellarmor flare white, briefly outlining every plate as it screams in an attempt to save him.
+
+Then the spell overwhelms them with a magical shattering you can feel in your bones.
+
+Kestrel's cry breaks off as fire and Void consume the body inside the suit. For an instant, orange light shines through the joints and visor. Then there is nothing holding the armor upright.
+
+The empty suit collapses onto the decking. His rifle strikes the floor beside it.
+
+A thin haze hangs where he stood, dispersing beneath the receiving lights. There is no wounded man to recover from the armor.
+
+Yraina
+
+
+Yraina:She leans far enough around the doorway to bring her pistol firmly onto Vesk. "Hands up. Step away from the case."
+
+Her voice is cold and remarkably steady.
+
+"Tell your remaining guard to lower his weapon. You've seen what happens if this continues."
+
+rolling 9d6 Negotiation (two auto successes, DT4)
+
+(
+
+1
+
++
+
+4
+
++
+
+4
+
++
+
+3
+
++
+
+4
+
++
+
+1
+
++
+
+4
+
++
+
+3
+
++
+
+4
+
+)
+
+**=**
+
+28
+
+Asha Morrow:OOC wtf is that roll
+
+
+Yraina:She keeps her remaining action ready to fire if Vesk reaches for his weapon, begins casting, or tries to escape.
+
+Asha Morrow:OOC 9d and not a single one above 4, hope girl has mastery
+
+
+Yraina:OOC: Oh shit let me check
+
+OOC: yes thank god
+
+
+Narrator:Senn passes.
+
+Asha
+
+
+Sshado C. (GM):OOC: Interesting choice for Asha here
+
+Asha Morrow:Despite Yraina's negotiation, Asha swings her hammer above her head into Bastion.
+
+
+Sshado C. (GM):OOC:
+
+Asha Morrow:
+
+|Asha Morrow|
+|---|
+|Melee|
+|1 Successes|
+|(3+0) Strength  <br>(3+0) Melee (TN5)  <br>(0) Bonus Dice  <br>(0) Edge|
+
+
+Sshado C. (GM):OOC: Heart
+
+Asha Morrow:OOC shoulda put mastery into melee, gross roll
+
+
+Sshado C. (GM):OOC: Put it in right now
+
+OOC: haha
+
+Asha Morrow:OOC the highs and lows of ttrpg where you can swing on an unsuspecting target and completely flub it
+
+
+Sshado C. (GM):OOC: the beauty of magitech, you are ALLOWED to spend it right now
+
+Asha Morrow:OOC i guess lol
+
+
+Sshado C. (GM):OOC: You hit anyway
+
+OOC: I'm sorry do you ahve your hammer's name or stats handy
+
+OOC: I've been looking for it
+
+Asha Morrow:OOC Dolorem Mk VIII Inuran Spellhammer – Damage 15 phys + Spell, acc 2, limit 7, range 2, brace def
+
+
+Narrator:OOC: Okay we're cooking now, we'll speed this up
+
+Asha's hammer crashes down onto Bastion's shoulder with a deafning clang. His knees buckle under the impact, and a sharp grunt breaks through his helmet's speaker. The heavy plate holds, but the force drives through it. He lurches forward a step, rifle dipping toward the floor. A fresh dent marks his armor where Dolorem struck.
+
+OOC: Action two?
+
+Asha Morrow:OOC he still seems alive and functioning?
+
+
+Narrator:OOC: Good chance you fractured something but he's OK
+
+OOC: Sorry your armor has accuracy 2 btw
+
+
+Kaelith Voryn-Shai:_Kaelith will cast Void rift and grab the case_
+
+
+Narrator:OOC: You need to add two more dice
+
+OOC: for damage
+
+OOC: Your hammer has accuracy 2*'
+
+Asha Morrow:Asha continues through her swing spinning counter clockwise as she brings her hammer up through the motion then back down as she uses her weight to slam it back into Bastion's back.
+
+|Asha Morrow|
+|---|
+|Melee|
+|3 Successes|
+|(3+0) Strength  <br>(3+0) Melee (TN4)  <br>(2) Bonus Dice  <br>(0) Edge|
+
+
+Narrator:OOC That has the extra two?
+
+Asha Morrow:OOC mastery barely helped that time lol
+
+OOC yes
+
+
+Narrator:OOC ty
+
+Asha draws Dolorem back and swings again, catching Bastion across the ribs before he can recover his footing. The impact rings through receiving. He twists with the blow, a strangled gasp escaping his helmet as the hammer drives against his armored flank.
+
+He falls back, slamming into the table and knocking over the samples on it. They clatter to the floor but don't shatter.
+
+
+Meret Daal:Daal gets behind the comparison bench, moving away from Vesk with her hands visible. She holds, ready to crawl farther into cover if the fighting reaches her.
+
+Vesk and Bastion's turn
+
+
+Vesk Aruun:Vesk grabs the case from beside his boot, crouching to take its handle.
+
+He immediately makes a break for it, attempting to seek cover behind the freight cases along the way.
+
+Asha Morrow:OOC did kaelith not grab the case?
+
+
+Sshado C. (GM):OOC Wow!! Thank you how did I miss that
+
+OOC Sorry Kaelith!
+
+OOC Fucking clutch move man
+
+
+Kaelith Voryn-Shai:OOC - no worries. I didn't have line of fire so had to do something
+
+
+Vesk Aruun:Vesk’s empty hand closes reflexively. His eyes flick from the missing case to Kestrel’s collapsed armor.
+
+"Bastion. Cover the passage!"
+
+He bolts, charcoal coat snapping behind him as he runs for the platform.
+
+
+Yraina:OOC: Sprinting raises his dodge to 4 and lowers his brace to 0 for the round.
+
+Yraina's held shot triggers as he starts running.
+
+rolling 6d6>5
+
+(
+
+4
+
++
+
+3
+
++
+
+5
+
++
+
+6
+
++
+
+6
+
++
+
+3
+
+)
+
+**=**
+
+3 Successes
+
+Yraina's shot barely misses him.
+
+Kaelith
+
+
+Yraina:This message has been hidden.
+
+Asha Morrow:OOC wait what if Asha gives Yraina tailwind
+
+
+Yraina:OOC what's that
+
+Asha Morrow:OOC edge for the attack
+
+
+Yraina:OOC okay
+
+OOC Hell yeah??!
+
+OOC jog my memory where is that coming from
+
+OOC I'm having a brain freeze
+
+Asha Morrow:OOC vaelith catalyst
+
+
+Yraina:OOC yesss ty
+
+OOC Brilliant
+
+Asha Morrow:OOC Once per encounter, redirect ambient air currents (or create a brief gust in vacuum via residual magic) to grant edge on one movement, piloting, or ranged attack check for yourself or an ally within line of sight.
+
+
+Yraina:OOC want me to describe it or you?
+
+Asha Morrow:OOC nah go for it, for Asha it will be instinct, like willing the shot to hit
+
+
+Yraina:Yraina follows Vesk through her sights, but he is already slipping beyond the angle. The air answers Asha before she knows she has called to it. Dust lifts in a low spiral across the plating; a cool current slips beneath Yraina's wrist, carrying her aim that final fraction. She fires. Light sears a bright line across Vesk's flank, his coat snapping outward around the impact. His stride breaks for half a beat. Behind him, the breeze draws a strand of pale hair across Yraina’s cheek, and her eyes narrow with sudden understanding as they flick to Asha.
+
+Kaelith
+
+
+Yraina:OOC: Asha that was so fuckin cool btw
+
+
+Kaelith Voryn-Shai:_With Axiom in one hand and the case in the other, Kaelith turns towards the fleeing Vesk and fires a firebolt his way_
+
+
+Sshado C. (GM):OOC: Would you like to magnify good ir?
+
+OOC: good sir
+
+
+Kaelith Voryn-Shai:OOC - not this time
+
+
+Sshado C. (GM):OOC - gotcha
+
+
+Kaelith Voryn-Shai:
+
+|Kaelith Voryn-Shai|
+|---|
+|Spellcasting|
+|11 Successes|
+|(4+3) Intuition  <br>(5+0) Spellcasting(TN4)  <br>(0) Bonus Dice  <br>(2) Edge|
+
+
+Sshado C. (GM):OOC what the fuck
+
+Asha Morrow:OOC 11
+
+
+Sshado C. (GM):OOC I am in awe
+
+Asha Morrow:OOC he rolled 9 raw successes with 2 edge
+
+
+Kaelith Voryn-Shai:OOC - spellcasting 5, intuition 7, 2 for edge
+
+OOC - plus mastery
+
+Asha Morrow:OOC what is the +3 intuition coming from is that just points you spent or some other bonus
+
+
+Sshado C. (GM):OOC: Expression for spellcasting, it's boosted by a stat of your choice. So unlike D&D you can choose the type of stat which best fits your character and style
+
+OOC: It's RP flare
+
+OOC: Flair?
+
+Asha Morrow:OOC I know that I mean where is the +3 intuition in his total 7 coming from, 4 base +3 right what is the +3
+
+OOC so I can juice my own stats i wanna know
+
+
+Kaelith Voryn-Shai:OOC - +1 int from a perk and +2 from the magic ring he bought
+
+
+Sshado C. (GM):OOC - Oh yeah, sorry.
+
+Asha Morrow:OOC ohhh a ring, that's busted
+
+
+Sshado C. (GM):OOC - Yeah I'm grinning rn because Kaelith really planned that FAR ahead in retrospect
+
+OOC - was buying those ages ago
+
+OOC - should do another shopping trip soon on the moon
+
+
+Kaelith Voryn-Shai:OOC - had the money and easier than spending xp on stats
+
+OOC - Should I assume the firebolt melted the rest of Vesk?
+
+
+Saezo Ekron:OOC: almost done, 20 seconds
+
+OOC: You'll appreciate this
+
+
+Narrator:As Kaelith brings Axiom to bear, the calibrated rings turn beneath his fingers. One clicks into place. Then another. A thin violet line travels through the Bone of Xal, and the fleeing man resolves through the staff's aperture with startling clarity.
+
+Kaelith sees the spaces.
+
+The gaps beneath Vesk's armor. The overlapping plates separating with each desperate stride. The narrow passage beneath his collar, opening and closing as he runs. Axiom's measurements arrive as a faint pressure against Kaelith's palm, guiding his attention to one exact point.
+
+His fire follows.
+
+The bolt draws into a brilliant needle as it leaves the staff. It catches Vesk beneath the collar and disappears. He manages another step.
+
+Then every seam in his armor shines.
+
+
+Narrator:White fire pours from beneath the plates, throwing his shadow enormous against the passage wall. His shout breaks off inside the sudden roar. For one blinding instant, the fleeing figure is outlined in flame; then his legs give way, and he strikes the platform hard. Fire streams upward from the motionless body. Vesk is dead before he reaches the passage.
+
+Axiom's rings ease back with a series of quiet metallic clicks. Kaelith can still feel the shape of that opening through the grip, the measurement and the placement... the precise course his magic took.
+
+He _asked_ Axiom to carry a spell and for just one heartbeat it showed him how to understand its target.
+
+
+Kaelith Voryn-Shai:_Kaelith looks out at Axiom almost in awe and then a gigantic grin forms on his face as he turns back to Asha and Yraina_
+
+
+Yraina:Yraina is gobsmacked, her expression uncharacteristically slack. "Holy. Shit. Kaelith."
+
+
+Narrator:The sheer magnitude of Kaelith's eruption of magic has absolutely silenced this space otherwise.
+
+
+Sshado C. (GM):OOC: Now to finish Bastion I think
+
+OOC: Should we save it for next week?
+
+OOC: We already pushed the time
+
+
+Kaelith Voryn-Shai:OOC - I don't really think he will present a problem and may actually want to talk rather than die. So next week might be best
+
+
+Sshado C. (GM):OOC - I have the same thought yeah
+
+OOC - Asha FUCKEd him up
+
+Asha Morrow:OOC crunch crunch
+
+OOC thanks for the session yall
+
+
+Sshado C. (GM):OOC - that was I think my favorite session in quite a while
+
+OOC - I like the pacing of this local stuff.
+
+OOC - Please take 5 EXP both, in addition to anything you gained
+
+OOC - Very good in character play
+
+OOC - and I hope stuff lately has been more aligned with what you asked ofr a while back Kaelith
+
+OOC - I know you wanted to get away from the space ships and stuff for a little bit and get down an dirty
+
+
+Kaelith Voryn-Shai:OOC - It has been a good step. The ship stuff is good, but it provides less individual options
+
+
+Sshado C. (GM):OOC - agreed
+
+OOC - Let's keep working toward it, please feedback any time
+
+OOC - good night you rtwo
+
+OOC - Two*
+
+
+Kaelith Voryn-Shai:OOC - night
+
+## End state
+
+- **Exchange Nine control / surviving opposition:**
+- **Vesk / Senn / Daal:**
+- **Evidence and its holders / copies:**
+- **Senn's report: not started, stopped, or transmitted; recipients and contents:**
+- **Machinery / stock taken or disabled; repair interval begins:**
+- **Gateway / navigator / cargo vessel:**
+- **PCs / Yraina / prisoners / evacuees and destination:**
+- **Equipment changes / Axiom retrieval:**
+- **Last successful Nyrix contact / next deadline / support instructions:**
+- **Next destination and unresolved action:**
+- **EXP awarded this session:**
